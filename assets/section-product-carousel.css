@@ -1,0 +1,22 @@
+.product-carousel {
+  padding: 37px 0 55px 15px;
+}
+
+.product-carousel__actions {
+  margin-top: 20px;
+}
+
+.swiper-slide {
+  width: 311px;
+  height: auto;
+  display: flex;
+  flex-flow: column nowrap;
+  align-self: stretch;
+}
+
+@media (min-width: 990px) {
+  .product-carousel {
+    padding: 59px 0 55px 5.70vw;
+      overflow-x: hidden;
+  }
+}

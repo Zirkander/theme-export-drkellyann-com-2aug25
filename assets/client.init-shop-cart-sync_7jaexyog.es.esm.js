@@ -1,0 +1,2 @@
+import{a6 as t,j as n,af as e,a4 as o}from"./chunk.common_BimYFj3D.esm.js";function r(o){const r=new t("initShopCartSync");try{let t,r=!1;t=n.querySelector("shop-cart-sync"),t||(t=e("shop-cart-sync"),r=!0),t.setAttribute("experiments",JSON.stringify((null==o?void 0:o.experiments)||{})),r&&n.body.appendChild(t)}catch(t){t instanceof Error&&r.notify(t)}}o("initShopCartSync",r);
+//# sourceMappingURL=client.init-shop-cart-sync_7JaexYOG.es.esm.js.map

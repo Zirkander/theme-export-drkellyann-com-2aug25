@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://drkellyann.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://drkellyann.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://drkellyann.com/collections/bellabiotics.atom"/>
+  <title>Dr. Kellyann</title>
+  <updated>2021-08-09T15:51:57-04:00</updated>
+  <author>
+    <name>Dr. Kellyann</name>
+  </author>
+  <entry>
+    <id>https://drkellyann.com/products/6576500179057</id>
+    <published>2021-08-09T15:51:57-04:00</published>
+    <updated>2021-08-09T15:51:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/products/bellabiotics-refills"/>
+    <title>BellaBiotics Refills + Reorders</title>
+    <s:type>BellaBiotics</s:type>
+    <s:vendor>Dr. Kellyann</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/products/BellaBiotics_refill1bag.png?v=1679693183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr. Kellyann<br>
+        <strong>Type: </strong>BellaBiotics<br>
+        <strong>Price: </strong>
+            46.50 - 226.50
+            <a href="https://drkellyann.com/products/bellabiotics-refills">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="s-description">
+<p><b>BellaBiotics Refills + Reorders</b></p>
+</div>
+<p><span style="font-weight: 400;">We knew you were going to love the results you saw with BellaBiotics — fewer wrinkles, less skin sagging, improved digestion, and a fresh, glowing complexion!</span></p>
+<p><span style="font-weight: 400;">You probably want to keep seeing more of those fantastic results by reordering, right?</span></p>
+<p><span style="font-weight: 400;">We’ve got you covered! We’ve made it quick and easy to order BellaBiotics refill packets — available in three different quantities:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<b>30-Day Refill</b><span style="font-weight: 400;"> (includes 1 packet w/ 30 capsules)</span>
+</li>
+<li style="font-weight: 400;">
+<b>90-Day Refill</b><span style="font-weight: 400;"> (includes 3 packets w/ 90 capsules)</span>
+</li>
+<li style="font-weight: 400;">
+<b>180-Day Refill</b> <span style="font-weight: 400;">(includes 6 packets w/ 180 capsules)</span>
+</li>
+</ul>
+<p><b>Here’s an added bonus</b><span style="font-weight: 400;">: You’re getting our discounted members’ price on your refill order because you are a return customer! </span></p>
+<p><b>And remember!</b><span style="font-weight: 400;"> Hold onto your BellaBiotics jar from your first order — because all refills will be shipped to you in our air-tight, resealable refill packets. When your jar is empty, simply tear open one of the refill packets and pour contents into the jar — so each minty purple capsule will stay fresh and potent all month long.</span></p>
+<div class="s-description">
+<p><b>Want to join our BellaBiotics Subscription Plan?</b><span style="font-weight: 400;"> If you want to skip this checkout process, you can always sign up for our </span><a href="https://drkellyann.com/products/bellabiotics-placeholder-for-jar-listing?variant=39347430785137"><span style="font-weight: 400;">BellaBiotics subscription plan</span></a><span style="font-weight: 400;">. As a subscriber, your discounted refills will automatically be shipped to you on your preferred schedule — so you’ll never have to worry about running out or reordering! Simply go back to our </span><a href="https://drkellyann.com/products/bellabiotics-placeholder-for-jar-listing?variant=39347430785137"><span style="font-weight: 400;">main BellaBiotics page</span></a> <span style="font-weight: 400;">and activate </span><b>Subscribe &amp; Save </b><span style="font-weight: 400;">in your Checkout Cart! That’s it!</span></p>
+<p><b>Why do refills only come in packets? </b><span style="font-weight: 400;">Because we want to keep our planet healthy and beautiful by reducing the amounts of plastics we use in our packaging. So please reuse or recycle your BellaBiotics jar!</span></p>
+<p><strong><b>Directions + Storage:</b><span style="font-weight: 400;"> Take one capsule of BellaBiotics daily with food.</span> <span style="font-weight: 400;">Refill packets do not need to be refrigerated. We recommend storing them in a cool, dry place until needed.</span></strong></p>
+<p><!-- split --></p>
+<p><span style="font-weight: 400;"><em><strong><img height="622" width="374" src="https://cdn.shopify.com/s/files/1/0818/7575/files/Screen_Shot_2021-06-01_at_10.53.19_AM_480x480.png?v=1622570968" alt=""></strong></em></span></p>
+<br>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bella biotics</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/products/6576500179057</id>
+      <title>1 Pouch</title>
+      <s:price currency="USD">46.50</s:price>
+      <s:sku>BELLA-RF-1PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/6576500179057</id>
+      <title>2 Pouches</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>BELLA-RF-2PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/6576500179057</id>
+      <title>3 Pouches</title>
+      <s:price currency="USD">122.50</s:price>
+      <s:sku>BELLA-RF-3PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/6576500179057</id>
+      <title>6 Pouches</title>
+      <s:price currency="USD">226.50</s:price>
+      <s:sku>BELLA-RF-6PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/products/6576498212977</id>
+    <published>2021-07-15T06:39:35-04:00</published>
+    <updated>2021-07-15T06:39:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/products/bellabiotics"/>
+    <title>BellaBiotics</title>
+    <s:type>BellaBiotics</s:type>
+    <s:vendor>Dr. Kellyann</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/products/BellaBiotics.png?v=1679693118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr. Kellyann<br>
+        <strong>Type: </strong>BellaBiotics<br>
+        <strong>Price: </strong>
+            49.00 - 229.00
+            <a href="https://drkellyann.com/products/bellabiotics">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="s-description">
+<h3><strong>The Science of Beautiful Skin</strong></h3>
+</div>
+<p><span style="font-weight: 400;">BellaBiotics combines two of today’s most cutting-edge cosmetic discoveries — Dermaval® and Korean Mint — and blends them with the proven beauty-boosting benefits of clinical-grade probiotics, nutrients, and essential vitamins.</span></p>
+<p><span style="font-weight: 400;">By targeting your skin and gut microbiomes from a cellular level, BellaBiotics helps restore your skin’s elasticity, smooths out wrinkles and skin sagging, reduces blemishes, protects against ultraviolet damage from electronic devices, boosts your body’s collagen and elastin production, and even improves your digestive health — all from the inside out.</span></p>
+<p><span style="font-weight: 400;">This revolutionary once-a-day capsule literally retrains your skin’s behavior, rebuilds your foundational beauty from its core, and restores your skin’s youthful resilience and glow.</span></p>
+<div class="s-description">
+<h3><strong><em><span style="text-decoration: underline;">BellaBiotics: The Science of Beautiful Skin</span></em></strong></h3>
+<ul>
+<li><span style="font-weight: 400;">Reduces appearance of wrinkles and fine lines</span></li>
+<li><span style="font-weight: 400;">Reduces the appearance of blemishes</span></li>
+<li><span style="font-weight: 400;">Helps repair and protect against UV skin damage</span></li>
+<li>Promotes collagen and elastin production<br>
+</li>
+<li><span style="font-weight: 400;">Supports healthy gut and skin microbiomes</span></li>
+<li><span style="font-weight: 400;">Contains 30 mint-coated daily capsules</span></li>
+</ul>
+<p><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">What’s the secret? There is no secret — it’s simple science. Your skin health is directly connected to your gut health. By nourishing your gut microbiome (your internal ecosystem), you can repair and improve your skin health from the inside out, naturally. And the longer you use BellaBiotics, the more long-term beauty and digestive benefits you will experience.</span> <br></p>
+<h3><b>Beauty-Boosting Ingredients:</b></h3>
+<p><b>Clinical-Grade Probiotics</b></p>
+<p><span style="font-weight: 400;">We included two potent strains — Lactobacillus paracasei + Lactococcus lactis (12 billion CFU) — specifically for their proven digestive support and skin-hydrating, -nourishing and -repairing properties.</span></p>
+<p><b>Korean Mint</b></p>
+<p><span style="font-weight: 400;">This powerful and natural antioxidant has been shown to repair UV-induced wrinkle formations, reduce the appearance of fine lines, and keep skin plump and moisturized.</span></p>
+<p><b> </b><b>Dermaval</b><b>®</b></p>
+<p><span style="font-weight: 400;">This all-natural blend of nine plant-based antioxidants builds up your beauty proteins, promotes skin elasticity, and supports your body’s production of skin-restoring collagen and elastin.</span></p>
+<p><b> </b><b>Vitamin A</b></p>
+<p><span style="font-weight: 400;">Vitamin A has been shown to stimulate the production of new skin cells and enhance your body’s own collagen production.</span></p>
+<p><b> </b><b>Vitamin D</b></p>
+<p><span style="font-weight: 400;">Vitamin D helps protect the skin, regulate its maintenance and health, and even prevents the buildup of dead cells on skin’s surface. </span></p>
+<p><span style="font-weight: 400;"> </span><b>Vitamin E</b></p>
+<p><span style="font-weight: 400;">Vitamin E is essential for skin health and function, and constantly needs to be replenished due to depletion from UV light and sun exposure.  </span></p>
+<p><b>DIRECTIONS:</b></p>
+<p><span style="font-weight: 400;">Take one capsule daily with food.</span></p>
+<p><span style="font-weight: 400;">BellaBiotics (and refill packets) do not need to be refrigerated. However, there is no harm if you would like to keep them in a refrigerator until use. We recommend<b> storing in a cool, d</b><strong>ry</strong> place.</span></p>
+<p><b>Ordering Information:</b></p>
+<p><span>In order to keep our planet healthy and beautiful, we are cutting down on the use of plastic materials whenever possible. With this in mind:</span></p>
+<ul>
+<li>
+<span>When you order a </span><b>1-month supply</b><span> of BellaBiotics, you will receive our beautiful collector’s jar filled with </span><b>30 capsules.</b>
+</li>
+<li>
+<span>When you order a </span><b>3-month supply</b><span>, you will receive the collector’s jar (with 30 capsules) along with two refill packets (30 capsules each) for a total of </span><b>90 capsules</b><span>.</span>
+</li>
+<li>
+<span>When you order a </span><b>6-month supply</b><span>, you will receive the collector’s jar (with 30 capsules) plus five refill packets (30 capsules each) for a total of </span><b>180 capsules</b><span>.</span>
+</li>
+</ul>
+<p><b>Feed the jar!</b><span> Once your BellaBiotics jar is empty, </span><span>don’t throw it away</span><span>. Simply open one of the air-tight refill packets, pour contents into the jar, and keep sealed until you’re ready to use. This way, we’re all doing our part to protect our planet!</span></p>
+<p><span>Sign up for our subscription option to ensure you never run out! </span>All subsequent BellaBiotics orders will be delivered as refill packets.</p>
+<p> </p>
+<div>
+<div>✝<em>These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</em>
+</div>
+</div>
+<p> </p>
+<p><!-- split --></p>
+<p><span style="font-weight: 400;"><em><strong><img height="622" width="374" src="https://cdn.shopify.com/s/files/1/0818/7575/files/Screen_Shot_2021-06-01_at_10.53.19_AM_480x480.png?v=1622570968" alt=""></strong></em></span></p>
+<br>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge:back in stock</s:tag>
+    <s:tag>bella biotics</s:tag>
+    <s:tag>bestseller</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/products/6576498212977</id>
+      <title>1 Month</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>BELLA-1JAR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/6576498212977</id>
+      <title>2 Months</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>BELLA-1JAR-1PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/6576498212977</id>
+      <title>3 Months</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>BELLA-1JAR-2PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/6576498212977</id>
+      <title>6 Months</title>
+      <s:price currency="USD">229.00</s:price>
+      <s:sku>BELLA-1JAR-5PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

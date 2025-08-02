@@ -1,0 +1,35 @@
+.slider-actions {
+  display: inline-flex;
+  align-items: center;
+}
+
+.swiper-scrollbar {
+  height: 4px;
+  min-width: 190px;
+  margin-right: 60px;
+}
+
+.slider-actions .swiper-button-prev,
+.slider-actions .swiper-button-next {
+  color: inherit;
+  margin-top: 0;
+  position: static;
+  z-index: 0;
+}
+
+.slider-actions .swiper-button-prev:after,
+.slider-actions .swiper-button-next:after {
+  display: none;
+}
+
+.swiper-button-disabled {
+  background: transparent;
+}
+
+.swiper-pagination-fraction {
+  font-size: 16px;
+  font-weight: 600;
+  margin-inline: -3px;
+  position: static;
+  z-index: 0;
+}

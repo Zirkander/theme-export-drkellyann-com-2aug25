@@ -1,0 +1,21 @@
+.icon {
+  color: var(--ink);
+  display: inline-block;
+}
+
+.icon__image {
+  width: 73px;
+  height: auto;
+}
+
+.icon__image img,
+.icon__image svg {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.icon__text {
+  font-size: 16px;
+  text-transform: uppercase;
+}

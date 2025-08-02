@@ -1,0 +1,23 @@
+
+<div class="product-template">
+  <div class="product-images">
+    {% for image in product.images %}
+      <img src="{{ image | img_url: 'master' }}" alt="{{ product.title }}">
+    {% endfor %}
+  </div>
+  
+  <div class="product-details">
+    <h1>{{ product.title }}</h1>
+    <div class="product-price">{{ product.price | money }}</div>
+    <div class="product-description">{{ product.description }}</div>
+    
+    <form action="/cart/add" method="post">
+      <select name="id">
+        {% for variant in product.variants %}
+          <option value="{{ variant.id }}">{{ variant.title }}</option>
+        {% endfor %}
+      </select>
+      <button type="submit">Add to Cart</button>
+    </form>
+  </div>
+</div>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="fr" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://drkellyann.com/fr/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://drkellyann.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://drkellyann.com/fr/collections/health-management.atom"/>
+  <title>Dr. Kellyann</title>
+  <updated>2025-06-12T09:45:30-04:00</updated>
+  <author>
+    <name>Dr. Kellyann</name>
+  </author>
+  <entry>
+    <id>https://drkellyann.com/fr/products/7382640820337</id>
+    <published>2025-06-12T09:45:30-04:00</published>
+    <updated>2025-06-12T09:45:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/fr/products/liquid-gold"/>
+    <title>Harmony Liquid Gold</title>
+    <s:type>Hormonal</s:type>
+    <s:vendor>Dr. Kellyann</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/files/harmonyliquid_09.jpg?v=1752022546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Dr. Kellyann<br>
+        <strong>Type : </strong>Hormonal<br>
+        <strong>Prix : </strong>
+            45.00 - 124.20
+            <a href="https://drkellyann.com/fr/products/liquid-gold">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge:new</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/fr/products/7382640820337</id>
+      <title>1 Bottle</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>DKAHARLQGD01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/fr/products/7382640820337</id>
+      <title>2 Bottles</title>
+      <s:price currency="USD">85.50</s:price>
+      <s:sku>DKAHARLQGD02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/fr/products/7382640820337</id>
+      <title>3 Bottles</title>
+      <s:price currency="USD">124.20</s:price>
+      <s:sku>DKAHARLQGD03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/fr/products/7003758624881</id>
+    <published>2024-03-25T15:17:49-04:00</published>
+    <updated>2024-03-25T15:17:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/fr/products/harmony-liquid-daily-multivitamin"/>
+    <title>Harmony Liquid Daily Multivitamin</title>
+    <s:type>Hormonal</s:type>
+    <s:vendor>Dr. Kellyann</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/files/DKA_LMV_04_1x1_498af1cf-a971-464d-ae45-49f00c58fe98.jpg?v=1711395659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Dr. Kellyann<br>
+        <strong>Type : </strong>Hormonal<br>
+        <strong>Prix : </strong>
+            45.00 - 124.20
+            <a href="https://drkellyann.com/fr/products/harmony-liquid-daily-multivitamin">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge:new</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/fr/products/7003758624881</id>
+      <title>1 Bottle</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>DKAHARLQMV01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/fr/products/7003758624881</id>
+      <title>2 Bottles</title>
+      <s:price currency="USD">85.50</s:price>
+      <s:sku>DKAHARLQMV02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/fr/products/7003758624881</id>
+      <title>3 Bottles</title>
+      <s:price currency="USD">124.20</s:price>
+      <s:sku>DKAHARLQMV03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/fr/products/6952041644145</id>
+    <published>2024-01-08T14:29:44-05:00</published>
+    <updated>2024-01-08T14:29:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/fr/products/harmony-probiotic-weight-management"/>
+    <title>Harmony Probiotic Weight Management</title>
+    <s:type>Nutrition Drinks &amp; Shakes</s:type>
+    <s:vendor>DISK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/files/DKA_Harmony_WM_rollover_6c92b55f-b83e-47e8-b90a-785091ccb6a8.png?v=1704740259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>DISK<br>
+        <strong>Type : </strong>Nutrition Drinks &amp; Shakes<br>
+        <strong>Prix : </strong>
+            39.00 - 217.62
+            <a href="https://drkellyann.com/fr/products/harmony-probiotic-weight-management">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">This revolutionary capsule is formulated with 14 powerful probiotic strains, a potent blend of B vitamins, and an herbal prebiotic — all to help balance your gut microbiome and promote visceral fat reduction while helping to reduce those unwanted inches around your waist and your hips.</span></p>
+<p> </p>
+<p> </p>
+<p><span style="font-weight: 400;">*Results will vary based on starting point and commitment to plan. Extreme results are not typical and may require extended time on plan. Featured customers are compensated for their time, their results are real. To maintain weight loss, exercise and a proper diet are required.</span></p>
+<div class="s-description">
+<div></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#generalfunnel</s:tag>
+    <s:tag>badge:new</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>non-gmo</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/fr/products/6952041644145</id>
+      <title>1 Box</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>DKAHARWMGT01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/fr/products/6952041644145</id>
+      <title>3 Boxes</title>
+      <s:price currency="USD">111.15</s:price>
+      <s:sku>DKAHARWMGT03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/fr/products/6952041644145</id>
+      <title>6 Boxes</title>
+      <s:price currency="USD">217.62</s:price>
+      <s:sku>DKAHARWMGT06</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/fr/products/6865664934001</id>
+    <published>2023-12-15T12:23:23-05:00</published>
+    <updated>2023-12-15T12:23:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/fr/products/harmony-womens-multivitamin"/>
+    <title>Collagen Refroidisseur - Crème Orange</title>
+    <s:type>Daily Divine Gummies</s:type>
+    <s:vendor>Dr. Kellyann</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/files/HarmonyGummies_Packshot_1.jpg?v=1724952992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Dr. Kellyann<br>
+        <strong>Type : </strong>Daily Divine Gummies<br>
+        <strong>Prix : </strong>
+            35.00 - 172.00
+            <a href="https://drkellyann.com/fr/products/harmony-womens-multivitamin">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span>Refroidisseur de collagène</span></strong></p>
+<p><span>Parce que je crois si fortement pour compléter le collagène en déclin de votre corps, je voulais créer un moyen délicieux et propre d'augmenter vos niveaux de collagène. Mon refroidisseur de collagène à la crème orange n'est pas seulement savoureux, mais il est également fait à partir d'ingrédients simples et propres.</span></p>
+<p><strong><span>Ingrédients simples pour la santé pure</span></strong></p>
+<ul>
+<li>
+<span></span> <span>Fibre prébiotique de la racine de chicorée</span>
+</li>
+<li>
+<span></span> <span>Lait de coco</span>
+</li>
+<li>
+<span></span> <span>Sel de mer</span>
+</li>
+<li>
+<span></span> <span>Triglycérides à chaîne moyenne</span>
+</li>
+<li>
+<span></span> <span>Œuf séché blanc</span>
+</li>
+</ul>
+<p><strong><span>Nix tes enveloppes de dent sucrées</span></strong></p>
+<p><span>La meilleure partie de mon refroidisseur de collagène? Il a le goût de la crème orange de votre enfance sans calories et ajouté du sucre! En fait, j'ai sucrédé mon glacier de collagène avec extrait de fruits de moine, ce qui est jusqu'à 200 fois plus sucré que le sucre, pour vous aider à satisfaire vos envies de dents sucrées sans nuire à votre intestin. De plus, vous n'obtiendrez pas les calories ajoutées du sucre, ce qui en fait une alternative parfaite pour les jours où vous voulez juste un plaisir coupable sans la culpabilité!</span></p>
+<p><strong><span>Obtenez des avantages supplémentaires avec le régime de bouillon d'os</span></strong></p>
+<p><span>Si vous suivez mon régime de bouillon d'os, vous pouvez mélanger mon refroidisseur de collagène avec de la noix de coco ou du lait d'amande et de vos fruits et légumes préférés à utiliser comme remplacement de repas. Une fois que vous êtes sur mon plan de maintenance 80/20, mélangez le refroidisseur de collagène avec de l'eau et de la glace pour une collation satisfaisante pour vous aider à vous sentir plus complète.</span></p>
+<p><strong><span>Comment commander</span></strong></p>
+<p><span>Commander votre refroidisseur de collagène à la crème orange est facile. Choisissez le nombre de boîtes que vous souhaitez que chaque boîte contient sept paquets pré-mesurés et les ajoutez à votre panier.</span></p>
+<p><span>Si vous aimez ces boissons autant que moi, vous pouvez économiser 10% supplémentaires sur chaque commande en choisissant l'option Subscribe - vous recevrez automatiquement une nouvelle envoi à l'intervalle de votre choix!</span></p>
+<p> </p>
+<p><span style="font-size: xx-small;" size="1" data-mce-style="font-size: xx-small;">AVERTISSEMENT DE LA CALIFORNIE PROP 65</span></p>
+<p><span style="font-size: xx-small;" size="1" data-mce-style="font-size: xx-small;"><meta charset="utf-8"> <img alt="" src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461" data-mce-src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461" data-mce-fragment="1">AVERTISSEMENT: Consommer le bouillon d'os dans ce produit peut vous exposer aux produits chimiques, y compris les plomb qui sont connus de l'État de Californie pour provoquer un cancer et des défauts de naissance ou d'autres préjudice de reproduction. Pour plus d'informations, allez à<span> </span><a href="http://www.p65warnings.ca.gov/products/food" target="_blank">p65warnings.ca.gov/products/food</a>.</span></p>
+<p><span><!-- split --><img alt="" src="//cdn.shopify.com/s/files/1/0818/7575/products/DKA_OrangeCooler_NFP_90e789ef-f0d6-4094-a306-248df3d00937_large.jpg?v=1565796138"><img src="https://cdn.shopify.com/s/files/1/0818/7575/products/DKA_OrangeCooler_NFP_5b892110-6f1f-4d80-a568-64bf8320667b_480x480.jpg?v=1591299234" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0818/7575/products/DKA_OrangeCooler_NFP_5b892110-6f1f-4d80-a568-64bf8320667b_480x480.jpg?v=1591299234"></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-enabled</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/fr/products/6865664934001</id>
+      <title>3 boîtes</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>GUMULTIVDKA01</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/fr/products/6865664934001</id>
+      <title>5 boîtes</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>GUMULTIVDKA03</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/fr/products/6865664934001</id>
+      <title>10 boîtes</title>
+      <s:price currency="USD">172.00</s:price>
+      <s:sku>GUMULTIVDKA06</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

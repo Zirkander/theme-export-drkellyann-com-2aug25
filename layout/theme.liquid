@@ -1,0 +1,42 @@
+
+<!doctype html>
+<html lang="{{ request.locale.iso_code }}">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  
+  <title>
+    {%- if template == 'index' -%}
+      {{ shop.name }}
+    {%- elsif template == 'product' -%}
+      {{ product.title }} - {{ shop.name }}
+    {%- elsif template == 'collection' -%}
+      {{ collection.title }} - {{ shop.name }}
+    {%- else -%}
+      {{ page_title }} - {{ shop.name }}
+    {%- endif -%}
+  </title>
+  
+  {{ content_for_header }}
+  
+  {{ 'application.css' | asset_url | stylesheet_tag }}
+  
+  <script>
+    window.theme = {
+      settings: {{ settings | json }}
+    };
+  </script>
+</head>
+<body class="template-{{ template | replace: '.', '-' | handle }}">
+  {% include 'header' %}
+  
+  <main role="main" id="MainContent">
+    {{ content_for_layout }}
+  </main>
+  
+  {% include 'footer' %}
+  
+  {{ 'application.js' | asset_url | script_tag }}
+</body>
+</html>

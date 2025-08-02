@@ -1,0 +1,1294 @@
+.strike-through {
+  text-decoration: line-through;
+}
+
+.loop-display-none {
+  display: none !important;
+}
+
+.loop-widget-container {
+  min-width: min-content;
+}
+
+/* ******** Product Widget Variables ****** */
+:root {
+  /* Purchase Options Label */
+  --loop-widget-purchase-options-label-color: #000;
+  --loop-widget-purchase-options-label-line-height: 1.1em;
+  --loop-widget-purchase-options-label-font-size: 1.1em;
+  --loop-widget-purchase-options-label-font-weight: 500;
+  --loop-widget-purchase-options-label-font-style: 'unset';
+  --loop-widget-purchase-options-label-margin: 7px 0;
+  --loop-widget-purchase-options-label-padding: 0;
+  --loop-widget-purchase-options-label-text-transform: 'none';
+
+  /* Widget Container */
+  --loop-widget-purchase-options-container-background-color: transparent;
+  --loop-widget-purchase-options-container-border-width: 1px;
+  --loop-widget-purchase-options-container-border-color: transparent;
+  --loop-widget-purchase-options-container-border-radius: 8px;
+  --loop-widget-purchase-options-container-margin: 0 0;
+  --loop-widget-purchase-options-container-padding: 0px 0px 0px 0px;
+
+  /* Selling Plan Group Radio */
+  --loop-widget-purchase-option-radio-accent-color: #000000;
+  --loop-widget-purchase-option-radio-width: 1.3em;
+  --loop-widget-purchase-option-radio-height: 1.3em;
+  --loop-widget-purchase-option-radio-hover-accent-color: #808080;
+
+  /* Selling Plan Group (Selected) */
+  --loop-widget-purchase-option-selected-background-color: #fff;
+  --loop-widget-purchase-option-selected-border-color: #3d3d3d;
+
+  /* Selling Plan Group Container */
+  --loop-widget-purchase-option-background-color: #fff;
+  --loop-widget-purchase-option-border-width: 1px;
+  --loop-widget-purchase-option-border-color: #c3cfd9;
+  --loop-widget-purchase-option-border-radius: 8px;
+  --loop-widget-purchase-option-margin: 0px;
+  --loop-widget-purchase-option-padding: 1.1em;
+
+  /* Selling Plan Group Label */
+  --loop-widget-purchase-option-label-color: #000;
+  --loop-widget-purchase-option-label-line-height: 1.2em;
+  --loop-widget-purchase-option-label-font-size: 1em;
+  --loop-widget-purchase-option-label-font-weight: 500;
+  --loop-widget-purchase-option-label-font-style: 'unset';
+  --loop-widget-purchase-option-label-margin: 0 1em 0 0;
+  --loop-widget-purchase-option-label-padding: 0px 0px 0px 0px;
+  --loop-widget-purchase-option-label-text-transform: 'none';
+
+  /* Selling plan discount badge */
+  --loop-widget-purchase-option-discount-badge-color: #000;
+  --loop-widget-purchase-option-discount-badge-background-color: #f7c324;
+  --loop-widget-purchase-option-discount-badge-border-radius: 40px;
+  --loop-widget-purchase-option-discount-badge-line-height: 1em;
+  --loop-widget-purchase-option-discount-badge-font-size: 1em;
+  --loop-widget-purchase-option-discount-badge-font-weight: 'none';
+
+  /* Selling Plan Label */
+  --loop-widget-sp-selector-label-color: #333;
+  --loop-widget-sp-selector-label-line-height: 1.2em;
+  --loop-widget-sp-selector-label-font-size: 1em;
+  --loop-widget-sp-selector-label-font-weight: 500;
+  --loop-widget-sp-selector-label-font-style: 'unset';
+  --loop-widget-sp-selector-label-margin: 0.5em 1em 0.5em 0;
+  --loop-widget-sp-selector-label-padding: 0 5px;
+  --loop-widget-sp-selector-label-text-transform: 'none';
+  --loop-widget-sp-selector-label-background-color: #fff;
+
+  /* Selling Plan Label Button*/
+  --loop-widget-sp-button-selector-label-color: #333;
+  --loop-widget-sp-button-selector-label-font-size: 0.9em;
+  --loop-widget-sp-button-selector-label-font-weight: 400;
+  --loop-widget-sp-button-selector-label-font-style: 'unset';
+  --loop-widget-sp-button-selector-label-margin: 0px;
+  --loop-widget-sp-button-selector-label-padding: 0px;
+  --loop-widget-sp-button-selector-label-text-transform: 'none';
+
+  /* Selling Plan Selector */
+  --loop-widget-sp-selector-background-color: #fff;
+  --loop-widget-sp-selector-color: #000;
+  --loop-widget-sp-selector-font-size: 1em;
+  --loop-widget-sp-selector-font-weight: 500;
+  --loop-widget-sp-selector-font-style: 'unset';
+  --loop-widget-sp-selector-border-width: 1px;
+  --loop-widget-sp-selector-border-color: #C3D0D9;
+  --loop-widget-sp-selector-border-radius: 8px;
+  --loop-widget-sp-selector-margin: 6px 0px 0px 0px;
+  --loop-widget-sp-selector-padding: 10px;
+  --loop-widget-sp-selector-text-transform: "none";
+
+  /* Selling Plan Selector Button */
+  --loop-widget-sp-selector-btn-background-color: #fff;
+  --loop-widget-sp-selector-btn-color: #000;
+  --loop-widget-sp-selector-btn-font-size: 14px;
+  --loop-widget-sp-selector-btn-font-weight: 500;
+  --loop-widget-sp-selector-btn-font-style: "unset";
+  --loop-widget-sp-selector-btn-border-width: 1px;
+  --loop-widget-sp-selector-btn-border-color: #000;
+  --loop-widget-sp-selector-btn-border-radius: 8px;
+  --loop-widget-sp-selector-btn-margin: 0px 0px 0px 0px;
+  --loop-widget-sp-selector-btn-padding: 3px 10px 3px 10px;
+  --loop-widget-sp-selector-btn-text-transform: "none";
+
+  /* Selling Plan Selector Button Selected */
+  --loop-widget-sp-selector-btn-selected-background-color: #000;
+  --loop-widget-sp-selector-btn-selected-color: #fff;
+  --loop-widget-sp-selector-btn-selected-border-color: #000;
+
+  /* Selling Plan Price Label */
+  --loop-widget-purchase-option-price-color: #000;
+  --loop-widget-purchase-option-price-line-height: 1em;
+  --loop-widget-purchase-option-price-font-size: 1em;
+  --loop-widget-purchase-option-price-font-weight: 500;
+  --loop-widget-purchase-option-price-font-style: 'unset';
+  --loop-widget-purchase-option-price-margin: 0 0 0 0;
+  --loop-widget-purchase-option-price-padding: 0 0 0 0;
+  --loop-widget-purchase-option-price-text-transform: "none";
+
+  /* compare at price */
+  --loop-widget-purchase-option-compare-at-price-color: #000;
+  --loop-widget-purchase-option-compare-at-price-line-height: 1em;
+  --loop-widget-purchase-option-compare-at-price-font-size: 1em;
+  --loop-widget-purchase-option-compare-at-price-font-weight: normal;
+  --loop-widget-purchase-option-compare-at-price-font-style: 'unset';
+  --loop-widget-purchase-option-compare-at-price-margin: 0 0 0 0;
+  --loop-widget-purchase-option-compare-at-price-padding: 0 0 0 0;
+  --loop-widget-purchase-option-compare-at-price-text-transform: "none";
+  --loop-widget-purchase-option-compare-at-price-text-decoration: line-through;
+
+  /* Selling Plan Price Subtitle */
+  --loop-widget-purchase-option-each-label-color: #000;
+  --loop-widget-purchase-option-each-label-line-height: 1em;
+  --loop-widget-purchase-option-each-label-font-size: 0.8em;
+  --loop-widget-purchase-option-each-label-font-weight: 500;
+  --loop-widget-purchase-option-each-label-font-style: 'unset';
+  --loop-widget-purchase-option-each-label-margin: 0 0 0 0;
+  --loop-widget-purchase-option-each-label-padding: 0 0 0 0;
+  --loop-widget-purchase-option-each-label-text-transform: "none";
+  --loop-widget-purchase-option-each-label-opacity: 0.8;
+
+  /* Subscription details label */
+  --loop-widget-tooltip-label-color: #000;
+  --loop-widget-tooltip-label-font-size: 1em;
+  --loop-widget-tooltip-label-font-weight: 500;
+  --loop-widget-tooltip-label-font-style: "unset";
+
+  /* Subscription details popup */
+  --loop-widget-tooltip-text-background-color: #081d33;
+  --loop-widget-tooltip-text-color: #fff;
+
+  /* Selling Plan Description */
+  --loop-widget-sp-selector-description-color: #141414;
+  --loop-widget-sp-selector-description-line-height: 1.2em;
+  --loop-widget-sp-selector-description-font-size: 0.9em;
+  --loop-widget-sp-selector-description-font-weight: 400;
+  --loop-widget-sp-selector-description-font-style: 'unset';
+  --loop-widget-sp-selector-description-margin: 0.5em 0 0 0;
+  --loop-widget-sp-selector-description-padding: 0 0 0 0;
+  --loop-widget-sp-selector-description-text-transform: "none";
+  --loop-widget-sp-selector-description-opacity: 0.8;
+
+  /* svg arrow color */
+  --loop-widget-dropdown-arrow-svg-stroke-color: #000;
+  --loop-widget-dropdown-arrow-svg-height: 30px;
+  --loop-widget-dropdown-arrow-svg-width: 30px;
+
+  /* always show details height */
+  --loop-widget-always-show-details-height: 0px;
+
+
+  /* Button Group Layout styles */
+
+  /* Selling Plan Group Container */
+  --loop-w-btn-group-purchase-option-background-color: #fff;
+  --loop-w-btn-group-purchase-option-border-width: 1px;
+  --loop-w-btn-group-purchase-option-border-color: #c3cfd9;
+  --loop-w-btn-group-purchase-option-border-radius: 8px;
+  --loop-w-btn-group-purchase-option-margin: 0px 0px 0px 0px;
+  --loop-w-btn-group-purchase-option-padding: 1em;
+
+  /* Selling Plan Group Label */
+  --loop-w-btn-group-purchase-option-label-color: #000;
+  --loop-w-btn-group-purchase-option-label-line-height: 1em;
+  --loop-w-btn-group-purchase-option-label-font-size: 1em;
+  --loop-w-btn-group-purchase-option-label-font-weight: 600;
+  --loop-w-btn-group-purchase-option-label-font-style: 'unset';
+  --loop-w-btn-group-purchase-option-label-margin: 0px;
+  --loop-w-btn-group-purchase-option-label-padding: 0px 0px 0px 0px;
+  --loop-w-btn-group-purchase-option-label-text-transform: 'none';
+
+  /* Selling plan discount badge */
+  --loop-w-btn-group-purchase-option-discount-badge-color: #000;
+  --loop-w-btn-group-purchase-option-discount-badge-background-color: #f7c324;
+  --loop-w-btn-group-purchase-option-discount-badge-border-radius: 40px;
+  --loop-w-btn-group-purchase-option-discount-badge-line-height: 1em;
+  --loop-w-btn-group-purchase-option-discount-badge-font-size: 0.9em;
+  --loop-w-btn-group-purchase-option-discount-badge-font-weight: 'none';
+
+  /* Selling Plan Price Label */
+  --loop-w-btn-group-purchase-option-price-color: #000;
+  --loop-w-btn-group-purchase-option-price-line-height: 1em;
+  --loop-w-btn-group-purchase-option-price-font-size: 1.1em;
+  --loop-w-btn-group-purchase-option-price-font-weight: 500;
+  --loop-w-btn-group-purchase-option-price-font-style: 'unset';
+  --loop-w-btn-group-purchase-option-price-margin: 0 0 0 0;
+  --loop-w-btn-group-purchase-option-price-padding: 0 0 0 0;
+  --loop-w-btn-group-purchase-option-price-text-transform: "none";
+
+  /* compare at price */
+  --loop-w-btn-group-purchase-option-compare-at-price-color: #000;
+  --loop-w-btn-group-purchase-option-compare-at-price-line-height: 1em;
+  --loop-w-btn-group-purchase-option-compare-at-price-font-size: 0.9em;
+  --loop-w-btn-group-purchase-option-compare-at-price-font-weight: normal;
+  --loop-w-btn-group-purchase-option-compare-at-price-font-style: 'unset';
+  --loop-w-btn-group-purchase-option-compare-at-price-margin: 0 0 0 0;
+  --loop-w-btn-group-purchase-option-compare-at-price-padding: 0 0 0 0;
+  --loop-w-btn-group-purchase-option-compare-at-price-text-transform: "none";
+  --loop-w-btn-group-purchase-option-compare-at-price-text-decoration: line-through;
+
+  /* Description container */
+  --loop-w-btn-group-description-border-width: 1px;
+  --loop-w-btn-group-description-border-color: #c3cfd9;
+  --loop-w-btn-group-description-border-radius: 8px;
+  --loop-w-btn-group-description-margin: 10px 0 0 0;
+  --loop-w-btn-group-description-padding: 15px;
+  --loop-w-btn-group-description-background-color: #fff;
+
+  /* Description text */
+  --loop-w-btn-group-description-text-color: #141414;
+  --loop-w-btn-group-description-text-line-height: 1.2em;
+  --loop-w-btn-group-description-text-font-size: 0.9em;
+  --loop-w-btn-group-description-text-font-weight: 400;
+  --loop-w-btn-group-description-text-font-style: 'unset';
+  --loop-w-btn-group-description-text-margin: 0 0 0 0;
+  --loop-w-btn-group-description-text-padding: 0 0 0 0;
+  --loop-w-btn-group-description-text-text-transform: "none";
+  --loop-w-btn-group-description-text-opacity: 0.8;
+
+  /* Checkbox Layout styles */
+
+  /* Selling Plan Group Container */
+  --loop-w-checkbox-purchase-option-background-color: #fff;
+  --loop-w-checkbox-purchase-option-border-width: 0px;
+  --loop-w-checkbox-purchase-option-border-color: #c3cfd9;
+  --loop-w-checkbox-purchase-option-border-radius: 8px;
+  --loop-w-checkbox-purchase-option-margin: 0px 0px 0px 0px;
+  --loop-w-checkbox-purchase-option-padding: 0px;
+
+  /* Selling Plan Group checkbox */
+  --loop-widget-purchase-option-checkbox-accent-color: #000;
+  --loop-widget-purchase-option-checkbox-width: 1.3em;
+  --loop-widget-purchase-option-checkbox-height: 1.3em;
+
+    /* Selling Plan Price Label */
+  --loop-w-checkbox-purchase-option-price-color: #000;
+  --loop-w-checkbox-purchase-option-price-line-height: 1em;
+  --loop-w-checkbox-purchase-option-price-font-size: 1em;
+  --loop-w-checkbox-purchase-option-price-font-weight: 500;
+  --loop-w-checkbox-purchase-option-price-font-style: 'unset';
+  --loop-w-checkbox-purchase-option-price-margin: 0 0 0 0;
+  --loop-w-checkbox-purchase-option-price-padding: 0 0 0 0;
+  --loop-w-checkbox-purchase-option-price-text-transform: "none";
+}
+
+.loop-widget-purchase-option-border-top {
+  border-top: 1px solid #c3cfd9;
+}
+
+.loop-widget-purchase-option-border-bottom {
+  border-bottom: 1px solid #c3cfd9;
+}
+
+.loop-widget-purchase-option-header {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  gap: 15px;
+  justify-content: space-between;
+}
+
+.loop-widget-purchase-option-price-each-container {
+  text-align: right;
+  flex: 1;
+  font-weight: 600;
+}
+
+.loop-widget-spg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 2em;
+  gap: 5px;
+  /* For Firefox */
+  width: -moz-available;
+  /* For Chrome and other WebKit browsers */
+  width: -webkit-fill-available;
+  /* Standard property */
+  width: fill-available;
+}
+
+.loop-widget-blinking {
+  border: 2px dashed royalblue;
+  animation-name: blinking;
+  animation-duration: 1s;
+  animation-iteration-count: 100;
+}
+
+@keyframes blinking {
+  50% {
+    border-color: #000;
+  }
+}
+
+.loop-widget-purchase-options-label,
+.loop-w-btn-group-purchase-options-label,
+.loop-w-checkbox-purchase-options-label {
+  width: auto;
+  flex: 2;
+
+  color: var(--loop-widget-purchase-options-label-color);
+  line-height: var(--loop-widget-purchase-options-label-line-height);
+  font-size: var(--loop-widget-purchase-options-label-font-size);
+  font-weight: var(--loop-widget-purchase-options-label-font-weight);
+  font-style: var(--loop-widget-purchase-options-label-font-style);
+  margin: var(--loop-widget-purchase-options-label-margin);
+  padding: var(--loop-widget-purchase-options-label-padding);
+  text-transform: var(--loop-widget-purchase-options-label-text-transform);
+}
+
+.loop-widget-purchase-option-radio {
+  min-height: 1.3em;
+  line-height: 1.3em;
+  position: initial;
+  appearance: auto;
+  margin: 0 10px 1px 0;
+  padding: 0;
+
+  accent-color: var(--loop-widget-purchase-option-radio-accent-color);
+  width: var(--loop-widget-purchase-option-radio-width);
+  height: var(--loop-widget-purchase-option-radio-height);
+}
+
+.loop-widget-purchase-options-container {
+  flex-basis: 100%;
+  border-style: groove;
+  border: 1px solid #c3cfd9;
+
+  background-color: var(--loop-widget-purchase-options-container-background-color);
+  border-width: var(--loop-widget-purchase-options-container-border-width);
+  border-color: var(--loop-widget-purchase-options-container-border-color);
+  border-radius: var(--loop-widget-purchase-options-container-border-radius);
+  margin: var(--loop-widget-purchase-options-container-margin);
+  padding: var(--loop-widget-purchase-options-container-padding);
+
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.loop-widget-purchase-option {
+  background-color: var(--loop-widget-purchase-option-background-color);
+  border-width: var(--loop-widget-purchase-option-border-width);
+  border-color: var(--loop-widget-purchase-option-border-color);
+  border-radius: var(--loop-widget-purchase-option-border-radius);
+  margin: var(--loop-widget-purchase-option-margin);
+  padding: var(--loop-widget-purchase-option-padding);
+
+  border-style: solid;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 7px;
+}
+
+.loop-widget-purchase-option-label {
+  width: auto;
+  flex: 2;
+
+  color: var(--loop-widget-purchase-option-label-color);
+  line-height: var(--loop-widget-purchase-option-label-line-height);
+  font-size: var(--loop-widget-purchase-option-label-font-size);
+  font-weight: var(--loop-widget-purchase-option-label-font-weight);
+  font-style: var(--loop-widget-purchase-option-label-font-style);
+  margin: var(--loop-widget-purchase-option-label-margin);
+  padding: var(--loop-widget-purchase-option-label-padding);
+  text-transform: var(--loop-widget-purchase-option-label-text-transform);
+}
+
+.loop-widget-sp-selector-label-as-text {
+  color: var(--loop-widget-sp-selector-label-color);
+  line-height: var(--loop-widget-sp-selector-label-line-height);
+  font-size: var(--loop-widget-sp-selector-label-font-size);
+  font-weight: var(--loop-widget-sp-selector-label-font-weight);
+  font-style: var(--loop-widget-sp-selector-label-font-style);
+  margin: var(--loop-widget-sp-selector-label-margin);
+  padding: var(--loop-widget-sp-selector-label-padding);
+  text-transform: var(--loop-widget-sp-selector-label-text-transform);
+  background-color: var(--loop-widget-sp-selector-label-background-color);
+}
+
+.loop-widget-sp-selector-btn-label-as-text {
+  color: var(--loop-widget-sp-button-selector-label-color);
+  font-size: var(--loop-widget-sp-button-selector-label-font-size);
+  font-weight: var(--loop-widget-sp-button-selector-label-font-weight);
+  font-style: var(--loop-widget-sp-button-selector-label-font-style);
+  margin: var(--loop-widget-sp-button-selector-label-margin);
+  padding: var(--loop-widget-sp-button-selector-label-padding);
+  text-transform: var(--loop-widget-sp-button-selector-label-text-transform);
+}
+
+.loop-widget-sp-selector-label {
+  width: auto;
+
+  position: absolute;
+  top: -0.7em;
+  left: 0.4em;
+  z-index: 1;
+
+  color: var(--loop-widget-sp-selector-label-color);
+  line-height: var(--loop-widget-sp-selector-label-line-height);
+  font-size: var(--loop-widget-sp-selector-label-font-size);
+  font-weight: var(--loop-widget-sp-selector-label-font-weight);
+  font-style: var(--loop-widget-sp-selector-label-font-style);
+  margin: var(--loop-widget-sp-selector-label-margin);
+  padding: var(--loop-widget-sp-selector-label-padding);
+  text-transform: var(--loop-widget-sp-selector-label-text-transform);
+  background-color: var(--loop-widget-sp-selector-label-background-color);
+}
+
+.loop-widget-sp-button-selector-label,
+.loop-w-btn-group-sp-button-selector-label,
+.loop-w-checkbox-sp-button-selector-label {
+  color: var(--loop-widget-sp-button-selector-label-color);
+  font-size: var(--loop-widget-sp-button-selector-label-font-size);
+  font-weight: var(--loop-widget-sp-button-selector-label-font-weight);
+  font-style: var(--loop-widget-sp-button-selector-label-font-style);
+  margin: var(--loop-widget-sp-button-selector-label-margin);
+  padding: var(--loop-widget-sp-button-selector-label-padding);
+  text-transform: var(--loop-widget-sp-button-selector-label-text-transform);
+}
+
+.loop-widget-sp-button-container {
+  display: grid;
+  gap: 8px;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-auto-rows: 1fr;
+}
+
+.loop-widget-sp-button {
+  line-height: 2.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: var(--loop-widget-sp-selector-btn-background-color);
+  color: var(--loop-widget-sp-selector-btn-color);
+  font-size: var(--loop-widget-sp-selector-btn-font-size);
+  font-weight: var(--loop-widget-sp-selector-btn-font-weight);
+  font-style: var(--loop-widget-sp-selector-btn-font-style);
+  border: var(--loop-widget-sp-selector-btn-border-width) solid var(--loop-widget-sp-selector-btn-border-color);
+  border-radius: var(--loop-widget-sp-selector-btn-border-radius);
+  margin: var(--loop-widget-sp-selector-btn-margin);
+  padding: var(--loop-widget-sp-selector-btn-padding);
+  text-transform: var(--loop-widget-sp-selector-btn-text-transform);
+  cursor: pointer;
+}
+
+.loop-widget-sp-button-selected {
+  background-color: var(--loop-widget-sp-selector-btn-selected-background-color);
+  color: var(--loop-widget-sp-selector-btn-selected-color);
+  border: var(--loop-widget-sp-selector-btn-border-width) solid var(--loop-widget-sp-selector-btn-selected-border-color);
+}
+
+.loop-widget-purchase-option-compare-at-price {
+  color: var(--loop-widget-purchase-option-compare-at-price-color);
+  line-height: 1.3;
+  font-size: var(--loop-widget-purchase-option-compare-at-price-font-size);
+  font-weight: var(--loop-widget-purchase-option-compare-at-price-font-weight);
+  font-style: var(--loop-widget-purchase-option-compare-at-price-font-style);
+  margin: var(--loop-widget-purchase-option-compare-at-price-margin);
+  padding: var(--loop-widget-purchase-option-compare-at-price-padding);
+  text-transform: var(--loop-widget-purchase-option-compare-at-price-text-transform);
+  text-decoration: var(--loop-widget-purchase-option-compare-at-price-text-decoration);
+}
+
+.loop-widget-purchase-option-price {
+  color: var(--loop-widget-purchase-option-price-color);
+  line-height: var(--loop-widget-purchase-option-price-line-height);
+  font-size: var(--loop-widget-purchase-option-price-font-size);
+  font-weight: var(--loop-widget-purchase-option-price-font-weight);
+  font-style: var(--loop-widget-purchase-option-price-font-style);
+  margin: var(--loop-widget-purchase-option-price-margin);
+  padding: var(--loop-widget-purchase-option-price-padding);
+  text-transform: var(--loop-widget-purchase-option-price-text-transform);
+}
+
+.loop-widget-purchase-option-each-label,
+.loop-w-btn-group-purchase-option-each-label,
+.loop-w-checkbox-purchase-option-each-label {
+  color: var(--loop-widget-purchase-option-each-label-color);
+  line-height: var(--loop-widget-purchase-option-each-label-line-height);
+  font-size: var(--loop-widget-purchase-option-each-label-font-size);
+  font-weight: var(--loop-widget-purchase-option-each-label-font-weight);
+  font-style: var(--loop-widget-purchase-option-each-label-font-style);
+  margin: var(--loop-widget-purchase-option-each-label-margin);
+  padding: var(--loop-widget-purchase-option-each-label-padding);
+  text-transform: var(--loop-widget-purchase-option-each-label-text-transform);
+  opacity: var(--loop-widget-purchase-option-each-label-opacity);
+}
+
+.loop-widget-purchase-option-total-prepaid-price {
+  color: var(--loop-widget-purchase-option-each-label-color);
+  line-height: var(--loop-widget-purchase-option-each-label-line-height);
+  font-size: var(--loop-widget-purchase-option-each-label-font-size);
+  font-weight: var(--loop-widget-purchase-option-each-label-font-weight);
+  font-style: var(--loop-widget-purchase-option-each-label-font-style);
+  margin: var(--loop-widget-purchase-option-each-label-margin);
+  padding: var(--loop-widget-purchase-option-each-label-padding);
+  text-transform: var(--loop-widget-purchase-option-each-label-text-transform);
+  opacity: var(--loop-widget-purchase-option-each-label-opacity);
+  padding-top: 5px;
+}
+
+.loop-widget-sp-selector-description {
+  color: var(--loop-widget-sp-selector-description-color);
+  line-height: var(--loop-widget-sp-selector-description-line-height);
+  font-size: var(--loop-widget-sp-selector-description-font-size);
+  font-weight: var(--loop-widget-sp-selector-description-font-weight);
+  font-style: var(--loop-widget-sp-selector-description-font-style);
+  margin: var(--loop-widget-sp-selector-description-margin);
+  padding: var(--loop-widget-sp-selector-description-padding);
+  text-transform: var(--loop-widget-sp-selector-description-text-transform);
+  opacity: var(--loop-widget-sp-selector-description-opacity);
+
+  width: 100%;
+}
+
+.loop-widget-purchase-option-description-container {
+  display: flex;
+  align-items: flex-start;
+}
+
+.loop-widget-onetime-purchase-option-description-text {
+  color: var(--loop-widget-sp-selector-description-color);
+  font-size: var(--loop-widget-sp-selector-description-font-size);
+  font-weight: var(--loop-widget-sp-selector-description-font-weight);
+  font-style: var(--loop-widget-sp-selector-description-font-style);
+  text-transform: var(--loop-widget-sp-selector-description-text-transform);
+  opacity: var(--loop-widget-sp-selector-description-opacity);
+  width: 100%;
+}
+
+.loop-widget-purchase-option-discount-badge {
+  padding: 0.3em 0.8em;
+  display: flex;
+  justify-content: center;
+  width: max-content;
+
+  color: var(--loop-widget-purchase-option-discount-badge-color);
+  background-color: var(--loop-widget-purchase-option-discount-badge-background-color);
+  border-radius: var(--loop-widget-purchase-option-discount-badge-border-radius);
+  line-height: var(--loop-widget-purchase-option-discount-badge-line-height);
+  font-size: var(--loop-widget-purchase-option-discount-badge-font-size);
+  font-weight: var(--loop-widget-purchase-option-discount-badge-font-weight);
+}
+
+.loop-widget-spg-label-discount-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.loop-widget-sp-selector-wrapper {
+  display: flex;
+  -moz-box-align: center;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: flex-start;
+  gap: 5px;
+  position: relative;
+  width: 100%;
+}
+
+.loop-widget-sp-selector-description-wrapper {
+  display: flex;
+  align-items: center;
+  text-align: left;
+}
+
+.loop-widget-sp-button-selector-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  width: 100%;
+}
+
+.loop-widget-sp-selector {
+  width: 100%;
+  display: block;
+
+  box-sizing: border-box;
+  /* background-image: linear-gradient(45deg, transparent 50%, gray 50%),
+    linear-gradient(135deg, gray 50%, transparent 50%); */
+  background-position: calc(100% - 15px) calc(1em), calc(100% - 10px) calc(1em);
+  background-size: 5px 5px, 5px 5px;
+  background-repeat: no-repeat;
+  padding-right: 2.5em;
+  outline: 0;
+  cursor: pointer;
+  transition: border-color 0.3s, box-shadow 0.3s;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+
+  background-color: var(--loop-widget-sp-selector-background-color);
+  color: var(--loop-widget-sp-selector-color);
+  font-size: var(--loop-widget-sp-selector-font-size);
+  font-weight: var(--loop-widget-sp-selector-font-weight);
+  font-style: var(--loop-widget-sp-selector-font-style);
+  border-width: var(--loop-widget-sp-selector-border-width);
+  border-color: var(--loop-widget-sp-selector-border-color);
+  border-radius: var(--loop-widget-sp-selector-border-radius);
+  margin: var(--loop-widget-sp-selector-margin);
+  padding: var(--loop-widget-sp-selector-padding);
+  text-transform: var(--loop-widget-sp-selector-text-transform);
+}
+
+.loop-widget-sp-selector:focus {
+  /* background-image: linear-gradient(45deg, green 50%, transparent 50%),
+    linear-gradient(135deg, transparent 50%, green 50%),
+    linear-gradient(to right, #ccc, #ccc); */
+  background-position: calc(100% - 15px) 1em, calc(100% - 20px) 1em,
+    calc(100% - 2.5em) 0.5em;
+  background-size: 5px 5px, 5px 5px, 0px 1.5em;
+  background-repeat: no-repeat;
+  border-color: #000;
+  outline: 0;
+}
+
+.loop-widget-sp-selector:-moz-focusring {
+  color: transparent;
+  text-shadow: 0 0 0 #000;
+}
+
+.loop-widget-sp-selector-container {
+  position: relative;
+  width: 100%;
+}
+
+.loop-widget-sp-selector-container::after {
+  content: "";
+  position: absolute;
+  top: 57%;
+  right: 10px;
+  transform: translateY(-50%);
+  width: var(--loop-widget-dropdown-arrow-svg-width);
+  height: var(--loop-widget-dropdown-arrow-svg-height);
+  background-size: contain;
+  background-repeat: no-repeat;
+  pointer-events: none;
+}
+
+.loop-widget-sp-selector:focus-visible {
+  box-shadow: none !important;
+  background-image: none !important;
+}
+
+/* tooltip classes */
+.loop-widget-tooltip-label {
+  color: var(--loop-widget-tooltip-label-color);
+  font-size: var(--loop-widget-tooltip-label-font-size);
+  font-weight: var(--loop-widget-tooltip-label-font-weight);
+  font-style: var(--loop-widget-tooltip-label-font-style);
+
+  display: flex;
+}
+
+.loop-widget-tooltip-container,
+.loop-w-btn-group-tooltip-container,
+.loop-w-checkbox-tooltip-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin-top: 5px;
+}
+
+.loop-widget-tooltip-header {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  margin-bottom: -1em;
+  padding-bottom: 1em;
+}
+
+.loop-widget-tooltip-text {
+  background-color: var(--loop-widget-tooltip-text-background-color);
+  color: var(--loop-widget-tooltip-text-color);
+
+  flex-wrap: wrap;
+  display: flex;
+  visibility: hidden;
+  opacity: 0;
+  width: 100%;
+  text-align: left;
+  border-radius: 6px;
+  padding: 1em;
+  margin-top: 10px;
+  position: absolute;
+  z-index: 9999;
+  top: 100%;
+  left: 0%;
+  transition: opacity 0.3s ease-in-out, visibility 0.3s ease-in-out;
+  pointer-events: none;
+}
+
+.loop-widget-tooltip-header:hover~.loop-widget-tooltip-text {
+  visibility: visible;
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.loop-widget-tooltip-image {
+  display: flex;
+  /* height: 23px;
+  width: 10px;
+  margin-right: 12px;
+  margin-bottom: 5px; */
+}
+
+.loop-widget-container-arrow {
+  display: block !important;
+  height: 16px;
+  width: 16px;
+  background-color: #081d33;
+  position: absolute;
+  left: 32px;
+  top: 0px;
+  border-left: 1px solid rgba(0, 0, 0, 0.3);
+  border-top: 1px solid rgba(0, 0, 0, 0.3);
+  transform: translate(50%, -50%) rotate(45deg);
+}
+
+/* tooltip classes */
+
+.loop-widget-purchase-option-price-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 5px;
+  flex-wrap: wrap;
+}
+
+/* loop widget skeleton loader */
+.loop-widget-skeleton-container .skeleton-box {
+  background: linear-gradient(90deg, #e0e0e0 25%, #f0f0f0 50%, #e0e0e0 75%);
+  background-size: 200% 100%;
+  animation: skeleton-loading 1.5s infinite;
+  border-radius: 4px;
+  margin: 4px 0;
+  display: inline-block;
+  height: 16px;
+}
+
+@keyframes skeleton-loading {
+  0% {
+    background-position: 200% 0;
+  }
+
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+.loop-widget-skeleton-radio-placeholder {
+  width: 16px;
+  border-radius: 50%;
+}
+
+.loop-widget-skeleton-label-placeholder {
+  width: 120px;
+  margin-left: 8px;
+}
+
+.loop-widget-skeleton-discount-badge-placeholder {
+  width: 40px;
+  margin-left: 8px;
+  border-radius: 10px;
+}
+
+.loop-widget-skeleton-price-placeholder {
+  width: 36px;
+  margin-left: auto;
+}
+
+.loop-widget-skeleton-selector-label-placeholder {
+  width: 80px;
+}
+
+.loop-widget-skeleton-selector-placeholder {
+  width: 120px;
+  border-radius: 4px;
+  margin-top: 8px;
+}
+
+.loop-widget-skeleton-description-placeholder {
+  width: 90%;
+  margin-top: 8px;
+}
+
+.loop-widget-skeleton-purchase-options-container {
+  padding: 8px;
+}
+
+.loop-widget-skeleton-purchase-option {
+  padding: 12px;
+  border: 1px solid #e0e0e0;
+  margin-bottom: 8px;
+  border-radius: 4px;
+}
+
+.loop-widget-skeleton-purchase-option-border-top {
+  border-top: 1px solid #e0e0e0;
+}
+
+.loop-widget-skeleton-purchase-option-header {
+  display: flex;
+  align-items: center;
+}
+
+.loop-widget-skeleton-spg-label-discount-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.loop-widget-skeleton-purchase-option-price-container {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.loop-widget-skeleton-spg-container {
+  padding-top: 8px;
+}
+
+/* loop widget skeleton loader */
+
+
+/* Button Group Layout starts */
+.loop-w-btn-group-purchase-options-container {
+  flex-basis: 100%;
+  border-style: groove;
+  border: 1px solid #c3cfd9;
+
+  background-color: var(--loop-widget-purchase-options-container-background-color);
+  border-width: var(--loop-widget-purchase-options-container-border-width);
+  border-color: var(--loop-widget-purchase-options-container-border-color);
+  border-radius: var(--loop-widget-purchase-options-container-border-radius);
+  margin: var(--loop-widget-purchase-options-container-margin);
+  padding: var(--loop-widget-purchase-options-container-padding);
+
+  display: grid;
+  gap: 10px;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-rows: 1fr;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  /* grid-template-columns: 1fr 1fr; */
+}
+
+.loop-w-btn-group-purchase-option {
+  background-color: var(--loop-w-btn-group-purchase-option-background-color);
+  border-width: var(--loop-w-btn-group-purchase-option-border-width);
+  border-color: var(--loop-w-btn-group-purchase-option-border-color);
+  border-radius: var(--loop-w-btn-group-purchase-option-border-radius);
+  margin: var(--loop-w-btn-group-purchase-option-margin);
+  padding: var(--loop-w-btn-group-purchase-option-padding);
+
+  border-style: solid;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 7px;
+  cursor: pointer;
+}
+
+.loop-w-btn-group-purchase-option-price-container {
+  display: flex;
+  align-items: flex-end;
+  /* justify-content: flex-end; */
+  gap: 5px;
+  flex-wrap: wrap;
+}
+
+.loop-w-btn-group-purchase-option-compare-at-price {
+  line-height: 1;
+  color: var(--loop-w-btn-group-purchase-option-compare-at-price-color);
+  font-size: var(--loop-w-btn-group-purchase-option-compare-at-price-font-size);
+  font-weight: var(--loop-w-btn-group-purchase-option-compare-at-price-font-weight);
+  font-style: var(--loop-w-btn-group-purchase-option-compare-at-price-font-style);
+  margin: var(--loop-w-btn-group-purchase-option-compare-at-price-margin);
+  padding: var(--loop-w-btn-group-purchase-option-compare-at-price-padding);
+  text-transform: var(--loop-w-btn-group-purchase-option-compare-at-price-text-transform);
+  text-decoration: var(--loop-w-btn-group-purchase-option-compare-at-price-text-decoration);
+}
+
+.loop-w-btn-group-purchase-option-price {
+  line-height: 1;
+  color: var(--loop-w-btn-group-purchase-option-price-color);
+  line-height: var(--loop-w-btn-group-purchase-option-price-line-height);
+  font-size: var(--loop-w-btn-group-purchase-option-price-font-size);
+  font-weight: var(--loop-w-btn-group-purchase-option-price-font-weight);
+  font-style: var(--loop-w-btn-group-purchase-option-price-font-style);
+  margin: var(--loop-w-btn-group-purchase-option-price-margin);
+  padding: var(--loop-w-btn-group-purchase-option-price-padding);
+  text-transform: var(--loop-w-btn-group-purchase-option-price-text-transform);
+}
+
+.loop-w-btn-group-description-subscription,
+.loop-w-checkbox-description-subscription {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.loop-w-btn-group-sp-button-selector-wrapper,
+.loop-w-checkbox-sp-button-selector-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  width: 100%;
+}
+
+.loop-w-btn-group-purchase-option-each-label,
+.loop-w-checkbox-purchase-option-each-label {
+  text-align: right;
+  flex: 1;
+  display: flex;
+  gap: 3px;
+  align-items: flex-end;
+}
+
+.loop-w-btn-group-purchase-option-header {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+  gap: 5px;
+  flex-wrap: wrap;
+}
+
+.loop-w-btn-group-purchase-option-price-each-container,
+.loop-w-checkbox-purchase-option-price-each-container {
+  display: flex;
+  align-items: flex-end;
+  gap: 3px;
+  flex-wrap: wrap;
+}
+
+.loop-w-btn-group-purchase-option-label {
+  width: auto;
+  flex: 2;
+
+  color: var(--loop-w-btn-group-purchase-option-label-color);
+  line-height: var(--loop-w-btn-group-purchase-option-label-line-height);
+  font-size: var(--loop-w-btn-group-purchase-option-label-font-size);
+  font-weight: var(--loop-w-btn-group-purchase-option-label-font-weight);
+  font-style: var(--loop-w-btn-group-purchase-option-label-font-style);
+  margin: var(--loop-w-btn-group-purchase-option-label-margin);
+  padding: var(--loop-w-btn-group-purchase-option-label-padding);
+  text-transform: var(--loop-w-btn-group-purchase-option-label-text-transform);
+}
+
+.loop-w-btn-group-purchase-option-discount-badge {
+  padding: 0.3em 0.8em;
+  display: flex;
+  justify-content: center;
+  width: max-content;
+
+  color: var(--loop-w-btn-group-purchase-option-discount-badge-color);
+  background-color: var(--loop-w-btn-group-purchase-option-discount-badge-background-color);
+  border-radius: var(--loop-w-btn-group-purchase-option-discount-badge-border-radius);
+  line-height: var(--loop-w-btn-group-purchase-option-discount-badge-line-height);
+  font-size: var(--loop-w-btn-group-purchase-option-discount-badge-font-size);
+  font-weight: var(--loop-w-btn-group-purchase-option-discount-badge-font-weight);
+}
+
+.loop-w-btn-group-purchase-option-each-label,
+.loop-w-checkbox-purchase-option-each-label {
+  line-height: 1;
+}
+
+.loop-w-btn-group-description-container,
+.loop-w-checkbox-description-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 7px;
+  /* For Firefox */
+  width: -moz-available;
+  /* For Chrome and other WebKit browsers */
+  width: -webkit-fill-available;
+  /* Standard property */
+  width: fill-available;
+  border-radius: var(--loop-w-btn-group-description-border-radius);
+  border: var(--loop-w-btn-group-description-border-width) solid var(--loop-w-btn-group-description-border-color);
+  padding: var(--loop-w-btn-group-description-padding);
+  margin: var(--loop-w-btn-group-description-margin);
+  background-color: var(--loop-w-btn-group-description-background-color);
+}
+
+.loop-w-btn-group-purchase-option-description-text,
+.loop-w-checkbox-purchase-option-description-text {
+  color: var(--loop-w-btn-group-description-text-color);
+  line-height: var(--loop-w-btn-group-description-text-line-height);
+  font-size: var(--loop-w-btn-group-description-text-font-size);
+  font-weight: var(--loop-w-btn-group-description-text-font-weight);
+  font-style: var(--loop-w-btn-group-description-text-font-style);
+  margin: var(--loop-w-btn-group-description-text-margin);
+  padding: var(--loop-w-btn-group-description-text-padding);
+  text-transform: var(--loop-w-btn-group-description-text-text-transform);
+  opacity: var(--loop-w-btn-group-description-text-opacity);
+
+  width: 100%;
+}
+
+.loop-w-btn-group-frequency-selector-container,
+.loop-w-checkbox-frequency-selector-container {
+  width: 100%;
+}
+
+.loop-w-btn-group-sp-button-selector-label,
+.loop-w-checkbox-sp-button-selector-label {
+  line-height: 1;
+}
+
+/* Button Group Layout ends */
+
+/* Checkbox Layout starts */
+.loop-w-checkbox-purchase-options-container {
+  flex-basis: 100%;
+  border-style: groove;
+
+  background-color: var(--loop-widget-purchase-options-container-background-color);
+  border-width: var(--loop-widget-purchase-options-container-border-width);
+  border-color: var(--loop-widget-purchase-options-container-border-color);
+  border-radius: var(--loop-widget-purchase-options-container-border-radius);
+  margin: var(--loop-widget-purchase-options-container-margin);
+  padding: var(--loop-widget-purchase-options-container-padding);
+}
+
+.loop-w-checkbox-purchase-option {
+  background-color: var(--loop-w-checkbox-purchase-option-background-color);
+  border-width: var(--loop-w-checkbox-purchase-option-border-width);
+  border-color: var(--loop-w-checkbox-purchase-option-border-color);
+  border-radius: var(--loop-w-checkbox-purchase-option-border-radius);
+  margin: var(--loop-w-checkbox-purchase-option-margin);
+  padding: var(--loop-w-checkbox-purchase-option-padding);
+
+  border-style: solid;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 5px;
+  cursor: pointer;
+  flex-wrap: wrap;
+}
+
+.loop-w-checkbox-purchase-option-label {
+  width: auto;
+  flex: 2;
+
+  color: var(--loop-w-btn-group-purchase-option-label-color);
+  line-height: var(--loop-w-btn-group-purchase-option-label-line-height);
+  font-size: var(--loop-w-btn-group-purchase-option-label-font-size);
+  font-weight: var(--loop-w-btn-group-purchase-option-label-font-weight);
+  font-style: var(--loop-w-btn-group-purchase-option-label-font-style);
+  margin: var(--loop-w-btn-group-purchase-option-label-margin);
+  padding: var(--loop-w-btn-group-purchase-option-label-padding);
+  text-transform: var(--loop-w-btn-group-purchase-option-label-text-transform);
+  display: flex;
+  align-items: center;
+}
+
+.loop-w-checkbox-purchase-option-header {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.loop-w-checkbox-purchase-option-label-container {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.loop-w-purchase-option-checkbox {
+  min-height: 1.3em;
+  line-height: 1;
+  position: initial;
+  appearance: auto;
+  margin: 0;
+  padding: 0;
+
+  accent-color: var(--loop-widget-purchase-option-checkbox-accent-color);
+  width: var(--loop-widget-purchase-option-checkbox-width);
+  height: var(--loop-widget-purchase-option-checkbox-height);
+}
+
+.loop-w-checkbox-label-container {
+  display: flex;
+  /* flex-wrap: wrap; */
+  gap: 10px;
+}
+
+.loop-w-checkbox-purchase-option-price-container {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  gap: 5px;
+  flex-wrap: wrap;
+  margin-left: 25px;
+}
+
+.loop-w-checkbox-purchase-option-total-prepaid-price {
+  color: var(--loop-widget-purchase-option-each-label-color);
+  line-height: var(--loop-widget-purchase-option-each-label-line-height);
+  font-size: var(--loop-widget-purchase-option-each-label-font-size);
+  font-weight: var(--loop-widget-purchase-option-each-label-font-weight);
+  font-style: var(--loop-widget-purchase-option-each-label-font-style);
+  margin: var(--loop-widget-purchase-option-each-label-margin);
+  padding: var(--loop-widget-purchase-option-each-label-padding);
+  text-transform: var(--loop-widget-purchase-option-each-label-text-transform);
+  opacity: var(--loop-widget-purchase-option-each-label-opacity);
+  padding-top: 5px;
+  margin-left: 25px;
+}
+
+.loop-w-checkbox-purchase-option-discount-badge {
+  padding: 0.3em 0.8em;
+  display: flex;
+  justify-content: center;
+  width: max-content;
+  min-width: max-content;
+  height: max-content;
+
+  color: var(--loop-w-btn-group-purchase-option-discount-badge-color);
+  background-color: var(--loop-w-btn-group-purchase-option-discount-badge-background-color);
+  border-radius: var(--loop-w-btn-group-purchase-option-discount-badge-border-radius);
+  line-height: var(--loop-w-btn-group-purchase-option-discount-badge-line-height);
+  font-size: var(--loop-w-btn-group-purchase-option-discount-badge-font-size);
+  font-weight: var(--loop-w-btn-group-purchase-option-discount-badge-font-weight);
+}
+
+.loop-w-checkbox-purchase-option-price {
+  line-height: 1;
+  color: var(--loop-w-checkbox-purchase-option-price-color);
+  line-height: var(--loop-w-checkbox-purchase-option-price-line-height);
+  font-size: var(--loop-w-checkbox-purchase-option-price-font-size);
+  font-weight: var(--loop-w-checkbox-purchase-option-price-font-weight);
+  font-style: var(--loop-w-checkbox-purchase-option-price-font-style);
+  margin: var(--loop-w-checkbox-purchase-option-price-margin);
+  padding: var(--loop-w-checkbox-purchase-option-price-padding);
+  text-transform: var(--loop-w-checkbox-purchase-option-price-text-transform);
+}
+
+/* Checkbox Layout ends */
+
+.loop-widget-purchase-option-selected {
+  background-color: var(--loop-widget-purchase-option-selected-background-color);
+  border-color: var(--loop-widget-purchase-option-selected-border-color);
+}
+
+.loop-w-btn-group-purchase-option-selected {
+  background-color: var(--loop-widget-purchase-option-selected-background-color);
+  border-color: var(--loop-widget-purchase-option-selected-border-color);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+  transform: scale(1.01);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+}
+
+.loop-widget-left-margin-0 {
+  margin-left: 0;
+}
+
+.loop-widget-left-padding-0 {
+  padding-left: 0;
+}
+
+/* animations */
+/* purchase option */
+.loop-widget-purchase-option {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition: border-color 0.3s ease;
+}
+
+.loop-widget-purchase-option:hover {
+  transform: scale(1.002);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.5s ease, box-shadow 0.5s ease;
+}
+
+/* discount badge */
+/* @keyframes discount-wobble {
+  0% {
+    transform: rotate(-15deg);
+  }
+
+  25% {
+    transform: rotate(15deg);
+  }
+
+  50% {
+    transform: rotate(-8deg);
+  }
+
+  75% {
+    transform: rotate(8deg);
+  }
+
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+.loop-widget-purchase-option-discount-badge {
+  transition: opacity 0.5s ease, transform 0.5s ease;
+  opacity: 1;
+}
+
+.loop-widget-purchase-option-selected .loop-widget-purchase-option-discount-badge {
+  animation: discount-wobble 0.5s ease-in-out;
+} */
+
+/* radio button */
+.loop-widget-purchase-option:hover .loop-widget-purchase-option-radio {
+  transform: scale(1.2);
+  transition: transform 0.4s ease;
+}
+
+.loop-widget-purchase-option:hover .loop-widget-purchase-option-radio svg {
+  transition: stroke 0.4s ease;
+}
+
+.loop-widget-purchase-option-radio svg circle:nth-child(1) {
+  transition: stroke 0.3s;
+}
+
+.loop-widget-purchase-option-radio svg circle:nth-child(2) {
+  opacity: 0;
+  transition: opacity 0.3s, fill 0.3s;
+}
+
+.loop-widget-purchase-option:hover:not(.loop-widget-purchase-option-selected) .loop-widget-purchase-option-radio svg circle:nth-child(1) {
+  stroke: var(--loop-widget-purchase-option-radio-hover-accent-color);
+  /* Change the outer circle color on hover when not selected */
+}
+
+.loop-widget-purchase-option:hover:not(.loop-widget-purchase-option-selected) .loop-widget-purchase-option-radio svg circle:nth-child(2) {
+  fill: var(--loop-widget-purchase-option-radio-hover-accent-color);
+  /* Change to greyish color on hover when not selected */
+  opacity: 1;
+}
+
+.loop-widget-purchase-option-selected .loop-widget-purchase-option-radio svg circle:nth-child(1),
+.loop-widget-purchase-option-selected .loop-widget-purchase-option-radio svg circle:nth-child(2) {
+  stroke: var(--loop-widget-purchase-option-radio-accent-color);
+  opacity: 1;
+}
+
+/* purchase option details */
+.loop-widget-spg-container {
+  max-height: var(--loop-widget-always-show-details-height);
+  overflow: hidden;
+  transition: max-height .25s cubic-bezier(.4, 0, .2, 1), opacity .25s cubic-bezier(.4, 0, .2, 1);
+}
+
+.loop-widget-spg-container.expanded {
+  max-height: 500px;
+}

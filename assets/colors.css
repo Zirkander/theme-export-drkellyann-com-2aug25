@@ -1,0 +1,23 @@
+:root {
+  --black: #000;
+  --ink: #2C2A3B;
+  --brown: #A3593E;
+  --dark-brown: #431E00;
+  --gold: #A99468;
+  --gold-alt: #E5D3B3;
+  --white: #FFF;
+  --gray-f9: #f9f9f9;
+  --gray-f6: #F6F6F6;
+  --gray-d8: #D8D8D8;
+  --gray-d3: #D3D3D3;
+  --gray-b7: #B7B4B4;
+  --gray-a0: #A0A0A0;
+  --gray-ac: #ACACAC;
+  --gray-70: #707070;
+  --blue: #1B78B6;
+  --skin: #FEF6EB;
+  --purple: #595497;
+  --yellow: #F9CD1C;
+
+  --font-open-sans: "Open Sans", sans-serif;
+}

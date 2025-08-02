@@ -1,0 +1,2 @@
+.blog-tabs__nav{font-family:var(--font-open-sans)!important;font-size:14px;font-weight:700;line-height:2.14;text-transform:uppercase;display:flex;flex-wrap:wrap;margin-bottom:25px}.blog-tabs__nav a{color:var(--gray-ac);margin-right:.5rem}.blog-tabs__nav a.is-active{color:var(--black)}.blog-tabs__item{display:none}.blog-tabs__item.is-active{display:block}@media (min-width: 990px){.blog-tabs__nav{font-size:20px;line-height:1.5}.blog-tabs__nav a{margin-right:1.3rem}}
+/*# sourceMappingURL=/cdn/shop/t/229/assets/blog-tabs.css.map?v=74720728226086971061729697525 */

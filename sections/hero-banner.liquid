@@ -1,0 +1,53 @@
+
+{%- if section.settings.image != blank -%}
+  <div class="hero-banner" style="background-image: url({{ section.settings.image | img_url: 'master' }});">
+    <div class="hero-content">
+      <h1>{{ section.settings.heading }}</h1>
+      <p>{{ section.settings.text }}</p>
+      {%- if section.settings.button_label != blank -%}
+        <a href="{{ section.settings.button_link }}" class="button">{{ section.settings.button_label }}</a>
+      {%- endif -%}
+    </div>
+  </div>
+{%- endif -%}
+
+{% schema %}
+{
+  "name": "Hero Banner",
+  "settings": [
+    {
+      "type": "image_picker",
+      "id": "image",
+      "label": "Background image"
+    },
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "Heading",
+      "default": "Welcome to our store"
+    },
+    {
+      "type": "textarea",
+      "id": "text",
+      "label": "Text",
+      "default": "Discover our amazing products"
+    },
+    {
+      "type": "text",
+      "id": "button_label",
+      "label": "Button label"
+    },
+    {
+      "type": "url",
+      "id": "button_link",
+      "label": "Button link"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Hero Banner",
+      "category": "Image"
+    }
+  ]
+}
+{% endschema %}

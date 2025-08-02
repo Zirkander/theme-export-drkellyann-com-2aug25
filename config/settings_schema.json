@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Theme Settings",
+    "settings": [
+      {
+        "type": "header",
+        "content": "Colors"
+      },
+      {
+        "type": "color",
+        "id": "color_primary",
+        "label": "Primary color",
+        "default": "#000000"
+      },
+      {
+        "type": "color",
+        "id": "color_secondary",
+        "label": "Secondary color",
+        "default": "#666666"
+      },
+      {
+        "type": "color",
+        "id": "color_accent",
+        "label": "Accent color",
+        "default": "#0066cc"
+      },
+      {
+        "type": "header",
+        "content": "Typography"
+      },
+      {
+        "type": "font_picker",
+        "id": "font_heading",
+        "label": "Heading font",
+        "default": "helvetica_n4"
+      },
+      {
+        "type": "font_picker",
+        "id": "font_body",
+        "label": "Body font",
+        "default": "helvetica_n4"
+      },
+      {
+        "type": "header",
+        "content": "Layout"
+      },
+      {
+        "type": "range",
+        "id": "page_width",
+        "label": "Page width",
+        "min": 1000,
+        "max": 1600,
+        "step": 10,
+        "unit": "px",
+        "default": 1200
+      }
+    ]
+  }
+]

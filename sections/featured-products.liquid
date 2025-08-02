@@ -1,0 +1,52 @@
+
+<div class="featured-products">
+  <h2>{{ section.settings.title }}</h2>
+  
+  <div class="product-grid">
+    {% for block in section.blocks %}
+      {% assign product = all_products[block.settings.product] %}
+      {% if product != blank %}
+        <div class="product-item">
+          <a href="{{ product.url }}">
+            <img src="{{ product.featured_image | img_url: '300x300' }}" alt="{{ product.title }}">
+            <h3>{{ product.title }}</h3>
+            <p>{{ product.price | money }}</p>
+          </a>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Featured Products",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Title",
+      "default": "Featured Products"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "product",
+      "name": "Product",
+      "settings": [
+        {
+          "type": "product",
+          "id": "product",
+          "label": "Product"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Featured Products",
+      "category": "Product"
+    }
+  ]
+}
+{% endschema %}

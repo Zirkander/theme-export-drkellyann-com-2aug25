@@ -1,0 +1,10 @@
+{
+  "current": {
+    "color_primary": "#000000",
+    "color_secondary": "#666666",
+    "color_accent": "#0066cc",
+    "font_heading": "helvetica_n4",
+    "font_body": "helvetica_n4",
+    "page_width": 1200
+  }
+}

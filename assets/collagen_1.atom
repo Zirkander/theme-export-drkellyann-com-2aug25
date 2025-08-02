@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://drkellyann.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://drkellyann.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://drkellyann.com/collections/collagen.atom"/>
+  <title>Dr. Kellyann</title>
+  <updated>2025-07-10T10:10:32-04:00</updated>
+  <author>
+    <name>Dr. Kellyann</name>
+  </author>
+  <entry>
+    <id>https://drkellyann.com/products/7409852350577</id>
+    <published>2025-07-10T10:10:32-04:00</published>
+    <updated>2025-07-10T10:10:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/products/collagen-cooler-mango"/>
+    <title>Collagen Cooler - Mango</title>
+    <s:type></s:type>
+    <s:vendor>Dr. Kellyann</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/files/DKA_CollagenCoolers_Mango-copy.png?v=1752264459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr. Kellyann<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99 - 199.99
+            <a href="https://drkellyann.com/products/collagen-cooler-mango">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge:new</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-enabled</s:tag>
+    <s:tag>Subscription</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/products/7409852350577</id>
+      <title>1 Pack</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>CCMGDRK01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/7409852350577</id>
+      <title>3 Packs</title>
+      <s:price currency="USD">109.99</s:price>
+      <s:sku>CCMGDRK03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/7409852350577</id>
+      <title>6 Packs</title>
+      <s:price currency="USD">199.99</s:price>
+      <s:sku>CCMGDRK06</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/products/7402578706545</id>
+    <published>2025-07-10T10:10:21-04:00</published>
+    <updated>2025-07-10T10:10:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/products/collagen-cooler-orange-creamsicle"/>
+    <title>Collagen Cooler - Orange Creamsicle</title>
+    <s:type></s:type>
+    <s:vendor>Dr. Kellyann</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/files/DKA_CollagenCoolers_OrangeCreamsicle-copy.png?v=1752264417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr. Kellyann<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99 - 199.99
+            <a href="https://drkellyann.com/products/collagen-cooler-orange-creamsicle">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge:new</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-enabled</s:tag>
+    <s:tag>Subscription</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/products/7402578706545</id>
+      <title>1 Pack</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>CCCSDRK01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/7402578706545</id>
+      <title>3 Packs</title>
+      <s:price currency="USD">109.99</s:price>
+      <s:sku>CCCSDRK03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/7402578706545</id>
+      <title>6 Packs</title>
+      <s:price currency="USD">199.99</s:price>
+      <s:sku>CCCSDRK06</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/products/7409931845745</id>
+    <published>2025-07-10T10:09:39-04:00</published>
+    <updated>2025-07-10T10:09:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/products/collagen-cooler-tropical-pina-colada"/>
+    <title>Collagen Cooler - Tropical Pina Colada</title>
+    <s:type></s:type>
+    <s:vendor>Dr. Kellyann</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/files/DKA_CollagenCoolers_PinaColada-copy.png?v=1752264472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr. Kellyann<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99 - 199.99
+            <a href="https://drkellyann.com/products/collagen-cooler-tropical-pina-colada">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge:new</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-enabled</s:tag>
+    <s:tag>Subscription</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/products/7409931845745</id>
+      <title>1 Pack</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>CCPCDRK01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/7409931845745</id>
+      <title>3 Packs</title>
+      <s:price currency="USD">109.99</s:price>
+      <s:sku>CCPCDRK03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/7409931845745</id>
+      <title>6 Packs</title>
+      <s:price currency="USD">199.99</s:price>
+      <s:sku>CCPCDRK06</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/products/7382640820337</id>
+    <published>2025-06-12T09:45:30-04:00</published>
+    <updated>2025-06-12T09:45:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/products/liquid-gold"/>
+    <title>Harmony Liquid Gold</title>
+    <s:type>Hormonal</s:type>
+    <s:vendor>Dr. Kellyann</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/files/harmonyliquid_09.jpg?v=1752022546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr. Kellyann<br>
+        <strong>Type: </strong>Hormonal<br>
+        <strong>Price: </strong>
+            45.00 - 124.20
+            <a href="https://drkellyann.com/products/liquid-gold">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge:new</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/products/7382640820337</id>
+      <title>1 Bottle</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>DKAHARLQGD01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/7382640820337</id>
+      <title>2 Bottles</title>
+      <s:price currency="USD">85.50</s:price>
+      <s:sku>DKAHARLQGD02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/7382640820337</id>
+      <title>3 Bottles</title>
+      <s:price currency="USD">124.20</s:price>
+      <s:sku>DKAHARLQGD03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/products/10153165578</id>
+    <published>2021-09-20T11:07:55-04:00</published>
+    <updated>2021-09-20T11:07:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/products/collagen-shake-vanilla-almond-1"/>
+    <title>Collagen Shake - Vanilla Almond</title>
+    <s:type>Nutrition Drinks &amp; Shakes</s:type>
+    <s:vendor>DISK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/products/Collagen_Shake_Van_front.png?v=1696441160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DISK<br>
+        <strong>Type: </strong>Nutrition Drinks &amp; Shakes<br>
+        <strong>Price: </strong>
+            23.00 - 159.00
+            <a href="https://drkellyann.com/products/collagen-shake-vanilla-almond-1">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="s-title">The Super Delicious &amp; Super Good-For-You Shake
+<h2 class="s-title">Vanilla Almond Collagen Shake</h2> <div></div>
+</h2><p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">The original protein and collagen shake is back — and better than ever!</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">You heard that right! Everybody’s favorite Vanilla Almond Collagen Shake is available again, with a whole new look. But don’t let the pretty facelift fool you — it’s still made from our original health-boosting formula, with the same skin-smoothing, cell-energizing, grass-fed collagen used in my widely popular bone broths. </span></p> <div></div>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;"><div class="p65-o">These Vanilla Almond Collagen Shakes pack tons of good stuff your body needs, like essential amino acids, 15 grams of protein, and prebiotic fibers to support your gut health. Plus, they’re sweetened with Monk Fruit extract, which has no negative impact to blood sugar levels. They’re also made <span style="font-weight: 400;" data-mce-style="font-weight: 400;">without </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">any artificial or unnecessary additives, so it’s the cleanest way to give your body a healthy serving of wrinkle-blasting collagen protein whenever you want.</span>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">I formulated these shakes to make sure that even the busiest person has time for a delicious, high-impact protein shake that’ll </span><b>1)</b><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> quench the strongest hunger cravings, </span><b>2)</b><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> satisfy the sweetest sweet-tooth, </span><b>3)</b><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> help you slim down while building lean muscle, and </span><b>4)</b><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> refuel your body after a vigorous workout.</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">And if you’ve got more of a chocolate craving, try the </span><a href="https://drkellyann.com/products/collagen-shake-chocolate-almond-1?variant=40024122580" title="Chocolate Almond Collagen Shakes" target="_blank"><b>Chocolate Almond Collagen Shakes</b></a><span style="font-weight: 400;" data-mce-style="font-weight: 400;">, </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">with all the same benefits!</span></p>
+<ul>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Made with grass-fed collagen protein</span></li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Premium, non-GMO ingredients</span></li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Dairy-free + soy-free + gluten-free</span></li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Perfect with keto, paleo + weight-loss diets</span></li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">15g protein + 4g fiber + 2g fat per serving</span></li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Less than 1g sugar per serving</span></li>
+</ul>
+<h3><strong>Is the Vanilla Almond Collagen Shake Keto?</strong></h3>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">If you follow a </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">low-carb diet</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">, then you’re in luck. You can drink Dr. Kellyann’s Vanilla Almond </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Collagen</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> Shake even if you're following a strict paleo or </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">ketogenic diet</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">In fact, our </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Collagen</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> Shake is really a </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">keto protein shake</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> at its core because each shake is packed with so many nutritious ingredients, like grass-fed </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">collagen</span> <span style="font-weight: 400;" data-mce-style="font-weight: 400;">protein powder</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> (15 </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">grams of protein to be exact)</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">, tons of fiber, and healthy fats.</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Plus, our shakes have zero percent added sugar, which helps make things easy when calculating your </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">net carb</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> intake. Since they’re sweetened with delicious monk fruit extract, you can put away your </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">stevia</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">, </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Swerve</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">, or </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">erythritol</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> — our </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">sugar-free</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> shakes bring all the decadence you crave, without the extra calories.</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">The </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">keto diet</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> focuses on eating a diet low in </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">carbohydrates</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> and sugars while increasing the amounts of healthy fats and proteins you consume. By switching your diet intake in this way, you can help your body burn fat instead of </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">carbohydrates</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> for energy. </span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">It’s a process that happens in the liver, where stored fats are broken down and turned into molecules known as ketones. This is why being in this metabolic state is called being in “</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">ketosis</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">.”</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">When done in a healthy way with foods low in saturated fats, the </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">keto diet</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> can help support your metabolism and may even shrink your waistline.</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">If you’re feeling overwhelmed by the </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">keto diet</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">, let us help. You can use this </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Collagen</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> Shake as a </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">low-carb protein shake</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">, our grass-fed Bone Broth as a delicious </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">keto snack</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">, and our Super Smoothies as </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">keto meals</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">So, put away the </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">ice cubes</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">, </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">chocolate protein powder</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">, </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">heavy cream</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">, and artificial </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">sweetener</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> — Dr. Kellyann’s done the hard work for you. Simply mix up </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">this keto protein shake</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> and get on with your day!</span></p>
+<h3><strong>What’s Collagen Protein, and How Does It Work?</strong></h3>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Collagen</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> is the most abundant protein in the body. </span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Collagen</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> proteins play a major part in maintaining the infrastructure of not only our skin but also our bones, joints, ligaments, tendons, muscles, hair, and nails. In fact, </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">collagen</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> is commonly referred to as the building block, or scaffolding, of the body. </span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Unfortunately, starting at around 20 years old, our bodies stop producing as much natural </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">collagen</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> as they once did. That is why adding a </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">collagen</span> <span style="font-weight: 400;" data-mce-style="font-weight: 400;">protein powder</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> supplement to your wellness routine can help you look and feel your best.</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">So, next time you need a </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">high-protein</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">, </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">post-workout</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> shake, look no further than our </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Collagen</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> Shakes.</span></p>
+<h3><strong>Shake It Up: What Smoothie Recipes Can You Make With Our Collagen Shake?</strong></h3>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">There are so many delicious recipe possibilities when you start with Dr. Kellyann’s </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Collagen</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> Shake as a base. Get creative! </span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Try adding a handful of organic baby spinach, frozen </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">blueberries</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> or strawberries, some </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">chia seeds</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">, and </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">low-carb</span> <span style="font-weight: 400;" data-mce-style="font-weight: 400;">unsweetened almond milk</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> for a deliciously fruity </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">meal replacement shake</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">. </span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Or, add in some </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">keto peanut butter</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> (or substitute with </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">seed butter</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">, </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">almond butter</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">, or other </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">nut butters</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">), some </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Greek yogurt</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">, and some </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">MCT oil</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> or </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">coconut oil</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> for an </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">easy keto breakfast</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">If you’re avoiding the added sugars found in fruit, try a more savory version by mixing in a ¼ teaspoon of cinnamon, ginger, or even nutmeg. You can also make it a little more decadent by adding ½ a tablespoon of organic </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">cocoa powder</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">. </span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Your options are limitless! And, when you limit added sugars, these will be your go-to </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">keto protein shake</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">.  </span></p>
+<p><b>Directions:</b><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> Just add water, shake and enjoy! Or try mixing with coconut milk or almond milk for a creamier and more filling shake. Also, try blending with your favorite fruits and veggies for a kick of added vitamins, nutrients and flavors. </span></p>
+<p><b>For even more protein variety:</b><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> Try my </span><a href="https://drkellyann.com/collections/all/products/super-chocolate-smoothie?variant=32320315326577" title="Super Chocolate" target="_blank"><b>Super Chocolate</b></a><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">and </span><a href="https://drkellyann.com/collections/all/products/super-vanilla-smoothie?variant=32320319127665" title="Super Vanilla Smoothies" target="_blank"><b>Super Vanilla Smoothies</b></a> <span style="font-weight: 400;" data-mce-style="font-weight: 400;"> </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">— made with lactose-free whey protein isolate instead of bovine-derived collagen protein.</span><strong></strong></p>
+<div>✝<em>These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</em>
+</div>
+<p> </p>
+<p><!-- split --></p>
+<p><!-- split --><img style="float: none;" src="//cdn2.shopify.com/s/files/1/0818/7575/products/DKA_VanillaAlmondShakeNFP_9d986b4d-959e-4e5f-818e-6b22545d2ed9_large.jpg?v=1558638876" alt="Collagen Shake - Vanilla Almond Nutrition Label" data-mce-style="float: none;"><img src="//cdn.shopify.com/s/files/1/0818/7575/products/vanilla-nutrition_large.jpg?v=1514904776" alt=""></p>
+<div class="clearfloat"><br></div>
+</div></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#generalfunnel</s:tag>
+    <s:tag>dairy-free</s:tag>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>keto-friendly</s:tag>
+    <s:tag>non-gmo</s:tag>
+    <s:tag>paleo-friendly</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>soy-free</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/products/10153165578</id>
+      <title>1 Box</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CSVADRK01</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/10153165578</id>
+      <title>3 Boxes</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>CSVADRK03</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/10153165578</id>
+      <title>5 Boxes</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>CSVADRK05</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/10153165578</id>
+      <title>10 Boxes</title>
+      <s:price currency="USD">159.00</s:price>
+      <s:sku>CSVADRK10</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/products/10380149396</id>
+    <published>2021-09-20T11:07:11-04:00</published>
+    <updated>2021-09-20T11:07:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/products/collagen-shake-chocolate-almond-1"/>
+    <title>Collagen Shake - Chocolate Almond</title>
+    <s:type>Nutrition Drinks &amp; Shakes</s:type>
+    <s:vendor>DISK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/products/Collagen_Shake_Choc_front.png?v=1696441160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DISK<br>
+        <strong>Type: </strong>Nutrition Drinks &amp; Shakes<br>
+        <strong>Price: </strong>
+            23.00 - 159.00
+            <a href="https://drkellyann.com/products/collagen-shake-chocolate-almond-1">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="s-title"><br></h2>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">The original protein and collagen shake is back — and better than ever!</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">You heard that right! Everybody’s favorite Chocolate Almond Collagen Shake is available again with a whole new look. But don’t let the pretty facelift fool you — it’s still made from our original health-boosting formula, with the same</span> <span style="font-weight: 400;" data-mce-style="font-weight: 400;">grass-fed collagen used in my widely popular bone broths. </span></p>
+<div class="p65-o">
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">These Chocolate Almond Collagen Shakes pack tons of good stuff, like essential amino acids, 15 grams of protein, and prebiotic fibers to support your gut health. Plus, they’re made with real cocoa powder and sweetened with Monk Fruit extract. They’re also made without any artificial or unnecessary additives</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">, so it’s the cleanest way</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> to give your body a </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">worry-free</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> serving of collagen protein whenever you want.</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">We</span><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> formulated these shakes to make sure that even the busiest person has time for a delicious, high-impact protein shake that’ll</span><b> 1) </b><span style="font-weight: 400;" data-mce-style="font-weight: 400;">quench the strongest hunger cravings, </span><b>2)</b><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> satisfy the sweetest sweet-tooth, </span><b>3)</b><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> help you slim down while building lean muscle, and </span><b>4)</b><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> refuel your body after a vigorous workout.</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">And if you’re not a fan of chocolate, try the </span><a href="https://drkellyann.com/products/collagen-shake-vanilla-almond-1?variant=38215192074" data-mce-href="https://drkellyann.com/products/collagen-shake-vanilla-almond-1?variant=38215192074"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Vanilla Almond Collagen Shakes</span></a><span style="font-weight: 400;" data-mce-style="font-weight: 400;">, with all the same benefits!</span></p>
+<ul>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Made with grass-fed collagen protein</span></li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Premium, non-GMO ingredients</span></li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Dairy-free + soy-free + gluten-free</span></li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Perfect with keto, paleo + weight-loss diets</span></li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">15g protein + 4g fiber + 2g fat per serving</span></li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Less than 1g sugar per serving</span></li>
+</ul>
+<p><b>Directions: </b><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Just add water, shake and enjoy! Or try mixing with coconut milk or </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">unsweetened </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">almond milk for a creamier and more filling shake. Also, try blending with your favorite fruits and veggies for a kick of added vitamins, nutrients and flavors. </span></p>
+<p><b>For even more protein variety:</b><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> Try </span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">our</span> <a href="https://drkellyann.com/collections/all/products/super-chocolate-smoothie?variant=32320315326577" data-mce-href="https://drkellyann.com/collections/all/products/super-chocolate-smoothie?variant=32320315326577"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Super Chocolate</span></a><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> and </span><a href="https://drkellyann.com/collections/all/products/super-vanilla-smoothie?variant=32320319127665" data-mce-href="https://drkellyann.com/collections/all/products/super-vanilla-smoothie?variant=32320319127665"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Super Vanilla Smoothies</span></a><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> — made with lactose-free whey protein isolate instead of bovine-derived collagen protein.</span></p>
+<p><i><span style="font-weight: 400;" data-mce-style="font-weight: 400;">✝These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</span></i></p>
+<h3><b>Is Our Chocolate Almond Collagen Shake Keto-Friendly?</b></h3>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Dr. Kellyann’s keto Chocolate Almond Collagen Shake pairs perfectly with the keto diet, as well as with the paleo diet and other weight loss meal plans. We can help you enjoy nutrient-rich, hunger-satisfying ketogenic shakes whenever you want. </span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Each low-carb shake is packed with 15 grams of protein and is designed to keep you feeling fuller for longer. Substitute your keto breakfast with this delicious shake and enjoy the flavor — and the new waistline.</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">This keto chocolate shake has so much chocolatey goodness packed inside of each serving that it's hard to believe it could be low in sugar. Our sugar-free recipe uses monk fruit as a sweetener, which is 100 to 250 times sweeter than sugar. Both monk fruit and natural unsweetened cocoa powder have low glycemic indexes, which can support healthy blood sugar levels. </span></p>
+<h3><b>How Can Our Chocolate Almond Collagen Shake Support Your Health?</b></h3>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">When you add grass-fed collagen protein powder and amino acids to your diet every day, you can support your natural collagen production. Since our natural ability to produce collagen begins to decline as we age, eating the right collagen-rich foods is important. </span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">When our collagen production begins to decline, we start to notice things like fine lines and wrinkles. That’s because collagen proteins act as scaffolding, supporting the firmness and elasticity of our skin. Eating foods to supplement that collagen loss can help support younger-looking skin while also promoting a healthy skin barrier.</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Your skin barrier is actually your immune system's first line of defense against infections and illnesses, but as we age, our skin tends to be more susceptible to cracks and tears. A damaged skin barrier may be more permeable to outside invaders and germs — so it’s important to protect your skin and keep it as healthy as possible. </span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Dr. Kellyann’s Chocolate Almond Collagen Shake also contains amino acids and prebiotic fiber, which may support gut health. A healthy gut can help support easy digestion, promote younger-looking skin, and support your overall health.</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">There are trillions of microbes residing in your gut, and they do more than just process your food. These gut microbes are also responsible for fighting off harmful bacteria and toxins and producing vitamin K.</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">These gut microbes need to eat, and they crave healthy foods like fruits and vegetables. When we eat foods that contain prebiotic fiber, the fiber is passed directly to the microbes, and they are able to eat it to grow and flourish. </span></p>
+<h3><b>What Recipes Can You Make With Our Chocolate Shake?</b></h3>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Dr. Kellyann’s Chocolate Almond Shakes are so good that you may not want to add any other ingredients. </span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">However, our favorite shake recipe involves mixing in ¼ cup of frozen raspberries and ½ tablespoon of chia seeds for even more fiber and protein. You can also try adding in a tablespoon of fresh matcha powder or a teaspoon of kelp powder to add in even more essential nutrients. </span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">For added thickness and healthy fats, try adding MCT oil, peanut butter, almond butter, or another nut butter (just make sure you don’t overdo it on the carbohydrates). Or, thicken it up with some plain ice cubes and throw in a pinch of sea salt to complement other flavors.</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Use some heavy cream, ½ teaspoon vanilla extract, and a sweetener like erythritol or stevia to make your own whipped cream to put on top.</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">The keto smoothie recipes are endless. Even better, you’ll stay within your net carbs and cut the prep time to zero — which is exactly what we love to see. For more keto recipes, check out our blog.</span></p>
+<div>✝<em>These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</em>
+</div>
+<p> </p>
+<p><!-- split --></p>
+<p><img alt="" src="//cdn2.shopify.com/s/files/1/0818/7575/products/DKA_ChocAlmondShakeNFP_05c79cc4-0e12-4a33-9521-228aaa525a2d_large.jpg?v=1558638477"> </p>
+<p> </p>
+<div class="clearfloat"><br></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#generalfunnel</s:tag>
+    <s:tag>backinstock</s:tag>
+    <s:tag>badge:back in stock</s:tag>
+    <s:tag>dairy-free</s:tag>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>keto-friendly</s:tag>
+    <s:tag>non-gmo</s:tag>
+    <s:tag>paleo-friendly</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>soy-free</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/products/10380149396</id>
+      <title>1 Box</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CSCADRK01</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/10380149396</id>
+      <title>3 Boxes</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>CSCADRK03</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/10380149396</id>
+      <title>5 Boxes</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>CSCADRK05</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/10380149396</id>
+      <title>10 Boxes</title>
+      <s:price currency="USD">159.00</s:price>
+      <s:sku>CSCADRK10</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/products/4670370316401</id>
+    <published>2021-06-24T17:10:24-04:00</published>
+    <updated>2021-06-24T17:10:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/products/super-vanilla-smoothie"/>
+    <title>Super Vanilla Smoothie</title>
+    <s:type>Nutrition Drinks &amp; Shakes</s:type>
+    <s:vendor>Dr. Kellyann</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/products/Super_Vanilla_Smoothie_front.png?v=1696441129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr. Kellyann<br>
+        <strong>Type: </strong>Nutrition Drinks &amp; Shakes<br>
+        <strong>Price: </strong>
+            41.00 - 131.20
+            <a href="https://drkellyann.com/products/super-vanilla-smoothie">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="s-title"><br></h2>
+<h2 class="s-title">Grass-Fed Collagen + Lactose-Free Whey + Prebiotics</h2>
+<div>
+<h3 style="text-align: center;"><br></h3>
+</div>
+<p class="s-title">Super Vanilla Smoothie </p>
+<p>My new Super Vanilla Smoothies are formulated with whey protein isolate because it’s the ideal protein choice for daily exercising, intense workouts, or simply trying to slim down. How? Whey isolate is full of rich dairy protein but has none of the fat or lactose. Whey also encourages lean muscle growth, helps prevent age-related muscle loss, and boosts your metabolism for the perfect post-workout pick-me-up. I also added collagen peptides to nourish your skin, hair and joints plus prebiotics to support your digestive health.<br></p>
+<div class="p65-o">
+<p><span style="font-weight: 400;">And if all that’s not enough for you — my Super Vanilla Smoothies can also help boost your weight-loss results by simply swapping out one meal a day with one of these delicious smoothies. They’re packed with the nutrients your body needs, and they’re hearty enough to satisfy the strongest hunger cravings,</span></p>
+<p><span style="font-weight: 400;">I saved the best bit for last! These Super Vanilla Smoothies are compatible with just about all of my programs and plans, including </span><i><span style="font-weight: 400;">The</span></i> <i><span style="font-weight: 400;">10-Day Belly Slimdown</span></i><span style="font-weight: 400;">, </span><i><span style="font-weight: 400;">The</span></i> <i><span style="font-weight: 400;">Bone Broth Diet</span></i><span style="font-weight: 400;">, and </span><i><span style="font-weight: 400;">Cleanse &amp; Reset</span></i><span style="font-weight: 400;">. </span></p>
+<p><span style="font-weight: 400;">And speaking of offering <i>even</i> <i>more</i> variety… <a href="https://drkellyann.com/products/super-chocolate-smoothie?variant=32320315326577">They’re also available in Chocolate!</a></span><a href="https://drkellyann.com/products/super-chocolate-smoothie?variant=32320315326577"><span data-mce-fragment="1"> </span></a></p>
+<ul>
+<li><span data-mce-fragment="1">A complete meal replacement</span></li>
+<li><span data-mce-fragment="1">Supports skin, hair, muscles, joints</span></li>
+<li><span data-mce-fragment="1">Promotes gut and digestive health</span></li>
+<li><span data-mce-fragment="1">Lactose-free / gluten-free / soy-free</span></li>
+<li><span data-mce-fragment="1">21g protein / 4.5g collagen per serving</span></li>
+<li><span data-mce-fragment="1">Includes 7 individual smoothie packets</span></li>
+</ul>
+<p><span data-mce-fragment="1"><strong>DIRECTIONS:</strong> Combine packet with 16 ounces of water, unsweetened almond milk or unsweetened coconut milk, and a handful of ice in a shaker bottle or blender.</span></p>
+<p> </p>
+<p><span style="font-size: xx-small;" size="1" data-mce-style="font-size: xx-small;">California Prop 65 Warning</span></p>
+<p><span style="font-size: xx-small;" size="1" data-mce-style="font-size: xx-small;"><meta charset="utf-8"> <img alt="" src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461"> WARNING: Consuming the bone broth in this product can expose you to chemicals including lead which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to<span> </span><a href="http://www.p65warnings.ca.gov/products/food" target="_blank">p65warnings.ca.gov/products/food</a>.</span></p>
+<div>✝<em>These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</em>
+</div>
+<p> </p>
+<p><!-- split --></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0818/7575/files/SVS_NFP_R3_5832b1ec-7740-48c1-bfaf-99c6f967cf93_480x480.jpg?v=1624293219"></p>
+</div>
+<p> <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>keto-friendly</s:tag>
+    <s:tag>non-gmo</s:tag>
+    <s:tag>paleo-friendly</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>soy-free</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/products/4670370316401</id>
+      <title>1 Box</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>CWVADRK01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/4670370316401</id>
+      <title>2 Boxes</title>
+      <s:price currency="USD">73.80</s:price>
+      <s:sku>CWVADRK02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/4670370316401</id>
+      <title>4 Boxes</title>
+      <s:price currency="USD">131.20</s:price>
+      <s:sku>CWVADRK04</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/products/4670368284785</id>
+    <published>2021-06-24T17:10:07-04:00</published>
+    <updated>2021-06-24T17:10:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/products/super-chocolate-smoothie"/>
+    <title>Super Chocolate Smoothie</title>
+    <s:type>Nutrition Drinks &amp; Shakes</s:type>
+    <s:vendor>Dr. Kellyann</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/products/Super_Chocolate_Smoothie_front.png?v=1696441131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr. Kellyann<br>
+        <strong>Type: </strong>Nutrition Drinks &amp; Shakes<br>
+        <strong>Price: </strong>
+            41.00 - 131.20
+            <a href="https://drkellyann.com/products/super-chocolate-smoothie">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="s-title"><br></h2>
+<h2 class="s-title">Grass-Fed Collagen + Lactose-Free Whey + Prebiotics</h2>
+<div><br></div>
+<h2 class="s-title">Super Chocolate Smoothies</h2>
+<div>
+<span style="font-weight: 400;">Our </span><span style="font-weight: 400;">new Super Chocolate Smoothies are formulated with whey protein isolate because it’s </span><span style="font-weight: 400;">an effective ideal</span> <span style="font-weight: 400;">protein choice for exercising, workouts, and even slimming down. Why? Whey isolate is full of rich dairy protein but has none of the fat or lactose. Whey </span><span style="font-weight: 400;">can </span><span style="font-weight: 400;">also encourage lean muscle growth, help prevent age-related muscle loss, and boost your metabolism for</span> <span style="font-weight: 400;">a </span><span style="font-weight: 400;">post-workout pick-me-up. </span><span style="font-weight: 400;">We</span><span style="font-weight: 400;"> also added collagen peptides to nourish your skin, hair and joints plus prebiotics to support your digestive health.</span><br>
+</div>
+<div class="p65-o">
+<p><span style="font-weight: 400;">And if all that’s not enough for you — </span><span style="font-weight: 400;">our </span><span style="font-weight: 400;">Super Chocolate Smoothies can also help </span><span style="font-weight: 400;">support </span><span style="font-weight: 400;">weight-loss</span> <span style="font-weight: 400;">by simply swapping out one meal a day with one of these delicious smoothies. They’re packed with nutrients your body needs, and they’re hearty enough to satisfy the strongest hunger cravings.</span></p>
+<p><span style="font-weight: 400;">We</span><span style="font-weight: 400;"> saved the best bit for last! These Super Chocolate Smoothies are compatible with just about all of </span><span style="font-weight: 400;">our </span><span style="font-weight: 400;">programs and plans, including </span><i><span style="font-weight: 400;">The</span></i> <i><span style="font-weight: 400;">10-Day Belly Slimdown</span></i><span style="font-weight: 400;">, </span><i><span style="font-weight: 400;">The</span></i> <i><span style="font-weight: 400;">Bone Broth Diet</span></i><span style="font-weight: 400;">, and </span><i><span style="font-weight: 400;">Cleanse &amp; Reset</span></i><span style="font-weight: 400;">. </span></p>
+<p><span style="font-weight: 400;">And speaking of offering </span><i><span style="font-weight: 400;">even</span></i> <i><span style="font-weight: 400;">more</span></i><span style="font-weight: 400;"> variety… </span><a href="https://drkellyann.com/products/super-vanilla-smoothie?variant=32320319127665"><span style="font-weight: 400;">They’re also available in Vanilla!</span></a></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A complete meal replacement</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supports skin, hair, muscles, joints</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Promotes gut and digestive health</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Lactose-free / gluten-free / soy-free</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">22g protein / 4.5g collagen per serving</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Includes 7 individual smoothie packets</span></li>
+</ul>
+<p><span style="font-weight: 400;">When you replace one meal a day with Dr. Kellyann’s Super Chocolate Smoothie, you can support your health from the inside out. The collagen contained in each serving can help brighten the skin while helping to minimize the appearance of fine lines and wrinkles. </span></p>
+<p><span style="font-weight: 400;">This chocolate protein shake is made with lactose-free whey protein powder, unsweetened cocoa powder for a chocolate flavor, and flaxseed for protein and fiber. Despite its dark chocolate decadence, it’s still high-protein, low-carbohydrate, and provides essential nutrients like calcium and potassium. </span></p>
+<p><span style="font-weight: 400;">The 22 grams of protein contained in this smoothie can help to keep your body fueled for longer, making weight loss less stressful and more attainable. You can pair the Super Chocolate Smoothie with many weight loss plans, including Dr. Kellyann’s Bone Broth Diet. </span></p>
+<p><span style="font-weight: 400;">For more information, check out the nutrition facts.</span><br></p>
+<p><meta charset="utf-8"><strong>DIRECTIONS:</strong><span> Combine packet with 16 ounces of water, unsweetened almond milk or unsweetened coconut milk, and a handful of ice in a shaker bottle or blender.</span> </p>
+<h3><b>What Is Collagen, and Why Is It Important?</b></h3>
+<p><span style="font-weight: 400;">Of all the proteins in our bodies, collagen reigns supreme as the most abundant protein. Collagen is a coarse and fibrous protein whose job is to connect other complex structures together. </span></p>
+<p><span style="font-weight: 400;">You can think of collagen as the scaffolding of your skin and connective tissues. It keeps things tightly bound and connected together. It can also support the function of our skin, joints, cartilage, ligaments, tendons, and bones.</span></p>
+<p><span style="font-weight: 400;">As we mature, our body’s natural ability to produce collagen begins to decline. This can start to happen in our twenties, and external factors like sun exposure, smoking, and alcohol intake, can all have an effect on this decline. </span></p>
+<p><span style="font-weight: 400;">When collagen production decreases, we may begin to notice things like crow’s feet, and other fine lines and wrinkles, and sagging skin.</span></p>
+<p><span style="font-weight: 400;">Eating a diet rich in essential nutrients, like collagen,  is one way to support your body’s waning collagen production. When we consume collagen, our digestive systems break it down into amino acids. </span></p>
+<p><span style="font-weight: 400;">Amino acids are the “building blocks” of all other proteins in the body. Once collagen is broken down into amino acids, they are then sent all over the body to wherever protein is needed. </span></p>
+<p><span style="font-weight: 400;">Amino acids play many important roles in our bodies. Alongside supporting collagen and protein production, they can also support gut health. Two amino acids, glutamine and glycine, can help support good gut bacteria, support cell growth, promote a healthy intestinal lining, and help our digestive systems break down fats more completely.  </span></p>
+<p><span style="font-weight: 400;">Dr. Kellyann’s hydrolyzed collagen is made from grinding the materials of hormone-free, grass-fed beef raised in Germany and Brazil. After the animal matter has been ground, it is soaked in hydrochloric acid and then dehydrated. </span></p>
+<h3><b>Food for Thought: What Recipes Can You Make With Our Super Chocolate Smoothie?</b></h3>
+<p><span style="font-weight: 400;">Dr. Kellyann’s Super Chocolate Smoothie packs in so much chocolatey flavor it is extremely satisfying on its own. If you like to get creative in the kitchen and want to change things up, there are many different yummy recipes you can try.</span></p>
+<p><span style="font-weight: 400;">We love to add a  ¼ of a frozen banana,  a ¼ cup of frozen raspberries, and unsweetened almond milk into a blender to make a rich, decadent smoothie. Try adding ¼ of a ripe banana, one tablespoon of peanut butter (or substitute for almond butter or another nut butter), and dairy-free milk to create a chocolate peanut butter protein shake.</span></p>
+<p><span style="font-weight: 400;">Add a little vanilla extract or use vanilla almond milk for an extra kick of flavor. Add ice cubes, chia seeds, or Greek yogurt to thicken up your protein smoothie, or add extra cacao powder to create a double-chocolate milkshake.</span></p>
+<p><span style="font-weight: 400;">We’ve already sweetened this milkshake with monk fruit extract, which is much sweeter than regular cane sugar. However, if you’re craving a little extra sweetener and your diet allows it, use some maple syrup to take your chocolate protein shake recipe to the next level.</span></p>
+<p><span style="font-weight: 400;">Enjoy this low-carb, protein-packed smoothie on its own, or set aside some prep time to create your own special smoothie recipe. </span></p>
+<h3>
+<span style="font-weight: 400;"></span><br>
+</h3>
+<p><span size="1" style="font-size: xx-small;" data-mce-style="font-size: xx-small;">California Prop 65 Warning</span></p>
+<p><span size="1" style="font-size: xx-small;" data-mce-style="font-size: xx-small;"><meta charset="utf-8"> <img src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461"> WARNING: Consuming the bone broth in this product can expose you to chemicals including lead which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to<span> </span><a href="http://www.p65warnings.ca.gov/products/food" target="_blank">p65warnings.ca.gov/products/food</a>.</span></p>
+<div>✝<em>These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</em>
+</div>
+<p> </p>
+<p><!-- split --></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0818/7575/files/SCS_NFP_R3_480x480.jpg?v=1624293282"></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>keto-friendly</s:tag>
+    <s:tag>non-gmo</s:tag>
+    <s:tag>paleo-friendly</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>soy-free</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/products/4670368284785</id>
+      <title>1 Box</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>CWCODRK01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/4670368284785</id>
+      <title>2 Boxes</title>
+      <s:price currency="USD">73.80</s:price>
+      <s:sku>CWCODRK02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/4670368284785</id>
+      <title>4 Boxes</title>
+      <s:price currency="USD">131.20</s:price>
+      <s:sku>CWCODRK04</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/products/11601313620</id>
+    <published>2021-06-09T15:52:12-04:00</published>
+    <updated>2021-06-09T15:52:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/products/collagen-coffee-1"/>
+    <title>Collagen Coffee</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>DISK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/products/Collagen_Coffee_front.png?v=1696441181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DISK<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            32.00 - 295.00
+            <a href="https://drkellyann.com/products/collagen-coffee-1">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="s-title">Collagen Coffee</h2>
+<p><span>Dr. Kellyann’s </span><b data-stringify-type="bold">Instant Collagen Coffee</b><span> is a perfect fusion of rich, smooth, micro-ground </span><b data-stringify-type="bold">100% Brazilian coffee beans</b><span> and high-quality </span><b data-stringify-type="bold">hydrolyzed collagen peptides</b><span>. Designed for health-conscious coffee lovers, this convenient blend offers all the benefits of collagen for skin elasticity, hair, nails, joint health, and overall wellness. It’s </span><b data-stringify-type="bold">low-calorie</b><span> and </span><b data-stringify-type="bold">sugar-free</b><span>, making it an ideal choice for maintaining a balanced diet. Made with </span><b data-stringify-type="bold">gluten-free</b><span>, </span><b data-stringify-type="bold">dairy-free, and soy free</b><span> ingredients, our collagen coffee caters to diverse dietary needs. Enjoy the ease of </span><b data-stringify-type="bold">instant preparation</b><span> with a delicious taste that doesn’t compromise on quality. Try our Instant Collagen Coffee today and experience the perfect blend of flavor and nourishment!</span></p>
+<div class="p65-o">
+<p><strong><span>Delicious Flavor. Endless Health Benefits.</span></strong></p>
+<p><span>My Collagen Coffee has a number of health benefits. It can help reduce gut inflammation, in fact, a study has shown that people who suffer from IBS and gut inflammation have lower levels of collagen, so increasing your collagen could have a very real, positive effect on your gut health.</span></p>
+<p><strong><span>Boost Your Results on the Bone Broth Diet</span></strong></p>
+<p><span>Using my Collagen Coffee in conjunction with my Bone Broth Diet or 10-Day Belly Slimdown can help your gut begin to heal from damage done over the years.</span></p>
+<p><span>If you’re following my Bone Broth Diet, use my Collagen Coffee as a morning or afternoon pick-me-up. It contains the same potent and pure grass-fed collagen as high-quality bone broth and has no added sugars, sweeteners, or sugar alcohols. So, it's approved even for fasting days!</span></p>
+<p><span>Get your daily boost of energy and collagen today!</span></p>
+<h3><b>What Is Collagen?</b></h3>
+<p><span style="font-weight: 400;">Collagen is a protein that your body naturally makes and uses every day. </span><span style="font-weight: 400;">Collagen proteins</span><span style="font-weight: 400;"> are the </span><span style="font-weight: 400;">most abundant proteins</span><span style="font-weight: 400;"> in the body and are primarily found in connective tissues like skin, tendons, ligaments, bones, and cartilage. In simple terms, natural collagen protects tissues and connects them tightly together.</span></p>
+<p><span style="font-weight: 400;">As we age, our bodies' natural </span><span style="font-weight: 400;">collagen production</span><span style="font-weight: 400;"> begins to decline. This decline can be increased by outside factors like sun damage, alcohol and nicotine consumption, and free radical damage. When </span><span style="font-weight: 400;">collagen production</span><span style="font-weight: 400;"> slows down, you may notice signs of aging, like fine lines and wrinkles, start to make their appearances.</span></p>
+<p><span style="font-weight: 400;">Among others, the </span><span style="font-weight: 400;">health benefits of collagen</span><span style="font-weight: 400;"> can affect </span><span style="font-weight: 400;">joint health</span><span style="font-weight: 400;">, </span><span style="font-weight: 400;">gut health</span><span style="font-weight: 400;">, and even skin health. Any good </span><span style="font-weight: 400;">skincare</span><span style="font-weight: 400;"> routine is built around a </span><span style="font-weight: 400;">high-quality</span><span style="font-weight: 400;"> diet. For anyone looking to keep a youthful appearance, increasing collagen intake can help.</span></p>
+<p><span style="font-weight: 400;">There are 28 different </span><span style="font-weight: 400;">types of collagen</span><span style="font-weight: 400;">, and of those, five types are considered to be the most important.</span></p>
+<p><span style="font-weight: 400;">These include:</span></p>
+<p>Type 1: This type makes up 90 opercent of the collagen in our body and provides structure to skin, bones, tendons, and ligaments.</p>
+<p>Type 2: This type is found in elastic cartilage and may provide joint support.</p>
+<p>Type 3: This type is found in muscles, arteries, and organs.</p>
+<p>Type 4: This type is found in layers of the skin barrier.</p>
+<p>Type 5: This type is found in the eye cornea, some layers of skin, and hair.</p>
+<br>
+<h3><b>Results Inside and Out: How Can Collagen Support Your Health?</b></h3>
+<p><span style="font-weight: 400;">Replenishing your body’s dwindling </span><span style="font-weight: 400;">collagen production</span><span style="font-weight: 400;"> is important for maintaining a healthy appearance and can be as easy as drinking your </span><span style="font-weight: 400;">morning cup of coffee</span><span style="font-weight: 400;">. Eating nutritious foods that contain </span><span style="font-weight: 400;">high-quality</span><span style="font-weight: 400;"> ingredients like essential vitamins, minerals, proteins, and </span><span style="font-weight: 400;">amino acids</span><span style="font-weight: 400;"> can help support your body’s natural </span><span style="font-weight: 400;">collagen production</span><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Drinking one cup of Dr. Kellyann’s </span><span style="font-weight: 400;">Collagen Coffee</span><span style="font-weight: 400;"> as a part of your </span><span style="font-weight: 400;">morning routine</span><span style="font-weight: 400;"> can add seven grams of hydrolyzed </span><span style="font-weight: 400;">collagen peptides</span><span style="font-weight: 400;"> to your daily diet.</span></p>
+<p><span style="font-weight: 400;">This morning pick-</span><span style="font-weight: 400;">me-up</span><span style="font-weight: 400;"> is an easy way to supplement your natural collagen — plus, it’s </span><span style="font-weight: 400;">keto</span><span style="font-weight: 400;"> and paleo-friendly. It can even help with </span><span style="font-weight: 400;">weight loss</span><span style="font-weight: 400;"> because of the added protein, and it doesn’t contain </span><span style="font-weight: 400;">added sugars</span><span style="font-weight: 400;"> or artificial </span><span style="font-weight: 400;">sweeteners</span><span style="font-weight: 400;">. This low-</span><span style="font-weight: 400;">carb</span><span style="font-weight: 400;">, </span><span style="font-weight: 400;">gluten-free</span><span style="font-weight: 400;"> coffee does it all!</span></p>
+<p><span style="font-weight: 400;">Eating enough protein is generally important when maintaining a healthy weight. Protein can do this by helping keep your body full and fueled and helping you say “no” to sugary or high-calorie snacks in between meals.</span></p>
+<p><span style="font-weight: 400;">Collagen may also contribute to better </span><span style="font-weight: 400;">gut health</span><span style="font-weight: 400;">. </span></p>
+<p><span style="font-weight: 400;">When collagen is digested, it is broken down into </span><span style="font-weight: 400;">amino acids</span><span style="font-weight: 400;">. </span><span style="font-weight: 400;">Amino acids</span><span style="font-weight: 400;"> are responsible for facilitating new protein growth, as well as providing energy at the cellular level to the small intestine. Two </span><span style="font-weight: 400;">amino acids</span><span style="font-weight: 400;">, glutamine and glycine, can support health by promoting a balanced gut, assisting with the breakdown of fats, and even supporting the gut lining.</span></p>
+<h3>
+<b>How Can You Enjoy Our </b><b>Collagen Coffee</b><b>?</b>
+</h3>
+<p><span style="font-weight: 400;">Make the switch to Dr. Kellyann’s </span><span style="font-weight: 400;">Collagen Coffee</span><span style="font-weight: 400;"> to start minimizing the visible signs of premature aging and collagen loss. Simply mix this invigorating </span><span style="font-weight: 400;">collagen supplement</span><span style="font-weight: 400;"> with </span><span style="font-weight: 400;">hot water</span><span style="font-weight: 400;">, and enjoy your delicious </span><span style="font-weight: 400;">hot coffee</span><span style="font-weight: 400;">!</span></p>
+<p><span><span style="font-weight: 400;">For extra results, try adding Dr. Kellyann’s </span><span style="font-weight: 400;">Collagen Creamer</span><span style="font-weight: 400;">, made with </span><span style="font-weight: 400;">grass-fed</span> <span style="font-weight: 400;">bovine</span><span style="font-weight: 400;"> collagen, for an extra dose of </span><span style="font-weight: 400;">collagen powder</span><span style="font-weight: 400;">. Support your </span><span style="font-weight: 400;">wellness</span><span style="font-weight: 400;"> from the inside out by making a </span><span style="font-weight: 400;">one-time purchase</span><span style="font-weight: 400;">, or </span><span style="font-weight: 400;">subscribe &amp; save</span><span style="font-weight: 400;"> today.</span></span></p>
+<p><span size="1" style="font-size: xx-small;" data-mce-style="font-size: xx-small;">California Prop 65 Warning</span></p>
+<p><span size="1" style="font-size: xx-small;" data-mce-style="font-size: xx-small;"><meta charset="utf-8"> <img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461"> WARNING: Consuming the bone broth in this product can expose you to chemicals including lead which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to<span> </span><a href="http://www.p65warnings.ca.gov/products/food" target="_blank">p65warnings.ca.gov/products/food</a>.</span></p>
+<div>✝<em>These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</em>
+</div>
+<p><!-- split --><img src="https://cdn.shopify.com/s/files/1/0818/7575/products/Coffee_NF_28e53cf6-bb95-4a9d-9776-740a668bf325_large.jpg?v=1565796139" alt=""></p>
+<div class="clearfloat"><br></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#generalfunnel</s:tag>
+    <s:tag>dairy-free</s:tag>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>keto-friendly</s:tag>
+    <s:tag>non-gmo</s:tag>
+    <s:tag>paleo-friendly</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>soy-free</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>YGroup_coffee</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/products/11601313620</id>
+      <title>2 Boxes</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>ICCDRK02</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/11601313620</id>
+      <title>4 Boxes</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>ICCDRK04</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/11601313620</id>
+      <title>10 Boxes</title>
+      <s:price currency="USD">295.00</s:price>
+      <s:sku>ICCDRK10</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/11601313620</id>
+      <title>1 Box</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>ICCDRK01</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/products/2608979116145</id>
+    <published>2019-05-23T16:21:22-04:00</published>
+    <updated>2019-05-23T16:21:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/products/collagen-peptides-unflavored"/>
+    <title>Collagen Peptides</title>
+    <s:type>Nutrition Drinks &amp; Shakes</s:type>
+    <s:vendor>DISK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/files/DKA_Collagen_Peptides_front.png?v=1726502583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DISK<br>
+        <strong>Type: </strong>Nutrition Drinks &amp; Shakes<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="s-title">Collagen Peptides<br>
+</h2>
+<div>
+<p><span>If you want to supplement your diet with collagen to help your skin and soft tissues maintain their strength and elasticity, you need my flavorless collagen peptide powder. Due to its flavorless nature, you can add this powder to any and all of your favorite drinks or dishes. Not only will it help you keep your skin and soft tissue healthy, it can also help you boost your daily protein intake.</span></p>
+<div class="p65-o">
+<p>All of my collagen products are highly concentrated and made from pure beef protein that is produced through a proprietary process to make it easily digestible. This is important because the easier it is for your body to digest, the more energy and nutritional value you gain from every scoop.</p>
+<h2 class="s-title"><br></h2>
+<p><span> </span><strong><span>How Collagen can help you stay healthy:</span></strong></p>
+<ul>
+<li>
+<span></span> <span>Improve joint comfort</span>
+</li>
+<li>
+<span></span> <span>Promote hair thickness</span>
+</li>
+<li>
+<span></span> <span>Support healthy blood sugar levels</span>
+</li>
+<li>
+<span></span> <span>Support healthy skin</span>
+</li>
+<li>
+<span></span> <span>Support gut health</span>
+</li>
+</ul>
+<p><span>My flavorless collagen peptides also pairs well with my Bone Broth Diet and 10 Day Belly Slimdown. All of my collagen protein is clean and dietary friendly.</span></p>
+<p><strong><span>Healthy and Safe Collagen:</span></strong></p>
+<ul>
+<li>
+<span></span> <span>Grass-Fed Collagen Protein</span>
+</li>
+<li>
+<span></span> <span>Keto-Friendly</span>
+</li>
+<li>
+<span></span> <span>Paleo-Friendly</span>
+</li>
+<li>
+<span></span> <span>Non-GMO</span>
+</li>
+<li>
+<span></span> <span>Dairy-Free</span>
+</li>
+<li>
+<span></span> <span>Soy Free</span>
+</li>
+</ul>
+<h3><b>What Is Collagen?</b></h3>
+<p><span style="font-weight: 400;">There are 28 identified </span><span style="font-weight: 400;">types of collagen proteins</span><span style="font-weight: 400;"> in the human body. Of these, there are five that are considered the most important. </span></p>
+<p><span style="font-weight: 400;">Type I</span><span style="font-weight: 400;"> collagen is the most plentiful protein found in the human body. It acts as a fibrous connector inside </span><span style="font-weight: 400;">connective tissues</span><span style="font-weight: 400;">, holding </span><span style="font-weight: 400;">ligaments</span><span style="font-weight: 400;">, tendons, cartilage, </span><span style="font-weight: 400;">muscle mass</span><span style="font-weight: 400;">, and bones together. It can support </span><span style="font-weight: 400;">skin elasticity</span><span style="font-weight: 400;"> and is responsible for maintaining a youthful appearance.</span></p>
+<p><span style="font-weight: 400;">Meanwhile, </span><span style="font-weight: 400;">type II</span><span style="font-weight: 400;"> collagen can support </span><span style="font-weight: 400;">joint health</span><span style="font-weight: 400;">. This natural collagen can lubricate your </span><span style="font-weight: 400;">ligaments</span><span style="font-weight: 400;"> and tendons, keeping your joints malleable and springy. A healthy level of </span><span style="font-weight: 400;">collagen synthesis</span><span style="font-weight: 400;"> in the body can provide </span><span style="font-weight: 400;">joint support</span><span style="font-weight: 400;">, and a </span><span style="font-weight: 400;">decline</span><span style="font-weight: 400;"> in </span><span style="font-weight: 400;">collagen production</span><span style="font-weight: 400;"> can result in </span><span style="font-weight: 400;">joint pain</span><span style="font-weight: 400;"> and other discomforts.</span></p>
+<p><span style="font-weight: 400;">Collagen can also help support </span><span style="font-weight: 400;">gut health</span><span style="font-weight: 400;">. When collagen is digested in the gut, it is broken down into </span><span style="font-weight: 400;">essential amino acids</span><span style="font-weight: 400;">. </span><span style="font-weight: 400;">Amino acids</span><span style="font-weight: 400;"> are considered to be “the </span><span style="font-weight: 400;">building blocks</span><span style="font-weight: 400;">” of all proteins in the body and are used in the production of new </span><span style="font-weight: 400;">collagen proteins</span><span style="font-weight: 400;">. </span></p>
+<p><span style="font-weight: 400;">The </span><span style="font-weight: 400;">amino acids</span><span style="font-weight: 400;"> glutamine and glycine can also play important roles in our </span><span style="font-weight: 400;">wellness</span><span style="font-weight: 400;"> by helping to detox toxins from our guts and supporting a balanced gut microbiome. </span><span style="font-weight: 400;">Amino acids</span><span style="font-weight: 400;"> can also help support the production of additional stomach acid, which can help in the breakdown of fats in the digestive system.</span></p>
+<p><span style="font-weight: 400;">Unfortunately, our natural </span><span style="font-weight: 400;">collagen production</span><span style="font-weight: 400;"> begins to </span><span style="font-weight: 400;">decline</span><span style="font-weight: 400;"> as we mature, sometimes starting as early as our late twenties. When this begins, we may start to notice an increase in digestive discomfort, </span><span style="font-weight: 400;">joint pain</span><span style="font-weight: 400;">, fine lines, and wrinkles.</span></p>
+<p><span style="font-weight: 400;">To support our bodies through this transition, it is important to consume </span><span style="font-weight: 400;">high-quality</span><span style="font-weight: 400;"> foods or </span><span style="font-weight: 400;">collagen supplements</span><span style="font-weight: 400;"> that contain </span><span style="font-weight: 400;">hydrolyzed collagen</span><span style="font-weight: 400;"> or </span><span style="font-weight: 400;">collagen peptides</span><span style="font-weight: 400;">. </span></p>
+<h3>
+<b>How Can You Use </b><b>Collagen Protein</b><b>?</b>
+</h3>
+<p><span style="font-weight: 400;">Dr. Kellyann makes collagen </span><span style="font-weight: 400;">accessibility</span><span style="font-weight: 400;"> a breeze with her </span><span style="font-weight: 400;">multi-collagen protein</span> <span style="font-weight: 400;">dietary supplements</span><span style="font-weight: 400;">. Reaping the </span><span style="font-weight: 400;">health benefits of collagen</span><span style="font-weight: 400;"> is easy as adding a scoop of this </span><span style="font-weight: 400;">collagen peptide powder</span><span style="font-weight: 400;"> to your </span><span style="font-weight: 400;">morning coffee</span><span style="font-weight: 400;"> or </span><span style="font-weight: 400;">smoothie</span><span style="font-weight: 400;">. </span></p>
+<p><span style="font-weight: 400;">Plus, our supplements are made with </span><span style="font-weight: 400;">grass-fed</span> <span style="font-weight: 400;">bovine collagen</span><span style="font-weight: 400;">, so you can rest assured you’re getting the highest-quality ingredients.</span></p>
+<p><span style="font-weight: 400;">Dr. Kellyann’s </span><span style="font-weight: 400;">Unflavored</span> <span style="font-weight: 400;">Collagen Peptides</span><span style="font-weight: 400;">, along with her other </span><span style="font-weight: 400;">collagen protein powder</span><span style="font-weight: 400;"> supplements, are easy and stress-free ways to increase your collagen intake.</span></p>
+<p><span style="font-weight: 400;">All of Dr. Kellyann’s products are </span><span style="font-weight: 400;">NON-GMO</span><span style="font-weight: 400;">, contain no artificial </span><span style="font-weight: 400;">sweeteners</span><span style="font-weight: 400;">, are low in </span><span style="font-weight: 400;">carbs</span><span style="font-weight: 400;">, and many are also compatible with </span><span style="font-weight: 400;">keto</span><span style="font-weight: 400;">, </span><span style="font-weight: 400;">paleo</span><span style="font-weight: 400;">, and </span><span style="font-weight: 400;">gluten-free</span><span style="font-weight: 400;"> diets. If you have any preexisting medical concerns, make sure to speak with your primary </span><span style="font-weight: 400;">healthcare</span><span style="font-weight: 400;"> provider before adding any supplements to your diet. </span></p>
+<p><span style="font-weight: 400;">For extra protein power, try combining a </span><span style="font-weight: 400;">serving size</span><span style="font-weight: 400;"> of this </span><span style="font-weight: 400;">collagen powder</span><span style="font-weight: 400;"> with your favorite </span><span style="font-weight: 400;">smoothie</span><span style="font-weight: 400;"> and then finish out your day with a </span><span style="font-weight: 400;">soup</span><span style="font-weight: 400;"> made with our </span><span style="font-weight: 400;">bone broth</span><span style="font-weight: 400;">. Supporting your </span><span style="font-weight: 400;">skin health</span><span style="font-weight: 400;"> has never been easier!</span></p>
+<div>✝<em>These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</em>
+</div>
+<p> </p>
+</div>
+<p><!-- split --> <img src="https://cdn.shopify.com/s/files/1/0818/7575/files/DKA_Peptide_NFP_60_Servigns_480x480.png?v=1600875899" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0818/7575/files/DKA_Peptide_NFP_60_Servigns_480x480.png?v=1600875899"></p>
+<p> </p>
+<meta charset="utf-8">
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#generalfunnel</s:tag>
+    <s:tag>bestseller</s:tag>
+    <s:tag>collagen</s:tag>
+    <s:tag>dairy-free</s:tag>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>keto-friendly</s:tag>
+    <s:tag>non-gmo</s:tag>
+    <s:tag>paleo-friendly</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>soy-free</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>trending</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/products/2608979116145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>CSPPDRK1</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/products/1984830603377</id>
+    <published>2018-12-01T13:48:02-05:00</published>
+    <updated>2018-12-01T13:48:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/products/collagen-creamer-vanilla-1"/>
+    <title>Collagen Creamer - Vanilla</title>
+    <s:type>Nutrition Drinks &amp; Shakes</s:type>
+    <s:vendor>DISK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/files/DKA_Collagen_Creamer_front.png?v=1727111799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DISK<br>
+        <strong>Type: </strong>Nutrition Drinks &amp; Shakes<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="s-title">What Is Collagen, and How Does It Work?</h2>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Collagen is a protein whose job is to keep our skin looking full and youthful while simultaneously promoting joint health. It’s the most abundant protein found in our bodies, especially during our youth. </span></p>
+<div class="p65-o">
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Think of collagen as the scaffolding of your skin bones, ligaments, tendons, muscles, and cartilage. Collagen acts as a connector, keeping structures tightly arranged and assembled. </span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">As we age and are exposed to free radicals from sun damage and other environmental factors, our bodies ability to produce collagen naturally begins to decline. This is when we start to notice things like fine lines, wrinkles, and hollowed areas on the face.  </span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Eating foods rich in collagen proteins, like Dr. Kellyann’s Collagen Creamer, can help supplement your body’s waning collagen stores. Plus, collagen is a source for much more than striking good looks. When collagen is digested, it is broken down into amino acids. </span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Amino acids are the building blocks of protein. When we digest proteins into amino acids, those amino acids are sent out all over the body to wherever protein is needed. </span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">This can promote healthy cartilage and joint function, as well as support our natural collagen production. Amino acids can also help support your gut and digestion, which (surprise!) can support your whole-body health.  </span></p>
+<h3><b>Can You Drink Collagen Creamer When You’re on a Diet?</b></h3>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Decorated with glowing five-star ratings, Dr. Kellyann’s Vanilla Collagen Creamer is made from grass-fed bovine collagen powder without any artificial or added sugars. Our creamer is sweetened only with monk fruit extract, which is a natural alternative to table sugar. </span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Monk fruit is 100 to 250 times sweeter than standard table sugar. That means that you can use less sugar (and, therefore, fewer carbs) to get the same sweet kick. Monk fruit can also be easier on your blood sugar than table sugar by serving size.</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">This is not your average store-bought creamer. You won’t find any preservatives, artificial thickening agents, or chemicals in Dr. Kellyann’s Vanilla Collagen Creamer. What you will find is grass-fed hydrolyzed collagen, coconut oil powder, and other natural flavors. It is also soy, gluten, and dairy-free and made from non-GMO food sources.</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">What does this mean for you? It means that Dr. Kellyann’s Vanilla Collagen Creamer is a delicious and nutritious dietary supplement for any morning coffee-lover who’s conscious about what they put in their body. </span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">It’s also ketogenic, gluten-free, and paleo-friendly. Dr. Kellyann’s Vanilla Collagen Creamer also works well with our bone broth diet and </span><a href="https://drkellyann.com/pages/10-day-belly-slimdown" data-mce-href="https://drkellyann.com/pages/10-day-belly-slimdown"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Dr. Kellyann’s 10-Day Belly Slimdown program</span></a><span style="font-weight: 400;" data-mce-style="font-weight: 400;">. </span></p>
+<h3><b>How Do You Use Our Vanilla Collagen Creamer?</b></h3>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">It matters how you choose to start your day. When your day starts with healthy nutrition options instead of processed, sugary foods, your body is properly fueled and ready to tackle the day.</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">You can use our collagen coffee creamer just like you’d use everyday creamer. Simply pour however much you’d like into your cup of coffee or tea and enjoy the guilt-free vanilla flavor. If it’s up your alley, add in some MCT oil and cocoa powder for a mocha. Or, whip it up to turn your hot coffee into a collagen latte.</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">By adding Dr. Kellyann’s Vanilla Collagen Creamer to your coffee, you can stand up for your health and wellness. For more collagen supplements, check out our bone broth and collagen smoothies.</span></p>
+<div class="p65-o"></div>
+<p><span size="1" style="font-size: xx-small;" data-mce-style="font-size: xx-small;">California Prop 65 Warning</span></p>
+<p><span size="1" style="font-size: xx-small;" data-mce-style="font-size: xx-small;"><meta charset="utf-8"> <img src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461"> WARNING: Consuming the bone broth in this product can expose you to chemicals including lead which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to<span> </span><a href="http://www.p65warnings.ca.gov/products/food" target="_blank" data-mce-href="http://www.p65warnings.ca.gov/products/food">p65warnings.ca.gov/products/food</a>.</span></p>
+<div>✝<em>These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</em>
+</div>
+<p> </p>
+<!-- split -->
+<p>Grass-fed hydrolyzed collagen, Coconut oil powder, Natural flavors, Medium chain triglycerides, Monk fruit extract. No added sugars or artificial sweeteners.</p>
+<p><img alt="" src="//cdn.shopify.com/s/files/1/0818/7575/products/Nutrition-Facts-Collagen-Creamer-Vanilla_large.png?v=1543683608" data-mce-src="//cdn.shopify.com/s/files/1/0818/7575/products/Nutrition-Facts-Collagen-Creamer-Vanilla_large.png?v=1543683608"></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#generalfunnel</s:tag>
+    <s:tag>dairy-free</s:tag>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>keto-friendly</s:tag>
+    <s:tag>non-gmo</s:tag>
+    <s:tag>paleo-friendly</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>soy-free</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/products/1984830603377</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>CCRDRK01</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/products/1945191252081</id>
+    <published>2018-11-21T20:27:29-05:00</published>
+    <updated>2018-11-21T20:27:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/products/collagen-fiber-bar-in-chocolate-coconut"/>
+    <title>Collagen Fiber Bars</title>
+    <s:type>SLIM Bar</s:type>
+    <s:vendor>DISK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/files/dka_Fiberbar_Box_12count_051225a.png?v=1747075402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DISK<br>
+        <strong>Type: </strong>SLIM Bar<br>
+        <strong>Price: </strong>
+            35.00 - 67.00
+            <a href="https://drkellyann.com/products/collagen-fiber-bar-in-chocolate-coconut">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="s-title">12 creamy coconut-filled bars covered with rich dark chocolate come in every box!<br>
+</h2>
+<ul>
+<li>12 grams of fiber</li>
+<li>3 grams net carbs</li>
+<li>4 grams of collagen</li>
+<li>Metabolic Nutrition</li>
+<li>Non-GMO<br>
+</li>
+</ul>
+<p>Want to lose weight, reduce your body fat, stay “regular,” and keep your gut microbes happy? Then you need to get enough fiber every day. That’s 25–30 grams for women and 30–38 for men.</p>
+<p>This rich, decadent bar gives you an impressive 12<span> </span>grams of fiber. And it’s the best kind of fiber: natural, soluble, prebiotic fiber that helps your body absorb key minerals, keeps your digestive system running smoothly, enhances your immune function, and makes your gut microbiome glow.</p>
+<div class="p65-o">
+<p>This bar is so satisfying that it keeps cravings away for hours so you stay focused. Maybe best of all, it is collagen-rich for beautiful skin!</p>
+<p>12 delicious collagen fiber bars come in every box!</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p><span style="font-size: xx-small;" size="1">California Prop 65 Warning</span></p>
+<p><span style="font-size: xx-small;" size="1"><meta charset="utf-8"> <img alt="" src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461"> WARNING: Consuming the bone broth in this product can expose you to chemicals including lead which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to<span> </span><a href="http://www.p65warnings.ca.gov/products/food" target="_blank">p65warnings.ca.gov/products/food</a>.</span></p>
+<div>✝<em>These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</em>
+</div>
+<br>
+<p><!-- split --></p>
+<p class="p2"><b><i>Ingredients: </i></b>Coconut flakes, Chocolate coating [sugar, palm kernel oil, chicory root extract (inulin), cocoa processed with alkali (15%), emulsifier (soy lecithin), sea salt, natural vanilla flavor], Inulin (Prebiotic fiber from chicory root), Grass-fed bovine hydrolyzed collagen, Acacia, Sea salt, Stevia, Pure Vanilla Extract. <b>Contains:<span> </span></b>Milk.</p>
+<div class="gmail_default"><em>Manufactured in a facility that processes milk, soy, egg, wheat, peanuts and tree nuts.</em></div>
+<p class="p3"><i><br>No artificial sweeteners.</i></p>
+<p> </p>
+<p class="p3"><img alt="" src="https://cdn.shopify.com/s/files/1/0818/7575/products/Nutrition-Label-Chocolate-Coconut-Fiber-Bar_large.png?v=1542853286"></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#generalfunnel</s:tag>
+    <s:tag>bestseller</s:tag>
+    <s:tag>keto-friendly</s:tag>
+    <s:tag>non-gmo</s:tag>
+    <s:tag>paleo-friendly</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/products/1945191252081</id>
+      <title>1 BOX</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>BRFIBCOCNDRK</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/1945191252081</id>
+      <title>2 BOXES</title>
+      <s:price currency="USD">67.00</s:price>
+      <s:sku>BRFIBCOCNDRK02</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/products/57099812884</id>
+    <published>2017-12-19T05:28:44-05:00</published>
+    <updated>2017-12-19T05:28:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/products/collagen-hot-cocoa"/>
+    <title>Collagen Hot Cocoa</title>
+    <s:type>Hot Chocolate</s:type>
+    <s:vendor>DISK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/files/DKA_Collagen_Cocoa_front.png?v=1726588341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DISK<br>
+        <strong>Type: </strong>Hot Chocolate<br>
+        <strong>Price: </strong>
+            23.00 - 184.00
+            <a href="https://drkellyann.com/products/collagen-hot-cocoa">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="s-title">Collagen<b> Cocoa</b>
+</h2><p><span style="font-weight: 400;">Do you love curling up with a warm cup of hot cocoa on a snowy winter day but want to avoid the unhealthy added sugars? </span><span style="font-weight: 400;">Our </span><span style="font-weight: 400;">Collagen Cocoa is </span><span style="font-weight: 400;">a great way to satisfy your sweet tooth while supporting your health!</span></p>
+<p><span style="font-weight: 400;">Mix my Collagen Cocoa with coconut or almond milk and enjoy it as a warm meal replacement, or mix </span><span style="font-weight: 400;">it </span><span style="font-weight: 400;">with your favorite greens, fruit, and ice for a satisfying shake.</span></p><div class="p65-o">
+<h3><b>How Does Collagen Work?</b></h3>
+<p><span style="font-weight: 400;">Our bodies produce collagen naturally, but as we age, that production begins to decline. Outside factors, like exposure to UV rays from the sun, can affect the speed of this downturn. As this happens, you may start to notice the appearance of fine lines and wrinkles and other signs of visible aging.</span></p>
+<p><span style="font-weight: 400;">Collagen is a fibrous structure that holds and connects and structures together. It acts as the scaffolding for your skin, ligaments, cartilage, connective tissues, and muscles. This protein can also keep your skin looking youthfu, as well as support bone, joint, hair, and gut health.</span></p>
+<h3><b>Too Good To Be True: How Can Hot Cocoa Support Your Health?</b></h3>
+<p><span style="font-weight: 400;">Dr. Kellyann’s Collagen Cocoa is not your store-bought hot chocolate. This chocolatey, dairy-free hot chocolate is made with simple ingredients. Each packet contains 17 grams of grass-fed hydrolyzed collagen, which is easily digestible to support maximum nutrient absorption.</span></p>
+<p><span style="font-weight: 400;">It can satisfy your sweet tooth with its depth of chocolate flavor while being deliciously sugar-free. This collagen hot cocoa is a decadent low-calorie, low-carb, and low-fat snack. Dr. Kellyann has done the hard work for you so you can enjoy the health benefits of bone broth collagen without prep time.</span></p>
+<p><span style="font-weight: 400;">Dr. Kellyann only uses natural sweeteners, like monk fruit, which is 100 to 250 times sweeter than table sugar. Dr. Kellyann’s Collagen Cocoa is also soy and gluten free.</span></p>
+<p><span style="font-weight: 400;">Dr. Kellyann’s Collagen Cocoa is packed with essential nutrients like protein, calcium, potassium, and amino acids. The 15 grams of protein in each serving size of hot cocoa can help you feel fuller for longer, supporting your weight loss goals. </span></p>
+<p><span style="font-weight: 400;">The hydrolyzed collagen breaks down into amino acids in the gut. Amino acids are “the building blocks” of protein, and your body can use them to make proteins like collagen, which can support skin elasticity and minimize visible signs of aging.</span></p>
+<p><span style="font-weight: 400;">Here are a few other ways that amino acids can support your health:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Promote a balanced mood</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Support a healthy metabolism</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Support restful sleep</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Help in the breakdown of fats</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Promote gut health</span></li>
+</ul>
+<h3><b>Is This Hot Cocoa Keto and Paleo-Friendly?</b></h3>
+<p><span style="font-weight: 400;">This hot chocolate mix can be consumed by people following the bone broth, keto, or paleo diets because it is low in sugar and carbohydrates. The rich chocolate flavor comes from unsweetened cocoa powder, and you can avoid high-carb or nutritionally empty sweeteners like maple syrup and stevia thanks to our monk fruit extract.</span></p>
+<p><span style="font-weight: 400;">To make easy homemade hot chocolate, simply simmer eight ounces of your non-dairy milk of choice into a small saucepan, warm it on the stovetop until you reach medium heat, and stir frequently.</span></p>
+<p><span style="font-weight: 400;">For more healthy hot chocolate recipes, try using a dairy-free milk such as unsweetened almond milk, oat milk, soy milk, or full-fat coconut milk, adding in coconut, peppermint extract or vanilla extract for additional flavors.</span></p>
+<p><span style="font-weight: 400;">If you really want to get creative, try adding a pinch of cayenne pepper, sea salt, and a spoonful of peanut butter or almond butter for a sweet and salty afternoon treat. Or, add some dairy-free whipped cream, vegan marshmallows, and sugar-free dark chocolate chips. </span></p>
+<p><span style="font-weight: 400;">This nutrient-dense collagen hot cocoa mix is so versatile, you can even add it into a smoothie for a truly delicious breakfast drink recipe.</span></p>
+<p data-mce-fragment="1">  </p>
+<p><span size="1" style="font-size: xx-small;" data-mce-style="font-size: xx-small;">California Prop 65 Warning</span></p>
+<p><span size="1" style="font-size: xx-small;" data-mce-style="font-size: xx-small;"><meta charset="utf-8"> <img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461"> WARNING: Consuming the bone broth in this product can expose you to chemicals including lead which is known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to<span> </span><a href="http://www.p65warnings.ca.gov/products/food" target="_blank" data-mce-href="http://www.p65warnings.ca.gov/products/food">p65warnings.ca.gov/products/food</a>.</span></p>
+<div>✝<em>These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</em>
+</div>
+<p> </p>
+<p data-mce-fragment="1"> </p>
+<p><!-- split --></p>
+<img src="//cdn2.shopify.com/s/files/1/0818/7575/products/DKA_Cocoa_NFP_5c81e9bc-8c66-4473-91e2-2dc592282511_large.jpg?v=1558631000" alt="">
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#generalfunnel</s:tag>
+    <s:tag>dairy-free</s:tag>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>keto-friendly</s:tag>
+    <s:tag>non-gmo</s:tag>
+    <s:tag>paleo-friendly</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>soy-free</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/products/57099812884</id>
+      <title>1 Box</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CCOCODRK01</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/57099812884</id>
+      <title>3 Boxes</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>CCOCODRK03</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/57099812884</id>
+      <title>5 Boxes</title>
+      <s:price currency="USD">103.50</s:price>
+      <s:sku>CCOCODRK05</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/products/57099812884</id>
+      <title>10 Boxes</title>
+      <s:price currency="USD">184.00</s:price>
+      <s:sku>CCOCODRK10</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,2 @@
+if(!customElements.get("announcement-slider")){class AnnouncementSlider extends HTMLElement{constructor(){super()}connectedCallback(){this.slider=new Swiper(this.querySelector(".swiper"),{loop:!0,slidesPerView:1,autoplay:{delay:this.dataset.delay??5e3,pauseOnMouseEnter:!0}})}}customElements.define("announcement-slider",AnnouncementSlider)}
+//# sourceMappingURL=/cdn/shop/t/229/assets/announcement-slider.js.map?v=99279850144875270841729697523

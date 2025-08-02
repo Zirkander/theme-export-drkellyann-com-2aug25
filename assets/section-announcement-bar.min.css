@@ -1,0 +1,123 @@
+.announcement-bar {
+  padding: 0 30px;
+  z-index: 9;
+  position: relative;
+}
+
+.announcement-bar-inner {
+  display: block;
+}
+
+.announcement__slider {
+  display: block;
+  max-width: 100%;
+}
+
+.announcement-bar-inner.icons_and_text,
+.announcement-bar-inner.icons_only,
+.announcement-bar-inner.text_only {
+  grid-template: auto/auto;
+}
+
+@media screen and (min-width: 768px) {
+  .announcement-bar--social-icons {
+    width: 100%;
+    text-align: center;
+  }
+
+  .announcement-bar--social-icons ul {
+    text-align: center !important;
+    margin-inline: 0 !important;
+  }
+
+  .announcement-bar-inner.icons_only {
+    grid-template: auto/auto 18%;
+  }
+  .announcement-bar-inner.icons_and_text {
+    grid-template: auto/18% auto 18%;
+  }
+  .announcement-bar-inner.icons_and_text .announcement-bar--message {
+    grid-area: 3/1/4/2;
+  }
+}
+@media screen and (min-width: 768px) and (min-width: 768px) {
+  .announcement-bar-inner.icons_and_text .announcement-bar--message {
+    grid-area: 1/2/2/3;
+  }
+}
+.announcement-bar-inner .announcement-bar--social-icons {
+  grid-area: 1/1/3/2;
+}
+@media screen and (min-width: 768px) {
+  .announcement-bar-inner .announcement-bar--social-icons {
+    grid-area: 1/3/2/4;
+  }
+}
+.announcement-bar--message,
+.announcement-bar--social-icons {
+  align-self: center;
+}
+.announcement-bar--message {
+  text-align: center;
+  min-height: 44px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+  letter-spacing: var(--announcement-text-spacing);
+  text-transform: var(--announcement-text-case);
+  font-style: var(--announcement-font-style);
+  font-weight: var(--announcement-font-weight);
+  line-height: normal;
+}
+@media screen and (max-width: 767px) {
+  .announcement-bar--message {
+    font-size: 12px;
+    margin-top: 0;
+  }
+  .text_only .announcement-bar--message {
+    padding-top: 15px;
+  }
+}
+.announcement-bar--message .announcement-bar--message-inner {
+  padding: 13px 0;
+  display: inline-block;
+}
+.announcement-bar--social-icons ul {
+  list-style-type: none;
+  margin: 0;
+}
+@media screen and (max-width: 767px) {
+  .announcement-bar--social-icons ul {
+    text-align: center;
+  }
+}
+@media screen and (min-width: 768px) {
+  .announcement-bar--social-icons ul {
+    text-align: right;
+    margin-right: -14px;
+  }
+}
+.announcement-bar--social-icons li {
+  display: inline-block;
+  margin: 0;
+}
+.announcement-bar--social-icons a {
+  min-width: 44px;
+  min-height: 44px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.15s ease-in-out 0s;
+}
+.announcement-bar--social-icons a:hover {
+  opacity: 0.75;
+}
+.announcement-bar--social-icons i.fa-2x {
+  font-size: var(--announcement-text-size);
+}
+.announcement-bar--social-icons svg.tiktok-icon {
+  height: calc(var(--announcement-text-size) - 1px);
+  position: relative;
+  bottom: -1px;
+}

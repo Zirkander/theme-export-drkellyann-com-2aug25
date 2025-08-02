@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://drkellyann.com/es/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://drkellyann.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://drkellyann.com/es/collections/collagen.atom"/>
+  <title>Dr. Kellyann</title>
+  <updated>2025-07-10T10:10:32-04:00</updated>
+  <author>
+    <name>Dr. Kellyann</name>
+  </author>
+  <entry>
+    <id>https://drkellyann.com/es/products/7409852350577</id>
+    <published>2025-07-10T10:10:32-04:00</published>
+    <updated>2025-07-10T10:10:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/es/products/collagen-cooler-mango"/>
+    <title>Collagen Cooler - Mango</title>
+    <s:type></s:type>
+    <s:vendor>Dr. Kellyann</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/files/DKA_CollagenCoolers_Mango-copy.png?v=1752264459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Dr. Kellyann<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            39.99 - 199.99
+            <a href="https://drkellyann.com/es/products/collagen-cooler-mango">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge:new</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-enabled</s:tag>
+    <s:tag>Subscription</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/7409852350577</id>
+      <title>1 Pack</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>CCMGDRK01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/7409852350577</id>
+      <title>3 Packs</title>
+      <s:price currency="USD">109.99</s:price>
+      <s:sku>CCMGDRK03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/7409852350577</id>
+      <title>6 Packs</title>
+      <s:price currency="USD">199.99</s:price>
+      <s:sku>CCMGDRK06</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/es/products/7402578706545</id>
+    <published>2025-07-10T10:10:21-04:00</published>
+    <updated>2025-07-10T10:10:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/es/products/collagen-cooler-orange-creamsicle"/>
+    <title>Collagen Cooler - Orange Creamsicle</title>
+    <s:type></s:type>
+    <s:vendor>Dr. Kellyann</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/files/DKA_CollagenCoolers_OrangeCreamsicle-copy.png?v=1752264417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Dr. Kellyann<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            39.99 - 199.99
+            <a href="https://drkellyann.com/es/products/collagen-cooler-orange-creamsicle">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge:new</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-enabled</s:tag>
+    <s:tag>Subscription</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/7402578706545</id>
+      <title>1 Pack</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>CCCSDRK01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/7402578706545</id>
+      <title>3 Packs</title>
+      <s:price currency="USD">109.99</s:price>
+      <s:sku>CCCSDRK03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/7402578706545</id>
+      <title>6 Packs</title>
+      <s:price currency="USD">199.99</s:price>
+      <s:sku>CCCSDRK06</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/es/products/7409931845745</id>
+    <published>2025-07-10T10:09:39-04:00</published>
+    <updated>2025-07-10T10:09:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/es/products/collagen-cooler-tropical-pina-colada"/>
+    <title>Collagen Cooler - Tropical Pina Colada</title>
+    <s:type></s:type>
+    <s:vendor>Dr. Kellyann</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/files/DKA_CollagenCoolers_PinaColada-copy.png?v=1752264472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Dr. Kellyann<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            39.99 - 199.99
+            <a href="https://drkellyann.com/es/products/collagen-cooler-tropical-pina-colada">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge:new</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-enabled</s:tag>
+    <s:tag>Subscription</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/7409931845745</id>
+      <title>1 Pack</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>CCPCDRK01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/7409931845745</id>
+      <title>3 Packs</title>
+      <s:price currency="USD">109.99</s:price>
+      <s:sku>CCPCDRK03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/7409931845745</id>
+      <title>6 Packs</title>
+      <s:price currency="USD">199.99</s:price>
+      <s:sku>CCPCDRK06</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/es/products/7382640820337</id>
+    <published>2025-06-12T09:45:30-04:00</published>
+    <updated>2025-06-12T09:45:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/es/products/liquid-gold"/>
+    <title>Harmony Liquid Gold</title>
+    <s:type>Hormonal</s:type>
+    <s:vendor>Dr. Kellyann</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/files/harmonyliquid_09.jpg?v=1752022546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Dr. Kellyann<br>
+        <strong>Tipo: </strong>Hormonal<br>
+        <strong>Precio: </strong>
+            45.00 - 124.20
+            <a href="https://drkellyann.com/es/products/liquid-gold">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge:new</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/7382640820337</id>
+      <title>1 Bottle</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>DKAHARLQGD01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/7382640820337</id>
+      <title>2 Bottles</title>
+      <s:price currency="USD">85.50</s:price>
+      <s:sku>DKAHARLQGD02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/7382640820337</id>
+      <title>3 Bottles</title>
+      <s:price currency="USD">124.20</s:price>
+      <s:sku>DKAHARLQGD03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/es/products/10153165578</id>
+    <published>2021-09-20T11:07:55-04:00</published>
+    <updated>2021-09-20T11:07:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/es/products/collagen-shake-vanilla-almond-1"/>
+    <title>Shake de colágeno - Almendra de vainilla</title>
+    <s:type>Nutrition Drinks &amp; Shakes</s:type>
+    <s:vendor>DISK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/products/Collagen_Shake_Van_front.png?v=1696441160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>DISK<br>
+        <strong>Tipo: </strong>Nutrition Drinks &amp; Shakes<br>
+        <strong>Precio: </strong>
+            23.00 - 159.00
+            <a href="https://drkellyann.com/es/products/collagen-shake-vanilla-almond-1">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>¡Vendido! ¡Nueva y mejorada versión próximamente !!</strong></h3>
+<p>Gracias por ser un gran fanático de mis batidos de colágeno ... ¡Siempre han sido mis favoritos también!</p>
+<p>Siempre he intentado proporcionar a mis clientes diversión y formas fáciles de obtener su dosis diaria de colágeno, ya sea que esté en chocolate, vainilla, naranja o café, o a granel o en los convenientes paquetes para ir.</p>
+<p>Incluso estamos trabajando en un nuevo producto, un batido lleno de proteínas de colágeno + con greens ricos en fibra que también vendrán en paquetes individuales para ir.<br></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0818/7575/files/Super_Smoothies_480x480.png?v=1611942139" width="423" height="367"></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0818/7575/files/Super_Vanilla_Smoothie_NFP_480x480.png?v=1613664288"></p>
+<p>Entonces, mi equipo y yo hemos tomado la dura decisión de interrumpir mis batidos de colágeno (en almendra de chocolate y almendra de vainilla) para hacer espacio en nuestra producción para los nuevos batidos de colágeno + suero.</p>
+<p>Mientras tanto, si estás buscando una alternativa a mi colágeno Shake en Vanilla Almond, la proteína de caldo de vainilla de vainilla es una excelente opción. Debido a que este producto viene a granel en una bolsa, realmente ahorrará dinero al suscribirse, de 23 a 70 centavos menos por porción en la suscripción. Y mis proteínas de caldo de hueso son tan ricas en el colágeno, ya que se hacen de la misma manera.</p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0818/7575/products/BBP_Vanilla__Scoop_fe8fff2f-2213-49a2-9077-b0288d7b2f8b_480x480.png?v=1609862879" width="300" height="300"></p>
+<p><strong><a href="https://drkellyann.com/collections/collagen/products/bone-broth-protein-vanilla" title="Polvo de proteína de caldo de hueso de vainilla">Tienda Polvo de proteína de caldo de hueso de vainilla aquí.</a></strong></p>
+<p><meta charset="utf-8"><span>O prueba mi proteína de colágeno completa. Mi proteína de colágeno completa no tiene sabor, por lo que es muy versátil, sin sabor cuando quiera o cuando está de humor para la vainilla, simplemente agregue extracto de vainilla a sus batidos.</span></p>
+<p><span><img alt="" src="https://cdn.shopify.com/s/files/1/0818/7575/products/DKA_Peptide_WithScoop_60Servings_c65585cb-a26a-4e24-9d45-8a5c202e0f1f_480x480.png?v=1611925462" width="301" height="301"></span></p>
+<p><strong><a href="https://drkellyann.com/collections/collagen/products/complete-collagen-protein-flavorless" title="Proteína de colágeno completa sin sabor">Compre una proteína de colágeno completa sin sabor aquí.</a></strong></p>
+<p><br>Y, sé que te encantará los súper chocolate y los súper batidos de vainilla. ¡Liberaré pronto (más información por venir)! Estos batidos se llenan con grasas saludables, verduras verdes desintoxicantes, bayas ricas en antioxidantes y aislamiento de proteínas de suero de colágeno +. ¡Este batido es delicioso y saludable! He supercargado este batido con aislamiento de proteínas de suero ... ¡Averigüe por qué, aquí!<br></p>
+<p>¡Gracias por ser un cliente leal!<br></p>
+<p><em><strong>Mi mejor,</strong></em><br></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0818/7575/files/Copy_of_New-Signature.Black_480x480.png?v=1576100650" width="199" height="69"></p>
+<p><br></p>
+<p><!-- split --><img style="float: none;" src="//cdn2.shopify.com/s/files/1/0818/7575/products/DKA_VanillaAlmondShakeNFP_9d986b4d-959e-4e5f-818e-6b22545d2ed9_large.jpg?v=1558638876" alt="Shake de colágeno - Etiqueta de nutrición de la almendra de vainilla"><img src="//cdn.shopify.com/s/files/1/0818/7575/products/vanilla-nutrition_large.jpg?v=1514904776" alt=""></p>
+<div class="clearfloat"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#generalfunnel</s:tag>
+    <s:tag>dairy-free</s:tag>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>keto-friendly</s:tag>
+    <s:tag>non-gmo</s:tag>
+    <s:tag>paleo-friendly</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>soy-free</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/10153165578</id>
+      <title>1 Box</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CSVADRK01</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/10153165578</id>
+      <title>3 cajas</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>CSVADRK03</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/10153165578</id>
+      <title>5 cajas</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>CSVADRK05</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/10153165578</id>
+      <title>10 Cajas</title>
+      <s:price currency="USD">159.00</s:price>
+      <s:sku>CSVADRK10</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/es/products/10380149396</id>
+    <published>2021-09-20T11:07:11-04:00</published>
+    <updated>2021-09-20T11:07:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/es/products/collagen-shake-chocolate-almond-1"/>
+    <title>Batido de colágeno - Almendra de chocolate</title>
+    <s:type>Nutrition Drinks &amp; Shakes</s:type>
+    <s:vendor>DISK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/products/Collagen_Shake_Choc_front.png?v=1696441160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>DISK<br>
+        <strong>Tipo: </strong>Nutrition Drinks &amp; Shakes<br>
+        <strong>Precio: </strong>
+            23.00 - 159.00
+            <a href="https://drkellyann.com/es/products/collagen-shake-chocolate-almond-1">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>¡Agotado! Nuevo & versión mejorada próximamente!!</strong></h3>
+<p>Gracias por ser un gran fan de mis batidos de colágeno... siempre han sido uno de mis favoritos también!</p>
+<p>Siempre he tratado de proporcionar a mis clientes maneras divertidas y fáciles de obtener su dosis diaria de colágeno ya sea en chocolate, vainilla, naranja o café, o a granel o en paquetes convenientes para llevar.</p>
+<p>Incluso estamos trabajando en un nuevo producto, un batido lleno de proteína de colágeno + suero de leche con verduras ricas en fibra que vendrán en paquetes individuales para llevar también.<br></p>
+<p><img height="367" width="423" src="https://cdn.shopify.com/s/files/1/0818/7575/files/Super_Smoothies_480x480.png?v=1611942139" alt=""></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0818/7575/files/Super_Chocolate_Smoothie_NFP_1_480x480.png?v=1613664137"></p>
+<p>Por lo tanto, mi equipo y yo hemos tomado la difícil decisión de suspender mis batidos de colágeno (en almendra de chocolate y almendra de vainilla) con el fin de hacer espacio en nuestra producción para el nuevo colágeno + batidos de suero de leche.</p>
+<p>Mientras tanto, si usted está buscando una alternativa a mi batido de colágeno en almendra de chocolate se puede obtener un producto muy, muy similar en paquetes para llevar, por el mismo precio, con mi cacao de colágeno. La única diferencia real en estos dos productos fue que el batido tenía almendras que creaba un sabor ligeramente diferente.</p>
+<p><img height="300" width="300" src="https://cdn.shopify.com/s/files/1/0818/7575/products/CocoaBox-CocoaMug_1e61525d-2b43-4da7-95c6-a91b9a706f5d_480x480.png?v=1583840015" alt=""></p>
+<p><strong><a title="Cacao caliente de colágeno" href="https://drkellyann.com/collections/collagen/products/collagen-hot-cocoa?variant=736792444948">Compra Collagan Cocoa aquí.</a></strong></p>
+<p>Mi proteína de caldo de hueso de chocolate es otra gran opción. Debido a que este producto viene a granel en una bolsa, en realidad ahorrará dinero al suscribirse -- de 23 a 70 centavos MENOS por porción en suscripción. Y mis proteínas de caldo óseo son igual de ricas en colágeno ya que se hacen de la misma manera.</p>
+<p><img height="300" width="300" src="https://cdn.shopify.com/s/files/1/0818/7575/products/BBP_Chocolate_Scoop_876853b8-cc89-478b-ad49-941049532eab_480x480.jpg?v=1609862813" alt=""></p>
+<p><a title="Proteína de caldo de hueso de chocolate en polvo" href="https://drkellyann.com/collections/collagen/products/bone-broth-protein-chocolate">Compre la proteína de caldo de hueso de chocolate en polvo aquí.</a></p>
+<p><br>Y, sé que te encantará el Super Chocolate y Super Vanilla Smoothies voy a lanzar pronto (más información por venir)! Estos batidos están llenos de grasas saludables, vegetales verdes desintoxicantes, bayas ricas en antioxidantes, Y colágeno + aislado de proteína de suero de leche. ¡Este batido es delicioso y saludable! He sobrealimentado este batido con aislado de proteína de suero de leche... ¡Averigua por qué, aquí!<br></p>
+<p>¡Gracias por ser un cliente leal!<br></p>
+<p><em><strong>Lo mejor que pueda,</strong></em><br></p>
+<p><img height="69" width="199" src="https://cdn.shopify.com/s/files/1/0818/7575/files/Copy_of_New-Signature.Black_480x480.png?v=1576100650" alt=""></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p><span><!-- split --> </span></p>
+<img src="//cdn2.shopify.com/s/files/1/0818/7575/products/DKA_ChocAlmondShakeNFP_05c79cc4-0e12-4a33-9521-228aaa525a2d_large.jpg?v=1558638477" alt=""> 
+<p> </p>
+<div class="clearfloat"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#generalfunnel</s:tag>
+    <s:tag>backinstock</s:tag>
+    <s:tag>badge:back in stock</s:tag>
+    <s:tag>dairy-free</s:tag>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>keto-friendly</s:tag>
+    <s:tag>non-gmo</s:tag>
+    <s:tag>paleo-friendly</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>soy-free</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/10380149396</id>
+      <title>1 Box</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CSCADRK01</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/10380149396</id>
+      <title>3 cajas</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>CSCADRK03</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/10380149396</id>
+      <title>5 cajas</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>CSCADRK05</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/10380149396</id>
+      <title>10 Cajas</title>
+      <s:price currency="USD">159.00</s:price>
+      <s:sku>CSCADRK10</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/es/products/4670370316401</id>
+    <published>2021-06-24T17:10:24-04:00</published>
+    <updated>2021-06-24T17:10:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/es/products/super-vanilla-smoothie"/>
+    <title>Super Vanilla Smoothie</title>
+    <s:type>Nutrition Drinks &amp; Shakes</s:type>
+    <s:vendor>Dr. Kellyann</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/products/Super_Vanilla_Smoothie_front.png?v=1696441129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Dr. Kellyann<br>
+        <strong>Tipo: </strong>Nutrition Drinks &amp; Shakes<br>
+        <strong>Precio: </strong>
+            41.00 - 131.20
+            <a href="https://drkellyann.com/es/products/super-vanilla-smoothie">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Para un reciclaje refrescante de los increíbles beneficios para la salud, pruebe mis súper batidos de vainilla. Cada bebida decadente contiene 20 g de aislamiento de proteína de suero (sin lactosa) y proteína de colágeno, más la fibra de la raíz de Konjac, aceite MCT, fibras prebióticas, <meta charset="utf-8">
+<span data-mce-fragment="1">Dintoxificación de verduras, arándanos y otros ingredientes que aumentan la salud.</span> </span></p>
+<p><span style="font-weight: 400;">Estas golosinas ricas en colágeno son la forma más sabrosa de </span><b>Nutre su piel y pelo, apoye sus articulaciones y su salud.</b><span style="font-weight: 400;">, </span><b>satisfacer los antojos del hambre</b><span style="font-weight: 400;">, y </span><b>Supercharge tu ajetreado día</b><span style="font-weight: 400;">.</span><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">¡Mis nuevos batidos de Super vainilla te habrán luciendo y se sintieron mejor que en las edades!</span></p>
+<ul>
+<li><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1">Nutre la piel, el cabello y las articulaciones.</span></li>
+<li><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1">20 g de proteína por porción</span></li>
+<li><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1">17g de<meta charset="utf-8">aislado de proteína de suero sin lactosa</span></li>
+<li><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1">3 g de<meta charset="utf-8">colágeno hidrolizado</span></li>
+<li>
+<meta charset="utf-8">Reemplazo completo de la comida<span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1"> </span>
+</li>
+<li><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1">Incluye 7 paquetes individuales de smoothie.</span></li>
+</ul>
+<p>Nutre la piel, las uñas + cabello, con una deliciosa dosis diaria de colágeno, verduras y antioxidantes que rejuvenecen la piel.</p>
+<p>Músculo, articulación + salud intestinal: dos formas de proteínas para el crecimiento muscular magro, el colágeno para el apoyo conjunto y las fibras prebióticas para reducir los residuos hinchados y edificios.</p>
+<p>Aislante de proteína de suero sin lactosa: promueve la salud muscular, reduce los antojos del hambre, aumenta el sistema inmunológico y lo ayuda a adelgazar.</p>
+<p>Reemplazo de comidas saludables: no GMO, keto / paleo amigable, libre de soja, sin gluten, lactosa libre, proteínas, ideal para dietas intolerantes a la lactosa.</p>
+<p>Doctor Desarrollado - Formulado por el Dr. Kellyann Petrucci, creador de la limpieza y reinicio ampliamente popular, la dieta de caldo de hueso y el caldo de hueso para ir.</p>
+<p><meta charset="utf-8"><meta charset="utf-8"><strong data-mce-fragment="1">Perfecto en cualquier DR. Plan Kellyann</strong><span data-mce-fragment="1"> - </span><strong data-mce-fragment="1">En la dieta de caldo de hueso</strong><span data-mce-fragment="1">Puede usar el súper batido como reemplazo de la comida mezclando solo con almendra o leche de coco sin azúcar.</span><strong data-mce-fragment="1">En el Slimpown de 10 días.</strong><span data-mce-fragment="1">Puedes usar el súper batido en lugar de tu tarda colagen Shake B</span><meta charset="utf-8"><span data-mce-fragment="1">Y mezclando con solo leche de almendra o coco sin azúcar. Y,<strong data-mce-fragment="1">o</strong></span><strong data-mce-fragment="1">n la limpieza y restablece el súper batido</strong><span data-mce-fragment="1">ya está aparte de la</span><a title="Kit de limpieza y reinicio" href="https://drkellyann.com/collections/cleanse-and-reset" data-mce-fragment="1" data-mce-href="https://drkellyann.com/collections/cleanse-and-reset">Kit de limpieza y reinicio</a><span data-mce-fragment="1">, pero si está haciendo el plan de limpieza y restablecimiento de</span><a title="Libro de limpieza y restablecimiento de la limpieza y restablecimiento del Dr. Kellyann" href="https://drkellyann.com/pages/cleanse-and-reset" data-mce-fragment="1" data-mce-href="https://drkellyann.com/pages/cleanse-and-reset">Libro de limpieza y restablecimiento de la limpieza y restablecimiento del Dr. Kellyann</a><span data-mce-fragment="1">El súper batido se puede comprar y utilizar para su batido verde o batido de colágeno.</span><br></p>
+<p> </p>
+<p><span data-mce-fragment="1"><meta charset="utf-8">
+<strong>DIRECCIONES:</strong>Combine el paquete con 16 onzas de agua, leche de almendra sin azúcar o leche de coco sin azúcar, y un puñado de hielo en una botella o licuadora de coctelera.</span></p>
+<p> </p>
+<p> </p>
+<p><span size="1" style="font-size: xx-small;" data-mce-style="font-size: xx-small;">California PROP 65 ADVERTENCIA</span></p>
+<p><span size="1" style="font-size: xx-small;" data-mce-style="font-size: xx-small;"><meta charset="utf-8"> <img src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461">ADVERTENCIA: El consumo del caldo óseo en este producto puede exponerlo a los productos químicos, incluido el plomo, que es conocido por el estado de California para causar cáncer y defectos de nacimiento u otro daño reproductivo. Para más información vaya a<span> </span><a href="http://www.p65warnings.ca.gov/products/food" target="_blank">p65warnings.ca.gov/products/food</a>.</span></p>
+<p> </p>
+<p><!-- split --></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1"><img src="https://cdn.shopify.com/s/files/1/0818/7575/files/Super_Vanilla_Smoothie_NFP_480x480.png?v=1613664288" alt=""></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>keto-friendly</s:tag>
+    <s:tag>non-gmo</s:tag>
+    <s:tag>paleo-friendly</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>soy-free</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/4670370316401</id>
+      <title>1 caja</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>CWVADRK01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/4670370316401</id>
+      <title>2 cajas</title>
+      <s:price currency="USD">73.80</s:price>
+      <s:sku>CWVADRK02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/4670370316401</id>
+      <title>4 Cajas</title>
+      <s:price currency="USD">131.20</s:price>
+      <s:sku>CWVADRK04</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/es/products/4670368284785</id>
+    <published>2021-06-24T17:10:07-04:00</published>
+    <updated>2021-06-24T17:10:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/es/products/super-chocolate-smoothie"/>
+    <title>Batido super chocolate</title>
+    <s:type>Nutrition Drinks &amp; Shakes</s:type>
+    <s:vendor>Dr. Kellyann</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/products/Super_Chocolate_Smoothie_front.png?v=1696441131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Dr. Kellyann<br>
+        <strong>Tipo: </strong>Nutrition Drinks &amp; Shakes<br>
+        <strong>Precio: </strong>
+            41.00 - 131.20
+            <a href="https://drkellyann.com/es/products/super-chocolate-smoothie">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Para disfrutar de un refrescante y delicioso pick-me-up con increíbles beneficios para la salud, pruebe mis batidos super chocolate. Cada bebida decadente contiene 22g de aislado de proteína de suero de leche (libre de lactosa) y proteína de colágeno, además de fibra radicular Konjac, aceite de MCT, fibras prebióticas, verdes desintoxicantes, arándanos y otros ingredientes que estimulan la salud.</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Estas golosinas ricas en colágeno son la forma más sabrosa de </span><b data-mce-fragment="1">nutrir la piel y el cabello, apoyar sus articulaciones y la salud intestinal</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">, </span><b data-mce-fragment="1">satisfacer los antojos de hambre</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Y </span><b data-mce-fragment="1">sobrecargue su ajetreado día</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">.</span></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">¡Mis nuevos batidos super chocolate te harán lucir y sentirte mejor que en años!</span></p>
+<ul>
+<li><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Nutre la piel, el cabello y las articulaciones</span></li>
+<li><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">22 g de proteína por porción</span></li>
+<li><span style="font-weight: 400;" data-mce-style="font-weight: 400;">17 g de aislado de proteína de suero de leche libre de lactosa</span></li>
+<li><span style="font-weight: 400;" data-mce-style="font-weight: 400;"><meta charset="utf-8"> <span>5 g de colágeno hidrolizado</span></span></li>
+<li><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><meta charset="utf-8">Reemplazo completo de comidas</span></li>
+<li><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Incluye 7 paquetes de batido individuales</span></li>
+</ul>
+<p><strong>NUTRE LA PIEL, LAS UÑAS + EL CABELLO</strong> - con una deliciosa dosis diaria de colágeno, verduras y antioxidantes rejuvenecedores de la piel.</p>
+<p><strong>MÚSCULO, ARTICULACIÓN + SALUD INTESTINAL</strong> - Dos formas de proteína para el crecimiento muscular magro, colágeno para el apoyo de las articulaciones, y fibras prebióticas para reducir la hinchazón y residuos acumulados.</p>
+<p><strong>AISLADO DE PROTEÍNA DE SUERO DE LECHE SIN LACTOSA</strong> - Promueve la salud muscular, reduce los antojos de hambre, aumenta el sistema inmunológico y le ayuda a adelgazar.</p>
+<p><strong>REEMPLAZO SALUDABLE DE COMIDAS</strong> - No transgénico, compatible con Keto/Paleo, sin soja, sin gluten, sin lactosa, envasado en proteínas, ideal para dietas intolerantes a la lactosa.</p>
+<p><strong>MÉDICO DESARROLLADO</strong> - Formulado por el Dr. Kellyann Petrucci, creador de la ampliamente popular Cleanse &Reset, Bone Broth Diet y Bone Broth To-Go.</p>
+<p><strong>PERFECTO EN CUALQUIER PLAN DEL DR. KELLYANN</strong> - <strong>Sobre la dieta del caldo óseo</strong> puede utilizar el Super Smoothie como reemplazo de comida mezclando sólo con almendras sin endulzar o leche de coco.<strong>En el adelgazamiento del vientre de 10 días</strong> puedes usar el Super Smoothie en lugar de tu batido de colágeno de la tarde b<meta charset="utf-8"><span data-mce-fragment="1">y mezclando sólo con almendras sin endulzar o leche de coco. Y <strong>o</strong></span><strong>n la limpieza y el restablecimiento del super smoothie</strong> ya está aparte de la <a href="https://drkellyann.com/collections/cleanse-and-reset" title="Kit de limpieza y restablecimiento">Limpiar y restablecer el kit</a>, pero si se realiza el plan de limpieza y restablecimiento de <a href="https://drkellyann.com/pages/cleanse-and-reset" title="Libro de limpieza y restablecimiento del Dr. Kellyann">Libro de limpieza y restablecimiento del Dr. Kellyann</a> el Super Smoothie se puede comprar y utilizar para su batido verde o batido de colágeno.</p>
+<p> </p>
+<p><strong>Indicaciones:</strong> Combine el paquete con 16 onzas de agua, leche de almendras sin endulzar o leche de coco sin endulzar, y un puñado de hielo en una botella o licuadora.</p>
+<p> </p>
+<p><span size="1" style="font-size: xx-small;" data-mce-style="font-size: xx-small;">Advertencia de la Prop 65 de California</span></p>
+<p><span size="1" style="font-size: xx-small;" data-mce-style="font-size: xx-small;"><meta charset="utf-8"> <img src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461">ADVERTENCIA: Consumir el caldo óseo en este producto puede exponerlo a sustancias químicas como el plomo que es conocido por el estado de California para causar cáncer y defectos congénitos u otros daños reproductivos. Para obtener más información,<span> </span><a href="http://www.p65warnings.ca.gov/products/food" target="_blank">p65warnings.ca.gov/products/food</a>.</span></p>
+<p> </p>
+<p><span><!-- split --></span> <img src="https://cdn.shopify.com/s/files/1/0818/7575/files/Super_Chocolate_Smoothie_NFP_1_480x480.png?v=1613664137" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>keto-friendly</s:tag>
+    <s:tag>non-gmo</s:tag>
+    <s:tag>paleo-friendly</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>soy-free</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/4670368284785</id>
+      <title>1 caja</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>CWCODRK01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/4670368284785</id>
+      <title>2 cajas</title>
+      <s:price currency="USD">73.80</s:price>
+      <s:sku>CWCODRK02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/4670368284785</id>
+      <title>4 Cajas</title>
+      <s:price currency="USD">131.20</s:price>
+      <s:sku>CWCODRK04</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/es/products/11601313620</id>
+    <published>2021-06-09T15:52:12-04:00</published>
+    <updated>2021-06-09T15:52:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/es/products/collagen-coffee-1"/>
+    <title>Café de colágeno</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>DISK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/products/Collagen_Coffee_front.png?v=1696441181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>DISK<br>
+        <strong>Tipo: </strong>Coffee<br>
+        <strong>Precio: </strong>
+            32.00 - 295.00
+            <a href="https://drkellyann.com/es/products/collagen-coffee-1">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span>Café de colágeno</span></strong></p>
+<p><span>My Instant Collagen Coffee está hecho de micro-molido 100% Brazilian Coffee Beans para un sabor de café suave y ligero con sutiles toques de chocolate. Enviado en convenientes paquetes sobre la marcha, puede mantener estos paquetes de café colágeno en su bolsa, su coche o su maleta para el acceso instantáneo a un aperitivo satisfactorio.</span></p>
+<p><strong><span>Delicioso sabor. Beneficios para la salud sin fin.</span></strong></p>
+<p><span>Mi café de colágeno tiene una serie de beneficios para la salud. Puede ayudar a reducir la inflamación intestinal, de hecho, un estudio ha demostrado que las personas que sufren de SII e inflamación intestinal tienen niveles más bajos de colágeno, por lo que aumentar el colágeno podría tener un efecto muy real y positivo en la salud intestinal.</span></p>
+<p><strong><span>Aumenta tus resultados en la dieta del caldo óseo</span></strong></p>
+<p><span>Usar mi café de colágeno junto con mi dieta de caldo óseo o adelgazamiento del vientre de 10 días puede ayudar a su intestino a comenzar a sanar del daño causado a lo largo de los años.</span></p>
+<p><span>Si sigues mi dieta de caldo de hueso, usa mi café de colágeno como un pick-me-up por la mañana o por la tarde. Contiene el mismo colágeno potente y puro alimentado con hierba que el caldo óseo de alta calidad y no tiene azúcares añadidos, edulcorantes o alcoholes de azúcar. Por lo tanto, está aprobado incluso para los días de ayuno!</span></p>
+<p><span>Obtener su impulso diario de energía y colágeno hoy!</span></p>
+<p> </p>
+<p><span size="1" style="font-size: xx-small;" data-mce-style="font-size: xx-small;">Advertencia de la Prop 65 de California</span></p>
+<p><span size="1" style="font-size: xx-small;" data-mce-style="font-size: xx-small;"><meta charset="utf-8">
+<img src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461">ADVERTENCIA: Consumir el caldo óseo en este producto puede exponerlo a sustancias químicas como el plomo que es conocido por el estado de California para causar cáncer y defectos congénitos u otros daños reproductivos. Para obtener más información,<span> </span><a href="http://www.p65warnings.ca.gov/products/food" target="_blank">p65warnings.ca.gov/products/food</a>.</span></p>
+<p><!-- split --><img src="//cdn.shopify.com/s/files/1/0818/7575/products/Coffee_NF_28e53cf6-bb95-4a9d-9776-740a668bf325_large.jpg?v=1565796139" alt=""></p>
+<div class="clearfloat"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#generalfunnel</s:tag>
+    <s:tag>dairy-free</s:tag>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>keto-friendly</s:tag>
+    <s:tag>non-gmo</s:tag>
+    <s:tag>paleo-friendly</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>soy-free</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>YGroup_coffee</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/11601313620</id>
+      <title>2 cajas</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>ICCDRK02</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/11601313620</id>
+      <title>4 Cajas</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>ICCDRK04</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/11601313620</id>
+      <title>10 Cajas</title>
+      <s:price currency="USD">295.00</s:price>
+      <s:sku>ICCDRK10</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/11601313620</id>
+      <title>1 Box</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>ICCDRK01</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/es/products/2608979116145</id>
+    <published>2019-05-23T16:21:22-04:00</published>
+    <updated>2019-05-23T16:21:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/es/products/collagen-peptides-unflavored"/>
+    <title>Proteína de colágeno completa - Sin sabor</title>
+    <s:type>Nutrition Drinks &amp; Shakes</s:type>
+    <s:vendor>DISK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/files/DKA_Collagen_Peptides_front.png?v=1726502583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>DISK<br>
+        <strong>Tipo: </strong>Nutrition Drinks &amp; Shakes<br>
+        <strong>Precio: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>
+<span style="color: #00aaff;"><strong></strong></span> <strong><span>Proteína de colágeno completa</span></strong><br>
+</h2>
+<div>
+<p><span>Si desea complementar su dieta con colágeno para ayudar a que su piel y los tejidos blandos mantienen su fuerza y ​​elasticidad, necesita mi polvo de péptido de colágeno sin sabor. Debido a su naturaleza sin sabor, puede agregar este polvo a cualquiera y todos sus platos favoritos. No solo le ayudará a mantener la piel y el tejido blando sano, también puede ayudarlo a aumentar su ingesta diaria de proteínas.</span></p>
+<p>Todos mis productos de colágeno están altamente concentrados y hechos de proteína de carne pura que se produce a través de un proceso propietario para que sea fácil digerible. Esto es importante porque lo más fácil es para su cuerpo digerir, más energía y valor nutricional que obtiene de cada primicia.</p>
+<p><span> </span><strong><span>Cómo el colágeno puede ayudarte a mantenerte saludable:</span></strong></p>
+<ul>
+<li>
+<span></span> <span>Mejorar la comodidad conjunta</span>
+</li>
+<li>
+<span></span> <span>Promover el espesor del cabello</span>
+</li>
+<li>
+<span></span> <span>Apoyar los niveles saludables de azúcar en la sangre.</span>
+</li>
+<li>
+<span></span> <span>Apoyar la piel sana</span>
+</li>
+<li>
+<span></span> <span>Apoyo intestino salud</span>
+</li>
+</ul>
+<p><span>Mi proteína de colágeno sin sabor también se combina bien con mi dieta de caldo de hueso y 10 días Slimdown. Toda mi proteína de colágeno es limpia y amigable en la dieta.</span></p>
+<p><strong><span>Colágeno sano y seguro:</span></strong></p>
+<ul>
+<li>
+<span></span> <span>Proteína de colágeno alimentado por la hierba</span>
+</li>
+<li>
+<span></span> <span>Keto amigable</span>
+</li>
+<li>
+<span></span> <span>Paleobes</span>
+</li>
+<li>
+<span></span> <span>No GMO</span>
+</li>
+<li>
+<span></span> <span>Libre de lácteos</span>
+</li>
+<li>
+<span></span> <span>Libre de soja</span>
+</li>
+</ul>
+<p><span size="1" style="font-size: xx-small;" data-mce-style="font-size: xx-small;">California PROP 65 ADVERTENCIA</span></p>
+<p><span size="1" style="font-size: xx-small;" data-mce-style="font-size: xx-small;"><meta charset="utf-8">
+<img src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461">ADVERTENCIA: El consumo del caldo óseo en este producto puede exponerlo a los productos químicos, incluido el plomo, que es conocido por el estado de California para causar cáncer y defectos de nacimiento u otro daño reproductivo. Para más información vaya a<span> </span><a href="http://www.p65warnings.ca.gov/products/food" target="_blank">p65warnings.ca.gov/products/food</a>.</span></p>
+</div>
+<p><!-- split --> <img alt="" src="https://cdn.shopify.com/s/files/1/0818/7575/files/DKA_Peptide_NFP_60_Servigns_480x480.png?v=1600875899" data-mce-src="https://cdn.shopify.com/s/files/1/0818/7575/files/DKA_Peptide_NFP_60_Servigns_480x480.png?v=1600875899" data-mce-fragment="1"></p>
+<p> </p>
+<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#generalfunnel</s:tag>
+    <s:tag>bestseller</s:tag>
+    <s:tag>collagen</s:tag>
+    <s:tag>dairy-free</s:tag>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>keto-friendly</s:tag>
+    <s:tag>non-gmo</s:tag>
+    <s:tag>paleo-friendly</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>soy-free</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>trending</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/2608979116145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>CSPPDRK1</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/es/products/1984830603377</id>
+    <published>2018-12-01T13:48:02-05:00</published>
+    <updated>2018-12-01T13:48:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/es/products/collagen-creamer-vanilla-1"/>
+    <title>Crema de colágeno - Vainilla</title>
+    <s:type>Nutrition Drinks &amp; Shakes</s:type>
+    <s:vendor>DISK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/files/DKA_Collagen_Creamer_front.png?v=1727111799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>DISK<br>
+        <strong>Tipo: </strong>Nutrition Drinks &amp; Shakes<br>
+        <strong>Precio: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p><b>Vainilla </b><b>Colágeno</b><b> Crema</b></p>
+<p><span style="font-weight: 400;">¿Usas crema de café comprada en la tienda? ¿Sabías que está lleno de conservantes, químicos, azúcares, espesantes artificiales y otros gunk que arruinarán tu sistema? ¡Deshazte de él ahora!</span></p>
+<p><b>Un comienzo de día más saludable</b></p>
+<p><span style="font-weight: 400;">Mi vainilla </span><span style="font-weight: 400;">Colágeno</span><span style="font-weight: 400;"> creamer es una crema saludable que sabe muy bien y no está llena de conservantes y productos químicos. No sólo mi </span><span style="font-weight: 400;">Colágeno</span><span style="font-weight: 400;"> más saludable para ti, también es una adición cremosa y deliciosa a tu taza de café de la mañana.</span></p>
+<ul>
+<li>
+<span style="font-weight: 400;"></span><span style="font-weight: 400;">Sin lácteos</span>
+</li>
+<li>
+<span style="font-weight: 400;"></span><span style="font-weight: 400;">Sin soja</span>
+</li>
+<li>
+<span style="font-weight: 400;"></span><span style="font-weight: 400;">Sin gluten</span>
+</li>
+<li>
+<span style="font-weight: 400;"></span><span style="font-weight: 400;">No OMG</span>
+</li>
+</ul>
+<p><b>Emparejar con el </b><b>Caldo de hueso</b><b> Dieta</b></p>
+<p><span style="font-weight: 400;">Esta crema de colágeno también combina perfectamente con mi </span><span style="font-weight: 400;">Caldo de hueso</span><span style="font-weight: 400;"> Dieta y adelgazamiento del vientre de 10 días. Mientras sigues mi</span><span style="font-weight: 400;"> Caldo de hueso</span><span style="font-weight: 400;"> Dieta puedes añadir mi vainilla </span><span style="font-weight: 400;">Colágeno</span><span style="font-weight: 400;"> creamer a tu mañana recógeme o cualquier café que tengas durante todo el día. Durante mi adelgazamiento del vientre de 10 días, puedes usar esta crema para una inyección extra de </span><span style="font-weight: 400;">Colágeno</span><span style="font-weight: 400;"> durante la ventana de alimentación.</span></p>
+<p><b>Suscríbete y ahorra</b></p>
+<span style="font-weight: 400;">Cada caja de </span><span style="font-weight: 400;">Colágeno</span><span style="font-weight: 400;"> Creamer tiene 15 paquetes pre-medidos para que sea fácil de realizar un seguimiento de, y si te gusta esta crema tanto como yo, puedes ahorrar un 10% adicional en cada pedido eligiendo la opción de suscripción.</span>
+</div>
+<p><span style="font-size: xx-small;" size="1" data-mce-style="font-size: xx-small;">Advertencia de la Prop 65 de California</span></p>
+<p><span style="font-size: xx-small;" size="1" data-mce-style="font-size: xx-small;"><meta charset="utf-8"> <img alt="" src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461">ADVERTENCIA: Consumir el caldo óseo en este producto puede exponerlo a sustancias químicas como el plomo que es conocido por el estado de California para causar cáncer y defectos congénitos u otros daños reproductivos. Para obtener más información,<span> </span><a href="http://www.p65warnings.ca.gov/products/food" target="_blank">p65warnings.ca.gov/products/food</a>.</span></p>
+<p> </p>
+<!-- split -->
+<p>Colágeno hidrolizado alimentado con hierba, Aceite de coco en polvo, Sabores naturales, Triglicéridos de cadena media, Extracto de fruta monk. No hay azúcares añadidos ni edulcorantes artificiales.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0818/7575/products/Nutrition-Facts-Collagen-Creamer-Vanilla_large.png?v=1543683608" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#generalfunnel</s:tag>
+    <s:tag>dairy-free</s:tag>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>keto-friendly</s:tag>
+    <s:tag>non-gmo</s:tag>
+    <s:tag>paleo-friendly</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>soy-free</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/1984830603377</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>CCRDRK01</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/es/products/1945191252081</id>
+    <published>2018-11-21T20:27:29-05:00</published>
+    <updated>2018-11-21T20:27:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/es/products/collagen-fiber-bar-in-chocolate-coconut"/>
+    <title>Barra de fibra de colágeno - Cocón de chocolate</title>
+    <s:type>SLIM Bar</s:type>
+    <s:vendor>DISK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/files/dka_Fiberbar_Box_12count_051225a.png?v=1747075402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>DISK<br>
+        <strong>Tipo: </strong>SLIM Bar<br>
+        <strong>Precio: </strong>
+            35.00 - 67.00
+            <a href="https://drkellyann.com/es/products/collagen-fiber-bar-in-chocolate-coconut">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">¡12 barras llenas de coco cremoso cubiertas de chocolate oscuro rico vienen en cada caja!<br>
+<ul>
+<li>17 gramos de fibra</li>
+<li>3 gramos de carbohidratos netas</li>
+<li>5 gramos de colágeno</li>
+<li>Libre de soja</li>
+<li>Sin gluten</li>
+<li>Sin azúcar añadido</li>
+<li>No GMO</li>
+</ul>
+<p>¿Quieres perder peso, reducir la grasa corporal, permanecer "regular", y mantener tus microbios intestinales felices? Entonces necesitas tener suficiente fibra todos los días. Eso es de 25 a 30 gramos para mujeres, y 30-38 para hombres.</p>
+<p>Este rico y decadente bar le da un impresionante 17 gramos de fibra. Y es el mejor tipo de fibra: Fibra natural, soluble, prebiótica que ayuda a su cuerpo a absorber los minerales clave, mantiene su sistema digestivo que se está ejecutando sin problemas, mejora su función inmune y hace que su brillo de microbioma intestino.</p>
+<p>Este bar está tan satisfactorio que mantiene a los antojos por horas para que se mantenga enfocado. ¡Tal vez lo mejor de todo, es rico en colágeno para la piel hermosa!</p>
+<p>¡12 deliciosas barras de fibra de colágeno vienen en cada caja!</p>
+<p class="p1"> </p>
+<p><span style="font-size: xx-small;" size="1" data-mce-style="font-size: xx-small;">California PROP 65 ADVERTENCIA</span></p>
+<p><span style="font-size: xx-small;" size="1" data-mce-style="font-size: xx-small;"><meta charset="utf-8"> <img alt="" src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461">ADVERTENCIA: El consumo del caldo óseo en este producto puede exponerlo a los productos químicos, incluido el plomo, que es conocido por el estado de California para causar cáncer y defectos de nacimiento u otro daño reproductivo. Para más información vaya a<span> </span><a href="http://www.p65warnings.ca.gov/products/food" target="_blank">p65warnings.ca.gov/products/food</a>.</span></p>
+<!-- split -->
+<p class="p2"><span class="s1"> </span><b><i>Ingredientes:</i></b>Copos de coco, recubrimiento de chocolate (inulina, aceite de palma, cacao procesado con álcali, lecitina de girasol, extracto de stevia (leche)), inulina (fibra prebiótica de la raíz de la achicoria), colágeno hidrolizado bovino con hierba, acacia, sal marina, stevia, Extracto puro de vainilla.<b>Contiene:<span> </span></b>Leche.</p>
+<div class="gmail_default"><em>Fabricado en una instalación que procesa leche, soja, huevo, trigo, cacahuetes y tuercas de árboles.</em></div>
+<p class="p3"><i><br>No hay azúcares añadidos o edulcorantes artificiales.</i></p>
+<p class="p3"> </p>
+<p class="p3"><img src="//cdn.shopify.com/s/files/1/0818/7575/products/Nutrition-Label-Chocolate-Coconut-Fiber-Bar_large.png?v=1542853286" alt=""></p>
+<p class="p3"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#generalfunnel</s:tag>
+    <s:tag>bestseller</s:tag>
+    <s:tag>keto-friendly</s:tag>
+    <s:tag>non-gmo</s:tag>
+    <s:tag>paleo-friendly</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/1945191252081</id>
+      <title>1 BOX</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>BRFIBCOCNDRK</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/1945191252081</id>
+      <title>2 BOXES</title>
+      <s:price currency="USD">67.00</s:price>
+      <s:sku>BRFIBCOCNDRK02</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drkellyann.com/es/products/57099812884</id>
+    <published>2017-12-19T05:28:44-05:00</published>
+    <updated>2017-12-19T05:28:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://drkellyann.com/es/products/collagen-hot-cocoa"/>
+    <title>Cacao caliente de colágeno</title>
+    <s:type>Hot Chocolate</s:type>
+    <s:vendor>DISK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/7575/files/DKA_Collagen_Cocoa_front.png?v=1726588341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>DISK<br>
+        <strong>Tipo: </strong>Hot Chocolate<br>
+        <strong>Precio: </strong>
+            23.00 - 184.00
+            <a href="https://drkellyann.com/es/products/collagen-hot-cocoa">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Colágeno</b><b> Cacao</b></p>
+<p><span style="font-weight: 400;">¿Te encanta acurrucarte con una taza caliente de cacao caliente en un día nevado de invierno, pero quieres evitar los azúcares añadidos poco saludables? Mi </span><span style="font-weight: 400;">Colágeno</span><span style="font-weight: 400;"> ¡El cacao es la solución perfecta para una taza de cacao saludable y caliente!</span></p>
+<p><span style="font-weight: 400;">Mezcle mi </span><span style="font-weight: 400;">Colágeno</span><span style="font-weight: 400;"> Cacao con leche de coco o almendras y disfrútalo como un reemplazo de comida caliente, o mézclalo con tus verduras, frutas y hielo favoritos para un batido satisfactorio.</span></p>
+<p><b>¿Qué hace </b><b>Colágeno</b><b> ¿hacer?</b></p>
+<ul>
+<li>
+<span style="font-weight: 400;"></span><span style="font-weight: 400;">Aumentar la pérdida de peso sin sentirse hambriento</span>
+</li>
+<li>
+<span style="font-weight: 400;"></span><span style="font-weight: 400;">Mejorar la salud de la piel, el intestino, el cabello, las uñas y el dolor articular</span>
+</li>
+<li>
+<span style="font-weight: 400;"></span><span style="font-weight: 400;">Detenga los antojos de azúcar y satisfaga su diente dulce</span>
+</li>
+</ul>
+<p><b>Beneficios para la salud de </b><b>Colágeno</b></p>
+<p><span style="font-weight: 400;">Preguntándose de qué se benefician los beneficios para la salud de </span><span style="font-weight: 400;">Colágeno</span><span style="font-weight: 400;"> ¿Son? </span><span style="font-weight: 400;">Colágeno</span><span style="font-weight: 400;"> puede conducir a una mejor salud intestinal, alivio de las articulaciones, salud de los órganos, y un aumento en la energía.</span></p>
+<ul>
+<li>
+<span style="font-weight: 400;"></span><span style="font-weight: 400;">Mejorar la comodidad de las articulaciones</span>
+</li>
+<li>
+<span style="font-weight: 400;"></span><span style="font-weight: 400;">Promover el grosor del cabello</span>
+</li>
+<li>
+<span style="font-weight: 400;"></span><span style="font-weight: 400;">Apoyar niveles saludables de azúcar en sangre</span>
+</li>
+<li>
+<span style="font-weight: 400;"></span><span style="font-weight: 400;">Apoyar la piel sana</span>
+</li>
+<li>
+<span style="font-weight: 400;"></span><span style="font-weight: 400;">Apoyar la salud intestinal</span>
+</li>
+</ul>
+<p><span style="font-weight: 400;">No esperes ni un momento más para mejorar tu salud.</span> </p>
+<p data-mce-fragment="1">  </p>
+<p><span style="font-size: xx-small;" size="1" data-mce-style="font-size: xx-small;">Advertencia de la Prop 65 de California</span></p>
+<p><span style="font-size: xx-small;" size="1" data-mce-style="font-size: xx-small;"><meta charset="utf-8">
+<img alt="" src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461" data-mce-src="https://cdn.shopify.com/s/files/1/0818/7575/files/warning_b_w_480x480.png?v=1610497461" data-mce-fragment="1">ADVERTENCIA: Consumir el caldo óseo en este producto puede exponerlo a sustancias químicas como el plomo que es conocido por el estado de California para causar cáncer y defectos congénitos u otros daños reproductivos. Para obtener más información,<span> </span><a href="http://www.p65warnings.ca.gov/products/food" data-mce-href="http://www.p65warnings.ca.gov/products/food" target="_blank">p65warnings.ca.gov/products/food</a>.</span></p>
+<p data-mce-fragment="1"> </p>
+<p><!-- split --></p>
+<img alt="" src="//cdn2.shopify.com/s/files/1/0818/7575/products/DKA_Cocoa_NFP_5c81e9bc-8c66-4473-91e2-2dc592282511_large.jpg?v=1558631000"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#generalfunnel</s:tag>
+    <s:tag>dairy-free</s:tag>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>keto-friendly</s:tag>
+    <s:tag>non-gmo</s:tag>
+    <s:tag>paleo-friendly</s:tag>
+    <s:tag>shipping_international</s:tag>
+    <s:tag>soy-free</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/57099812884</id>
+      <title>1 Box</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CCOCODRK01</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/57099812884</id>
+      <title>3 cajas</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>CCOCODRK03</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/57099812884</id>
+      <title>5 cajas</title>
+      <s:price currency="USD">103.50</s:price>
+      <s:sku>CCOCODRK05</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://drkellyann.com/es/products/57099812884</id>
+      <title>10 Cajas</title>
+      <s:price currency="USD">184.00</s:price>
+      <s:sku>CCOCODRK10</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

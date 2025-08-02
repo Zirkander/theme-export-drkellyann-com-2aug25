@@ -1,0 +1,36 @@
+.recommended-products {
+  padding: 37px 0 55px 15px;
+}
+
+.recommended-products__inner {
+  padding-left: 15px;
+}
+
+.recommended-products__title {
+  font-family: var(--font-open-sans) !important;
+  font-size: 24px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.recommended-products__actions {
+  margin-top: 20px;
+}
+
+.swiper-slide {
+  width: 311px;
+  height: auto;
+  display: flex;
+  flex-flow: column nowrap;
+  align-self: stretch;
+}
+
+@media (min-width: 990px) {
+  .recommended-products {
+    padding: 76px 0 55px;
+  }
+
+  .recommended-products__inner {
+    padding-left: 5.70vw;
+  }
+}
